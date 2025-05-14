@@ -1,0 +1,1001 @@
+Num_Acc,inverse_data,week_day,state,severity,weather,location,hrmn,lum,vehicle_type,vehicle_model,engine_size,driver_sex,driver_age,car_age,casualty_severity,casualty_age,casualty_sex,social_class,casualty_type,pedestrian_or_passenger,cause
+AID0001,20-11-2022,T,WB,Minor,Storm,Loc91,1958,Daylight,Car,Model41,1089,M,48,20,Fatal,33,M,Upper,Pedestrian,Pedestrian,Traffic Control
+AID0002,09-12-2023,T,TR,Severe,Fog,Loc184,2245,Daylight,Car,Model1,2653,F,21,10,Slight,9,M,Middle,Pedestrian,Pedestrian,Traffic Control
+AID0003,12-11-2022,W,HP,Moderate,Fog,Loc77,250,Twilight,Car,Model21,2997,M,62,6,Slight,45,F,Working,Car Passenger,Pedestrian,Traffic Control
+AID0004,13-02-2023,T,CG,Severe,Clear,Loc78,545,Night,Motorcycle,Model30,2079,M,26,18,Serious,59,M,Working,Motorcyclist,Pedestrian,Traffic Control
+AID0005,25-11-2022,S,TR,Moderate,Storm,Loc57,2146,Twilight,Car,Model23,2279,M,20,2,Serious,30,F,Working,Cyclist,Pedestrian,Traffic Control
+AID0006,14-09-2022,T,HR,Moderate,Fog,Loc179,2206,Night,Truck,Model33,807,M,52,5,Fatal,8,M,Working,Motorcyclist,Pedestrian,Traffic Control
+AID0007,11-07-2023,T,MP,Moderate,Rain,Loc85,719,Daylight,Bus,Model28,2556,M,19,5,Fatal,59,F,Middle,Cyclist,Passenger,Overspeeding
+AID0008,29-10-2023,S,AR,Minor,Clear,Loc30,1912,Night,Bus,Model24,1901,F,31,9,Slight,66,M,Working,Car Passenger,Pedestrian,Overspeeding
+AID0009,19-12-2023,T,SK,Severe,Storm,Loc58,508,Night,Car,Model35,2238,F,68,6,Slight,13,M,Working,Cyclist,Pedestrian,Overspeeding
+AID0010,16-09-2023,W,GA,Severe,Clear,Loc48,1340,Night,Truck,Model16,2684,M,22,7,Fatal,14,M,Working,Car Passenger,Pedestrian,Overspeeding
+AID0011,27-07-2022,T,GJ,Severe,Clear,Loc129,118,Night,Car,Model20,1047,M,42,12,Slight,57,M,Middle,Motorcyclist,Passenger,Overspeeding
+AID0012,17-11-2022,M,RJ,Moderate,Storm,Loc31,520,Night,Motorcycle,Model26,1884,F,65,14,Slight,29,M,Working,Pedestrian,Passenger,Overspeeding
+AID0013,23-09-2023,W,HR,Minor,Fog,Loc54,1900,Twilight,Bus,Model22,2414,M,62,8,Serious,55,M,Middle,Car Passenger,Pedestrian,Overspeeding
+AID0014,15-10-2022,S,BR,Minor,Clear,Loc8,2120,Daylight,Car,Model23,1543,F,51,2,Slight,25,M,Upper,Car Passenger,Pedestrian,Overspeeding
+AID0015,06-03-2022,W,HP,Severe,Fog,Loc175,2112,Daylight,Motorcycle,Model4,2521,F,28,8,Slight,28,M,Middle,Motorcyclist,Passenger,Overspeeding
+AID0016,08-12-2023,F,KL,Severe,Rain,Loc161,227,Daylight,Bus,Model9,2995,F,65,7,Fatal,28,F,Middle,Cyclist,Passenger,Overspeeding
+AID0017,02-07-2023,S,HP,Severe,Storm,Loc46,1218,Daylight,Bus,Model20,814,F,62,1,Slight,18,M,Working,Cyclist,Pedestrian,Overspeeding
+AID0018,07-06-2023,F,WB,Severe,Fog,Loc17,446,Night,Car,Model39,1912,M,28,4,Slight,26,M,Upper,Pedestrian,Passenger,Traffic Control
+AID0019,31-03-2023,S,AS,Severe,Snow,Loc152,1409,Night,Truck,Model5,2615,M,31,2,Slight,21,F,Working,Motorcyclist,Pedestrian,Traffic Control
+AID0020,13-11-2023,M,AS,Severe,Rain,Loc112,2129,Daylight,Bus,Model7,2625,M,50,19,Fatal,35,F,Upper,Car Passenger,Passenger,Traffic Control
+AID0021,30-10-2023,M,RJ,Moderate,Storm,Loc170,409,Night,Car,Model4,1542,F,61,16,Slight,23,M,Upper,Pedestrian,Passenger,Traffic Control
+AID0022,14-02-2023,M,SK,Moderate,Rain,Loc31,956,Twilight,Car,Model30,1806,F,21,1,Slight,42,F,Upper,Car Passenger,Pedestrian,Traffic Control
+AID0023,15-05-2023,W,ML,Minor,Fog,Loc196,916,Night,Motorcycle,Model3,2213,F,58,15,Serious,56,M,Upper,Car Passenger,Passenger,Traffic Control
+AID0024,19-07-2023,S,TR,Moderate,Clear,Loc20,18,Daylight,Motorcycle,Model32,1827,F,62,15,Fatal,54,M,Upper,Cyclist,Passenger,Traffic Control
+AID0025,06-10-2022,W,MH,Moderate,Storm,Loc181,738,Twilight,Car,Model5,1114,F,68,3,Serious,75,F,Working,Cyclist,Pedestrian,Traffic Control
+AID0026,03-09-2023,W,DL,Severe,Rain,Loc149,2224,Night,Car,Model14,2406,F,18,7,Slight,47,M,Working,Car Passenger,Pedestrian,Traffic Control
+AID0027,29-12-2022,S,UK,Severe,Storm,Loc60,1246,Daylight,Car,Model19,1766,M,42,13,Serious,7,F,Upper,Car Passenger,Pedestrian,Traffic Control
+AID0028,10-12-2023,S,MH,Severe,Fog,Loc45,1403,Night,Motorcycle,Model39,1553,F,49,14,Slight,27,M,Working,Car Passenger,Pedestrian,Traffic Control
+AID0029,29-05-2023,S,MP,Moderate,Storm,Loc73,215,Daylight,Truck,Model37,2205,F,66,6,Serious,45,M,Upper,Cyclist,Passenger,Traffic Control
+AID0030,26-03-2022,T,HP,Minor,Clear,Loc17,724,Night,Truck,Model16,2469,F,42,16,Fatal,47,M,Working,Cyclist,Passenger,Traffic Control
+AID0031,12-02-2022,S,MZ,Severe,Snow,Loc101,542,Twilight,Bus,Model18,1687,M,34,5,Serious,57,M,Working,Motorcyclist,Pedestrian,Traffic Control
+AID0032,05-02-2023,T,OD,Severe,Snow,Loc13,1035,Night,Bus,Model36,1563,M,45,5,Slight,24,F,Working,Motorcyclist,Passenger,Traffic Control
+AID0033,26-02-2022,T,HP,Severe,Fog,Loc37,111,Twilight,Truck,Model44,2546,M,47,2,Fatal,41,F,Upper,Motorcyclist,Passenger,Traffic Control
+AID0034,19-03-2023,M,ML,Severe,Snow,Loc29,2116,Twilight,Motorcycle,Model40,2675,M,55,10,Serious,74,M,Upper,Cyclist,Pedestrian,Traffic Control
+AID0035,29-11-2022,F,SK,Moderate,Clear,Loc19,2028,Twilight,Car,Model43,1318,F,35,6,Slight,8,M,Working,Cyclist,Pedestrian,Traffic Control
+AID0036,25-11-2023,M,MN,Minor,Clear,Loc18,1356,Night,Car,Model28,2765,M,55,3,Fatal,31,F,Upper,Car Passenger,Pedestrian,Traffic Control
+AID0037,25-11-2022,W,MZ,Moderate,Snow,Loc107,234,Daylight,Car,Model1,2672,F,31,8,Fatal,19,M,Working,Car Passenger,Passenger,Traffic Control
+AID0038,25-12-2023,W,MZ,Severe,Fog,Loc115,2132,Twilight,Bus,Model6,1409,F,22,0,Serious,40,M,Upper,Motorcyclist,Pedestrian,Traffic Control
+AID0039,07-11-2023,S,JH,Moderate,Snow,Loc11,39,Daylight,Truck,Model17,2503,M,32,19,Slight,42,F,Working,Car Passenger,Passenger,Traffic Control
+AID0040,03-07-2023,S,MZ,Moderate,Fog,Loc171,509,Daylight,Bus,Model42,842,M,32,13,Serious,18,F,Middle,Motorcyclist,Passenger,Traffic Control
+AID0041,09-03-2023,F,NL,Severe,Fog,Loc58,1804,Night,Truck,Model33,1965,F,34,13,Fatal,24,F,Middle,Cyclist,Pedestrian,Traffic Control
+AID0042,10-09-2022,S,TN,Minor,Snow,Loc78,1305,Twilight,Motorcycle,Model28,2054,F,66,8,Serious,20,F,Working,Motorcyclist,Passenger,Traffic Control
+AID0043,13-08-2022,S,HP,Moderate,Clear,Loc19,2014,Night,Motorcycle,Model6,910,F,49,13,Slight,10,F,Upper,Cyclist,Passenger,Traffic Control
+AID0044,23-10-2022,T,ML,Moderate,Rain,Loc16,515,Twilight,Motorcycle,Model5,1618,F,55,1,Serious,52,M,Upper,Cyclist,Passenger,Traffic Control
+AID0045,10-08-2023,M,UP,Minor,Rain,Loc128,2258,Daylight,Motorcycle,Model24,2289,M,69,14,Fatal,55,M,Middle,Pedestrian,Passenger,Traffic Control
+AID0046,27-06-2022,S,HP,Severe,Rain,Loc70,38,Twilight,Bus,Model29,2664,F,31,3,Slight,44,M,Upper,Pedestrian,Passenger,Traffic Control
+AID0047,16-03-2022,W,BR,Minor,Rain,Loc132,1832,Daylight,Motorcycle,Model46,984,M,32,19,Slight,57,F,Working,Pedestrian,Passenger,Traffic Control
+AID0048,03-10-2022,W,JH,Severe,Fog,Loc22,532,Night,Bus,Model42,2502,M,19,3,Slight,12,M,Middle,Pedestrian,Passenger,Traffic Control
+AID0049,14-09-2022,M,ML,Minor,Fog,Loc147,1831,Daylight,Car,Model10,1481,M,41,3,Fatal,22,M,Working,Cyclist,Pedestrian,Traffic Control
+AID0050,27-05-2022,M,MZ,Severe,Rain,Loc54,23,Daylight,Bus,Model17,1271,M,47,16,Fatal,73,F,Middle,Cyclist,Pedestrian,Traffic Control
+AID0051,04-06-2023,T,GA,Moderate,Snow,Loc53,1108,Night,Motorcycle,Model31,2143,M,35,13,Serious,69,M,Middle,Car Passenger,Passenger,Traffic Control
+AID0052,01-10-2023,F,JH,Moderate,Rain,Loc30,2041,Night,Car,Model36,1533,F,47,17,Slight,61,M,Upper,Motorcyclist,Passenger,Traffic Control
+AID0053,14-10-2022,W,MZ,Moderate,Storm,Loc69,751,Night,Truck,Model40,2586,M,45,9,Slight,80,M,Middle,Cyclist,Pedestrian,Traffic Control
+AID0054,15-08-2023,M,AR,Moderate,Storm,Loc139,1537,Twilight,Truck,Model50,1295,F,49,1,Fatal,3,F,Upper,Cyclist,Pedestrian,Traffic Control
+AID0055,24-12-2023,S,BR,Severe,Clear,Loc184,1455,Daylight,Motorcycle,Model9,2631,F,58,16,Slight,16,M,Upper,Motorcyclist,Pedestrian,Traffic Control
+AID0056,24-09-2022,T,TR,Minor,Fog,Loc190,559,Night,Car,Model37,1254,F,51,13,Fatal,43,F,Upper,Motorcyclist,Pedestrian,Traffic Control
+AID0057,29-04-2023,S,RJ,Moderate,Clear,Loc136,305,Daylight,Bus,Model46,2087,M,22,2,Slight,53,F,Working,Car Passenger,Passenger,Traffic Control
+AID0058,03-08-2023,M,CG,Moderate,Clear,Loc161,1631,Night,Bus,Model21,1028,M,27,17,Slight,33,F,Middle,Car Passenger,Passenger,Traffic Control
+AID0059,13-04-2023,F,HP,Minor,Clear,Loc131,1630,Twilight,Bus,Model21,2332,M,54,5,Serious,49,F,Working,Cyclist,Pedestrian,Traffic Control
+AID0060,03-11-2023,W,UK,Severe,Clear,Loc25,925,Daylight,Car,Model42,2977,F,53,0,Slight,32,F,Working,Car Passenger,Pedestrian,Traffic Control
+AID0061,07-01-2022,F,MH,Moderate,Rain,Loc96,941,Night,Motorcycle,Model48,2220,F,68,3,Fatal,17,F,Middle,Car Passenger,Passenger,Traffic Control
+AID0062,24-05-2023,S,DL,Minor,Fog,Loc174,1409,Twilight,Bus,Model49,2377,F,26,7,Serious,62,F,Upper,Cyclist,Passenger,Traffic Control
+AID0063,06-04-2022,F,AS,Moderate,Rain,Loc111,1624,Daylight,Bus,Model50,830,F,59,12,Fatal,59,M,Middle,Motorcyclist,Passenger,Traffic Control
+AID0064,08-07-2022,T,RJ,Minor,Clear,Loc70,1507,Twilight,Truck,Model28,1237,M,61,4,Slight,68,F,Middle,Motorcyclist,Pedestrian,Traffic Control
+AID0065,20-09-2022,M,KA,Severe,Storm,Loc35,235,Night,Car,Model13,1391,M,64,11,Fatal,34,M,Middle,Cyclist,Pedestrian,Traffic Control
+AID0066,27-06-2022,S,MH,Minor,Storm,Loc188,1058,Night,Truck,Model34,2205,M,54,5,Fatal,31,F,Working,Car Passenger,Passenger,Traffic Control
+AID0067,29-04-2023,M,RJ,Minor,Snow,Loc134,446,Night,Motorcycle,Model9,2277,F,23,12,Fatal,56,M,Working,Motorcyclist,Passenger,Traffic Control
+AID0068,17-02-2022,W,KL,Moderate,Fog,Loc112,1143,Daylight,Bus,Model39,2093,F,58,10,Fatal,60,M,Upper,Cyclist,Pedestrian,Traffic Control
+AID0069,20-11-2023,S,PB,Severe,Rain,Loc103,1628,Night,Truck,Model44,1918,M,59,14,Slight,10,M,Upper,Motorcyclist,Passenger,Traffic Control
+AID0070,19-12-2023,S,MZ,Minor,Snow,Loc76,1102,Twilight,Bus,Model28,1606,M,50,14,Slight,78,F,Working,Pedestrian,Passenger,Traffic Control
+AID0071,29-06-2023,M,HP,Moderate,Storm,Loc114,1142,Night,Car,Model25,2870,F,57,20,Slight,27,F,Upper,Motorcyclist,Passenger,Traffic Control
+AID0072,09-11-2023,S,UP,Moderate,Clear,Loc55,1943,Daylight,Motorcycle,Model3,2204,M,37,6,Slight,32,M,Middle,Car Passenger,Pedestrian,Traffic Control
+AID0073,18-12-2023,W,MN,Moderate,Clear,Loc127,2206,Night,Bus,Model21,1204,M,22,9,Fatal,80,M,Working,Cyclist,Passenger,Traffic Control
+AID0074,01-09-2023,W,NL,Moderate,Clear,Loc169,2256,Daylight,Truck,Model28,2174,M,36,11,Fatal,56,M,Upper,Car Passenger,Pedestrian,Traffic Control
+AID0075,16-06-2022,M,GJ,Severe,Snow,Loc49,1257,Twilight,Truck,Model39,925,M,24,15,Fatal,1,M,Working,Cyclist,Passenger,Traffic Control
+AID0076,28-01-2023,T,UK,Severe,Fog,Loc191,824,Twilight,Truck,Model24,2459,M,56,18,Slight,47,F,Middle,Car Passenger,Passenger,Traffic Control
+AID0077,27-11-2023,S,OD,Moderate,Rain,Loc34,1846,Twilight,Truck,Model17,1677,M,22,19,Serious,4,F,Working,Car Passenger,Passenger,Traffic Control
+AID0078,05-10-2022,F,TR,Minor,Fog,Loc4,425,Daylight,Motorcycle,Model47,1033,F,28,2,Serious,39,M,Middle,Cyclist,Pedestrian,Traffic Control
+AID0079,30-12-2022,S,HP,Severe,Fog,Loc12,219,Night,Bus,Model2,1510,F,60,19,Serious,35,F,Working,Pedestrian,Pedestrian,Traffic Control
+AID0080,10-07-2023,W,PB,Minor,Storm,Loc107,1953,Daylight,Car,Model33,1754,M,65,19,Slight,3,F,Middle,Cyclist,Pedestrian,Traffic Control
+AID0081,05-10-2023,M,MN,Severe,Snow,Loc109,839,Twilight,Bus,Model38,1631,M,42,5,Slight,61,M,Working,Car Passenger,Passenger,Traffic Control
+AID0082,16-09-2023,T,UP,Minor,Snow,Loc89,954,Night,Car,Model21,1694,M,66,1,Fatal,4,F,Middle,Cyclist,Pedestrian,Traffic Control
+AID0083,22-09-2023,W,MP,Moderate,Rain,Loc170,631,Daylight,Motorcycle,Model33,906,F,37,17,Serious,58,M,Working,Pedestrian,Pedestrian,Traffic Control
+AID0084,29-06-2023,S,UP,Moderate,Snow,Loc101,1129,Night,Bus,Model41,1616,M,28,10,Slight,13,F,Upper,Motorcyclist,Passenger,Traffic Control
+AID0085,10-02-2022,M,BR,Moderate,Clear,Loc39,1402,Daylight,Bus,Model43,1220,M,28,17,Fatal,1,M,Upper,Motorcyclist,Passenger,Traffic Control
+AID0086,30-03-2022,T,DL,Moderate,Snow,Loc132,239,Twilight,Truck,Model34,1574,F,43,11,Slight,14,M,Upper,Cyclist,Pedestrian,Traffic Control
+AID0087,05-12-2023,T,MN,Minor,Fog,Loc132,1725,Night,Motorcycle,Model47,2987,F,48,18,Serious,44,M,Working,Cyclist,Passenger,Traffic Control
+AID0088,12-02-2023,M,CG,Minor,Rain,Loc165,1406,Daylight,Car,Model32,992,F,65,14,Slight,24,M,Middle,Motorcyclist,Passenger,Traffic Control
+AID0089,15-04-2022,S,OD,Moderate,Fog,Loc151,2139,Night,Motorcycle,Model50,2724,M,50,17,Slight,65,M,Upper,Motorcyclist,Pedestrian,Traffic Control
+AID0090,26-02-2022,M,AR,Severe,Snow,Loc120,1437,Night,Motorcycle,Model34,2711,F,26,7,Slight,25,M,Working,Motorcyclist,Passenger,Traffic Control
+AID0091,31-10-2023,F,AR,Minor,Storm,Loc61,1016,Night,Motorcycle,Model50,1040,F,66,6,Serious,55,M,Middle,Car Passenger,Pedestrian,Traffic Control
+AID0092,03-04-2023,T,CG,Moderate,Rain,Loc175,2341,Daylight,Truck,Model43,974,F,25,5,Fatal,52,F,Middle,Cyclist,Pedestrian,Traffic Control
+AID0093,21-08-2022,S,UP,Moderate,Clear,Loc19,1441,Daylight,Bus,Model10,2035,F,38,13,Slight,35,M,Middle,Pedestrian,Passenger,Traffic Control
+AID0094,10-11-2022,S,TR,Moderate,Rain,Loc29,1111,Daylight,Truck,Model40,906,F,49,19,Slight,30,F,Working,Cyclist,Pedestrian,Traffic Control
+AID0095,24-01-2022,S,TR,Minor,Snow,Loc127,1214,Night,Motorcycle,Model33,1730,F,36,15,Serious,12,F,Middle,Pedestrian,Passenger,Traffic Control
+AID0096,23-12-2022,F,OD,Severe,Clear,Loc125,222,Daylight,Bus,Model12,871,F,28,18,Fatal,48,F,Middle,Cyclist,Passenger,Traffic Control
+AID0097,31-10-2023,S,DL,Moderate,Snow,Loc169,1513,Daylight,Motorcycle,Model37,2628,F,46,10,Slight,32,M,Upper,Cyclist,Passenger,Traffic Control
+AID0098,22-07-2022,S,PB,Minor,Clear,Loc186,157,Twilight,Car,Model4,2089,F,33,2,Serious,64,M,Upper,Motorcyclist,Pedestrian,Traffic Control
+AID0099,10-01-2022,S,WB,Severe,Clear,Loc72,1638,Twilight,Motorcycle,Model9,2908,M,34,11,Serious,30,M,Upper,Car Passenger,Passenger,Traffic Control
+AID0100,26-02-2023,T,KA,Minor,Storm,Loc79,815,Daylight,Bus,Model18,1335,F,69,9,Slight,36,F,Upper,Car Passenger,Passenger,Traffic Control
+AID0101,18-07-2022,F,MH,Moderate,Snow,Loc17,1648,Night,Car,Model50,2825,M,65,19,Slight,28,M,Working,Car Passenger,Pedestrian,Traffic Control
+AID0102,26-02-2023,M,OD,Severe,Rain,Loc4,410,Night,Truck,Model44,1290,F,59,10,Slight,77,F,Working,Motorcyclist,Passenger,Traffic Control
+AID0103,13-11-2022,W,RJ,Moderate,Rain,Loc94,456,Twilight,Truck,Model37,1114,M,18,7,Slight,24,F,Middle,Motorcyclist,Passenger,Traffic Control
+AID0104,09-04-2022,W,HR,Moderate,Storm,Loc123,539,Twilight,Motorcycle,Model43,2285,F,23,10,Slight,35,M,Working,Motorcyclist,Passenger,Traffic Control
+AID0105,14-05-2023,F,UP,Moderate,Clear,Loc31,409,Twilight,Motorcycle,Model42,2558,F,50,17,Slight,18,F,Upper,Car Passenger,Pedestrian,Traffic Control
+AID0106,06-05-2022,T,SK,Minor,Fog,Loc153,1819,Twilight,Bus,Model20,2973,M,49,14,Serious,67,M,Middle,Pedestrian,Pedestrian,Traffic Control
+AID0107,18-07-2023,F,HP,Severe,Clear,Loc199,1526,Daylight,Truck,Model13,1956,F,34,4,Slight,6,M,Middle,Cyclist,Pedestrian,Road Features
+AID0108,22-09-2023,T,AR,Moderate,Storm,Loc118,1410,Twilight,Car,Model2,1237,F,53,10,Fatal,3,F,Upper,Cyclist,Passenger,Road Features
+AID0109,21-05-2022,T,PB,Severe,Fog,Loc167,4,Twilight,Car,Model32,814,F,56,0,Serious,14,F,Middle,Motorcyclist,Passenger,Road Features
+AID0110,19-01-2023,T,JH,Moderate,Fog,Loc80,201,Night,Bus,Model8,2934,M,28,9,Fatal,21,M,Working,Cyclist,Passenger,Road Features
+AID0111,20-11-2022,T,CG,Moderate,Storm,Loc7,151,Daylight,Truck,Model45,1262,M,33,10,Slight,75,F,Upper,Cyclist,Passenger,Road Features
+AID0112,22-11-2023,S,GA,Moderate,Snow,Loc43,1443,Daylight,Motorcycle,Model21,2473,M,42,4,Fatal,65,M,Upper,Car Passenger,Pedestrian,Road Features
+AID0113,26-07-2023,W,WB,Severe,Storm,Loc153,335,Twilight,Bus,Model1,1315,M,35,4,Slight,18,M,Middle,Cyclist,Pedestrian,Road Features
+AID0114,18-12-2023,F,NL,Moderate,Rain,Loc156,1316,Twilight,Truck,Model24,2986,M,67,14,Serious,53,F,Middle,Motorcyclist,Passenger,Road Features
+AID0115,15-02-2023,M,MH,Severe,Fog,Loc7,1934,Twilight,Car,Model5,2952,F,56,18,Slight,57,M,Upper,Car Passenger,Passenger,Road Features
+AID0116,09-08-2023,W,RJ,Severe,Storm,Loc194,532,Twilight,Bus,Model8,861,F,46,1,Fatal,75,M,Middle,Cyclist,Pedestrian,Road Features
+AID0117,09-02-2022,M,MN,Minor,Rain,Loc54,1043,Night,Truck,Model24,1285,M,35,9,Fatal,16,F,Middle,Cyclist,Passenger,Road Features
+AID0118,13-04-2023,T,AS,Moderate,Fog,Loc86,417,Twilight,Bus,Model15,1099,M,62,7,Slight,70,M,Working,Cyclist,Pedestrian,Road Features
+AID0119,25-03-2022,S,DL,Moderate,Fog,Loc182,1700,Twilight,Car,Model44,1166,F,54,19,Slight,2,M,Middle,Car Passenger,Passenger,Road Features
+AID0120,06-09-2023,M,RJ,Severe,Fog,Loc84,1525,Daylight,Bus,Model24,1961,M,45,3,Fatal,31,M,Upper,Car Passenger,Pedestrian,Road Features
+AID0121,14-10-2022,W,AP,Moderate,Fog,Loc163,1959,Twilight,Truck,Model27,2520,F,59,20,Slight,20,M,Working,Cyclist,Pedestrian,Road Features
+AID0122,25-08-2023,W,TN,Severe,Storm,Loc114,801,Night,Truck,Model44,2477,F,68,18,Slight,13,F,Middle,Car Passenger,Pedestrian,Road Features
+AID0123,14-03-2023,S,OD,Moderate,Rain,Loc54,1107,Night,Truck,Model11,1312,F,41,19,Serious,41,F,Middle,Pedestrian,Passenger,Road Features
+AID0124,01-02-2022,T,HP,Minor,Fog,Loc153,821,Daylight,Truck,Model18,1922,M,56,0,Slight,48,M,Working,Cyclist,Pedestrian,Road Features
+AID0125,28-11-2023,S,AR,Minor,Clear,Loc114,535,Night,Motorcycle,Model15,1511,F,65,10,Serious,17,M,Working,Pedestrian,Passenger,Road Features
+AID0126,15-05-2022,T,MP,Minor,Snow,Loc53,1630,Night,Bus,Model9,2752,F,67,19,Fatal,47,F,Middle,Cyclist,Pedestrian,Road Features
+AID0127,02-06-2022,F,BR,Moderate,Rain,Loc25,1124,Night,Bus,Model43,1180,M,27,13,Slight,78,M,Middle,Car Passenger,Pedestrian,Road Features
+AID0128,18-04-2023,S,AR,Severe,Snow,Loc168,341,Twilight,Motorcycle,Model1,2951,F,60,5,Serious,44,F,Working,Motorcyclist,Passenger,Road Features
+AID0129,18-04-2023,S,HR,Moderate,Rain,Loc61,1048,Night,Truck,Model6,1990,M,52,20,Slight,61,F,Working,Pedestrian,Pedestrian,Road Features
+AID0130,15-08-2023,S,HR,Minor,Fog,Loc121,1935,Daylight,Truck,Model37,2512,F,43,12,Serious,8,M,Upper,Motorcyclist,Pedestrian,Road Features
+AID0131,01-05-2023,T,MZ,Severe,Storm,Loc148,400,Daylight,Truck,Model9,2272,M,28,0,Serious,22,M,Middle,Cyclist,Passenger,Road Features
+AID0132,05-09-2022,T,ML,Moderate,Snow,Loc147,405,Twilight,Bus,Model14,1695,F,44,4,Serious,62,F,Middle,Cyclist,Passenger,Road Features
+AID0133,13-03-2023,S,TN,Severe,Snow,Loc93,1148,Twilight,Truck,Model38,2423,M,25,2,Slight,39,F,Middle,Cyclist,Pedestrian,Road Features
+AID0134,29-05-2023,S,KL,Minor,Rain,Loc169,1751,Daylight,Truck,Model43,2079,F,41,14,Serious,14,F,Upper,Pedestrian,Passenger,Road Features
+AID0135,14-12-2023,T,HP,Moderate,Storm,Loc135,508,Daylight,Car,Model21,1077,F,21,4,Fatal,10,F,Middle,Car Passenger,Passenger,Road Features
+AID0136,26-10-2023,F,GA,Moderate,Snow,Loc137,1333,Night,Car,Model13,1044,F,41,7,Serious,79,F,Working,Pedestrian,Passenger,Road Features
+AID0137,11-04-2023,T,NL,Severe,Fog,Loc80,1553,Night,Car,Model19,2749,F,47,9,Fatal,57,F,Middle,Cyclist,Passenger,Road Features
+AID0138,16-11-2023,M,MN,Minor,Clear,Loc184,944,Twilight,Bus,Model40,1613,M,31,10,Fatal,73,M,Upper,Car Passenger,Pedestrian,Road Features
+AID0139,04-01-2023,F,DL,Moderate,Rain,Loc150,749,Twilight,Motorcycle,Model39,2386,F,69,20,Slight,70,F,Middle,Motorcyclist,Pedestrian,Road Features
+AID0140,04-11-2022,T,CG,Minor,Fog,Loc123,1224,Daylight,Motorcycle,Model1,1954,F,55,3,Serious,22,F,Upper,Car Passenger,Passenger,Road Features
+AID0141,11-10-2022,M,AP,Minor,Clear,Loc38,2309,Twilight,Motorcycle,Model47,2621,M,55,12,Serious,76,F,Working,Motorcyclist,Passenger,Road Features
+AID0142,19-08-2023,S,CG,Moderate,Clear,Loc196,1208,Twilight,Car,Model11,2781,F,54,16,Fatal,40,F,Upper,Cyclist,Pedestrian,Road Features
+AID0143,22-04-2023,S,MN,Moderate,Fog,Loc179,2137,Night,Truck,Model34,1648,M,50,12,Serious,39,F,Middle,Motorcyclist,Passenger,Road Features
+AID0144,26-02-2023,S,ML,Minor,Rain,Loc164,347,Night,Car,Model32,1268,F,53,14,Fatal,29,M,Upper,Car Passenger,Pedestrian,Road Features
+AID0145,29-12-2022,S,AP,Moderate,Rain,Loc183,1822,Twilight,Car,Model31,2661,F,66,2,Fatal,30,M,Working,Car Passenger,Pedestrian,Road Features
+AID0146,17-07-2022,M,WB,Severe,Snow,Loc173,751,Daylight,Motorcycle,Model43,2528,F,31,12,Serious,43,M,Upper,Car Passenger,Passenger,Road Features
+AID0147,15-11-2023,T,OD,Minor,Fog,Loc117,1124,Twilight,Bus,Model5,2410,M,49,10,Slight,36,F,Middle,Car Passenger,Passenger,Road Features
+AID0148,09-02-2022,S,UK,Minor,Fog,Loc183,1843,Daylight,Car,Model37,2125,M,66,2,Serious,68,F,Upper,Car Passenger,Pedestrian,Road Features
+AID0149,04-09-2022,M,HP,Moderate,Snow,Loc190,1424,Night,Bus,Model14,886,F,66,9,Fatal,56,M,Working,Cyclist,Passenger,Road Features
+AID0150,10-01-2022,S,HP,Severe,Clear,Loc33,1632,Night,Bus,Model35,1098,M,43,15,Serious,30,F,Working,Car Passenger,Passenger,Road Features
+AID0151,18-04-2022,S,JH,Severe,Fog,Loc136,1821,Daylight,Truck,Model38,1182,M,66,0,Fatal,56,M,Middle,Pedestrian,Pedestrian,Road Features
+AID0152,02-08-2023,T,MP,Moderate,Rain,Loc65,2103,Twilight,Bus,Model48,1012,M,18,6,Serious,44,F,Working,Car Passenger,Passenger,Road Features
+AID0153,18-03-2022,M,GJ,Moderate,Fog,Loc180,7,Twilight,Truck,Model2,1223,F,29,14,Slight,41,F,Upper,Pedestrian,Pedestrian,Road Features
+AID0154,21-05-2022,T,AP,Minor,Snow,Loc185,1703,Twilight,Motorcycle,Model14,1029,F,22,14,Slight,11,F,Middle,Car Passenger,Pedestrian,Road Features
+AID0155,02-03-2022,W,DL,Minor,Snow,Loc143,832,Twilight,Motorcycle,Model2,1951,F,36,0,Fatal,70,F,Middle,Pedestrian,Passenger,Road Features
+AID0156,03-03-2023,S,HP,Minor,Rain,Loc14,1042,Twilight,Motorcycle,Model2,2212,M,70,9,Serious,11,M,Working,Cyclist,Passenger,Road Features
+AID0157,27-10-2022,S,MP,Minor,Fog,Loc101,444,Night,Car,Model20,2996,F,58,2,Slight,64,M,Working,Motorcyclist,Passenger,Road Features
+AID0158,20-10-2022,T,NL,Minor,Storm,Loc88,111,Twilight,Motorcycle,Model42,1980,M,43,5,Slight,24,M,Upper,Pedestrian,Pedestrian,Road Features
+AID0159,03-06-2022,T,BR,Severe,Fog,Loc133,2046,Daylight,Bus,Model40,2458,M,52,13,Serious,19,M,Middle,Car Passenger,Passenger,Road Features
+AID0160,09-09-2023,W,CG,Minor,Snow,Loc83,752,Night,Truck,Model10,2805,M,40,19,Serious,11,M,Working,Car Passenger,Passenger,Road Features
+AID0161,23-10-2023,T,OD,Moderate,Fog,Loc129,1342,Night,Bus,Model45,1662,M,43,19,Fatal,14,M,Middle,Cyclist,Passenger,Road Features
+AID0162,16-02-2023,M,DL,Moderate,Storm,Loc169,604,Twilight,Bus,Model3,2455,M,40,5,Fatal,34,F,Upper,Motorcyclist,Passenger,Road Features
+AID0163,01-01-2023,S,BR,Moderate,Clear,Loc57,2053,Night,Car,Model30,2694,F,40,17,Serious,18,F,Middle,Car Passenger,Passenger,Road Features
+AID0164,29-04-2023,F,ML,Minor,Rain,Loc56,1141,Night,Motorcycle,Model38,1216,F,39,16,Serious,31,M,Upper,Cyclist,Passenger,Road Features
+AID0165,27-08-2022,M,HP,Severe,Snow,Loc93,702,Twilight,Car,Model39,2546,F,65,2,Slight,2,M,Middle,Motorcyclist,Pedestrian,Road Features
+AID0166,18-08-2022,W,AP,Severe,Snow,Loc142,220,Twilight,Bus,Model36,1978,F,28,12,Slight,38,M,Working,Pedestrian,Passenger,Road Features
+AID0167,04-03-2022,T,ML,Moderate,Snow,Loc36,101,Daylight,Motorcycle,Model20,1220,F,62,16,Fatal,50,F,Middle,Cyclist,Passenger,Road Features
+AID0168,25-05-2023,M,TR,Severe,Rain,Loc59,841,Night,Bus,Model40,2056,F,64,19,Slight,14,M,Working,Cyclist,Passenger,Road Features
+AID0169,06-03-2022,M,AP,Minor,Fog,Loc172,2024,Twilight,Motorcycle,Model50,1930,F,32,11,Serious,41,F,Middle,Cyclist,Passenger,Road Features
+AID0170,05-11-2023,T,SK,Minor,Rain,Loc95,1311,Daylight,Motorcycle,Model46,1761,F,32,20,Slight,32,M,Working,Cyclist,Passenger,Road Features
+AID0171,10-09-2022,T,HR,Severe,Fog,Loc38,1041,Daylight,Motorcycle,Model2,2724,F,35,19,Slight,65,F,Upper,Motorcyclist,Passenger,Road Features
+AID0172,07-10-2023,F,DL,Minor,Clear,Loc51,1541,Daylight,Bus,Model5,1815,F,42,20,Serious,69,M,Middle,Cyclist,Passenger,Road Features
+AID0173,11-11-2022,W,ML,Moderate,Snow,Loc121,1053,Twilight,Bus,Model11,2395,F,45,8,Serious,17,M,Working,Motorcyclist,Passenger,Road Features
+AID0174,29-06-2023,S,KA,Moderate,Snow,Loc116,756,Twilight,Bus,Model27,2867,F,64,8,Fatal,31,M,Working,Car Passenger,Pedestrian,Road Features
+AID0175,25-10-2022,S,BR,Minor,Snow,Loc31,546,Daylight,Car,Model37,1298,M,48,6,Fatal,35,M,Upper,Car Passenger,Pedestrian,Road Features
+AID0176,01-11-2022,T,CG,Moderate,Fog,Loc3,2257,Night,Car,Model14,2887,F,28,4,Serious,62,F,Working,Cyclist,Pedestrian,Road Features
+AID0177,30-10-2022,F,UK,Moderate,Fog,Loc51,1143,Daylight,Truck,Model25,1769,M,45,3,Fatal,5,F,Upper,Car Passenger,Pedestrian,Road Features
+AID0178,23-12-2022,T,PB,Minor,Clear,Loc90,446,Night,Truck,Model12,2199,M,18,1,Slight,79,M,Middle,Pedestrian,Pedestrian,Road Features
+AID0179,07-09-2022,F,WB,Moderate,Rain,Loc35,2153,Night,Motorcycle,Model3,1420,M,58,0,Fatal,59,F,Upper,Pedestrian,Passenger,Road Features
+AID0180,06-01-2023,T,TN,Minor,Clear,Loc142,1445,Night,Bus,Model5,1027,F,47,15,Slight,69,F,Upper,Car Passenger,Pedestrian,Road Features
+AID0181,04-03-2023,S,SK,Moderate,Clear,Loc79,1531,Twilight,Motorcycle,Model2,2747,F,40,2,Serious,35,M,Upper,Car Passenger,Pedestrian,Road Features
+AID0182,19-08-2023,F,AR,Minor,Snow,Loc30,2343,Night,Motorcycle,Model46,1733,M,29,19,Fatal,68,F,Middle,Cyclist,Passenger,Road Features
+AID0183,12-09-2023,S,GJ,Minor,Rain,Loc169,512,Night,Truck,Model44,2345,M,28,16,Slight,30,F,Working,Pedestrian,Pedestrian,Road Features
+AID0184,04-03-2023,S,TR,Moderate,Fog,Loc146,651,Night,Motorcycle,Model50,1780,F,45,15,Serious,42,M,Working,Motorcyclist,Passenger,Road Features
+AID0185,09-08-2023,S,UK,Minor,Clear,Loc179,1212,Night,Car,Model1,1944,M,40,11,Fatal,37,F,Middle,Cyclist,Pedestrian,Road Features
+AID0186,20-10-2023,T,AR,Minor,Fog,Loc148,703,Daylight,Truck,Model50,1010,M,22,19,Fatal,37,M,Working,Car Passenger,Passenger,Road Features
+AID0187,14-11-2022,F,UP,Moderate,Clear,Loc109,36,Twilight,Motorcycle,Model43,830,M,51,1,Fatal,21,M,Middle,Car Passenger,Pedestrian,Road Features
+AID0188,04-03-2022,S,CG,Severe,Rain,Loc143,1103,Night,Car,Model34,2496,F,70,14,Serious,79,F,Working,Car Passenger,Pedestrian,Road Features
+AID0189,30-01-2023,S,MZ,Minor,Rain,Loc92,222,Twilight,Bus,Model44,2808,M,52,3,Serious,74,M,Working,Pedestrian,Passenger,Road Features
+AID0190,10-06-2022,S,MP,Minor,Clear,Loc10,1937,Night,Car,Model44,1325,M,44,5,Fatal,59,M,Working,Motorcyclist,Pedestrian,Road Features
+AID0191,07-03-2023,T,MZ,Minor,Rain,Loc146,1223,Twilight,Car,Model17,1307,M,54,10,Slight,31,M,Working,Motorcyclist,Pedestrian,Road Features
+AID0192,03-05-2022,T,TR,Minor,Fog,Loc136,308,Night,Car,Model20,2069,M,46,7,Serious,22,F,Middle,Motorcyclist,Pedestrian,Road Features
+AID0193,07-09-2023,W,AP,Severe,Fog,Loc69,333,Daylight,Motorcycle,Model36,1627,M,61,17,Fatal,42,M,Working,Motorcyclist,Pedestrian,Road Features
+AID0194,31-12-2023,T,MH,Moderate,Clear,Loc70,2220,Night,Bus,Model46,2580,F,65,12,Fatal,69,M,Working,Pedestrian,Passenger,Road Features
+AID0195,05-02-2022,T,DL,Severe,Snow,Loc130,1221,Daylight,Bus,Model38,941,M,47,2,Slight,55,M,Middle,Pedestrian,Passenger,Road Features
+AID0196,27-06-2022,M,BR,Moderate,Clear,Loc105,644,Daylight,Truck,Model46,1457,M,67,10,Serious,58,M,Working,Car Passenger,Passenger,Road Features
+AID0197,08-07-2023,T,GJ,Minor,Clear,Loc84,2224,Night,Car,Model24,1716,F,20,0,Slight,30,F,Upper,Motorcyclist,Pedestrian,Road Features
+AID0198,17-02-2022,S,MH,Severe,Rain,Loc156,1355,Night,Truck,Model5,2515,M,67,0,Slight,66,F,Upper,Cyclist,Pedestrian,Road Features
+AID0199,08-04-2022,T,WB,Minor,Clear,Loc5,1818,Daylight,Motorcycle,Model24,935,F,67,7,Fatal,40,F,Upper,Pedestrian,Pedestrian,Road Features
+AID0200,27-02-2023,F,MH,Minor,Clear,Loc5,2128,Night,Motorcycle,Model28,2569,M,20,14,Serious,27,M,Upper,Motorcyclist,Passenger,Road Features
+AID0201,13-10-2022,M,AR,Minor,Clear,Loc153,1428,Daylight,Car,Model8,2400,F,26,13,Slight,36,F,Middle,Pedestrian,Passenger,Road Features
+AID0202,25-05-2023,F,TR,Minor,Clear,Loc63,2007,Twilight,Motorcycle,Model38,1925,F,55,16,Fatal,7,M,Working,Cyclist,Pedestrian,Road Features
+AID0203,25-11-2023,T,AR,Moderate,Snow,Loc172,1654,Night,Truck,Model25,2039,F,57,4,Fatal,59,M,Working,Motorcyclist,Passenger,Road Features
+AID0204,29-08-2023,W,OD,Minor,Snow,Loc77,1731,Night,Truck,Model3,1217,F,36,10,Serious,74,F,Upper,Cyclist,Passenger,Road Features
+AID0205,17-08-2022,F,TN,Severe,Clear,Loc114,516,Night,Truck,Model5,2780,F,69,15,Fatal,12,M,Upper,Cyclist,Passenger,Road Features
+AID0206,17-08-2022,S,HR,Severe,Snow,Loc160,318,Daylight,Bus,Model44,937,M,42,11,Slight,62,M,Upper,Cyclist,Pedestrian,Road Features
+AID0207,20-12-2022,S,JH,Moderate,Snow,Loc151,1640,Twilight,Truck,Model19,804,M,20,7,Serious,71,M,Working,Pedestrian,Passenger,Road Features
+AID0208,25-07-2022,T,AS,Minor,Fog,Loc51,2229,Night,Bus,Model49,2020,M,24,5,Serious,10,M,Middle,Pedestrian,Passenger,Road Features
+AID0209,08-07-2023,S,AS,Minor,Rain,Loc36,815,Twilight,Car,Model12,2958,M,35,2,Slight,74,M,Working,Cyclist,Passenger,Road Features
+AID0210,05-12-2023,M,KA,Moderate,Rain,Loc110,1206,Daylight,Bus,Model16,2015,M,63,10,Slight,8,M,Upper,Motorcyclist,Passenger,Road Features
+AID0211,12-11-2023,M,GA,Moderate,Clear,Loc74,2027,Daylight,Car,Model40,1149,M,21,11,Fatal,51,F,Middle,Cyclist,Pedestrian,Road Features
+AID0212,11-04-2023,S,NL,Minor,Rain,Loc22,1627,Daylight,Motorcycle,Model5,1667,F,21,13,Fatal,41,F,Working,Cyclist,Pedestrian,Road Features
+AID0213,10-08-2023,T,MH,Minor,Clear,Loc195,1010,Night,Truck,Model27,1423,F,43,20,Fatal,35,F,Upper,Car Passenger,Pedestrian,Road Features
+AID0214,16-10-2023,F,DL,Moderate,Clear,Loc31,2026,Twilight,Truck,Model7,2511,M,19,14,Serious,48,F,Working,Cyclist,Passenger,Road Features
+AID0215,09-06-2023,F,HP,Severe,Clear,Loc69,216,Daylight,Car,Model10,919,F,58,20,Serious,12,F,Working,Motorcyclist,Pedestrian,Road Features
+AID0216,03-05-2023,S,PB,Minor,Rain,Loc93,1928,Daylight,Car,Model12,1000,M,52,18,Fatal,52,M,Upper,Pedestrian,Passenger,Road Features
+AID0217,06-08-2023,S,GJ,Moderate,Storm,Loc184,1931,Daylight,Motorcycle,Model43,1149,F,42,10,Slight,23,M,Working,Pedestrian,Passenger,Road Features
+AID0218,09-05-2023,T,KL,Minor,Storm,Loc37,1447,Daylight,Bus,Model14,2299,F,63,17,Serious,59,M,Upper,Cyclist,Passenger,Road Features
+AID0219,11-10-2022,W,AS,Minor,Fog,Loc143,259,Daylight,Truck,Model32,2459,M,61,4,Serious,65,M,Working,Motorcyclist,Passenger,Road Features
+AID0220,16-09-2022,T,MP,Severe,Fog,Loc144,1634,Daylight,Car,Model7,1883,M,69,8,Serious,72,M,Upper,Motorcyclist,Passenger,Road Features
+AID0221,14-01-2022,S,NL,Severe,Clear,Loc82,440,Daylight,Motorcycle,Model47,970,M,61,17,Serious,22,M,Working,Car Passenger,Passenger,Road Features
+AID0222,27-03-2023,W,GJ,Moderate,Storm,Loc200,410,Daylight,Car,Model12,824,M,70,16,Serious,17,M,Upper,Car Passenger,Pedestrian,Road Features
+AID0223,28-03-2023,F,GA,Moderate,Fog,Loc86,1937,Twilight,Truck,Model23,1592,M,55,10,Serious,54,F,Upper,Motorcyclist,Pedestrian,Road Features
+AID0224,04-11-2022,T,HP,Severe,Storm,Loc81,647,Twilight,Motorcycle,Model46,1707,F,22,7,Serious,43,M,Middle,Pedestrian,Pedestrian,Road Features
+AID0225,26-08-2023,T,JH,Moderate,Rain,Loc137,201,Twilight,Motorcycle,Model22,2434,M,19,6,Slight,17,F,Working,Motorcyclist,Pedestrian,Road Features
+AID0226,23-11-2023,M,AR,Severe,Storm,Loc149,909,Daylight,Motorcycle,Model23,1242,M,31,19,Serious,13,M,Middle,Motorcyclist,Pedestrian,Road Features
+AID0227,16-07-2023,S,MN,Moderate,Storm,Loc187,221,Twilight,Car,Model19,800,F,70,12,Slight,71,M,Working,Pedestrian,Pedestrian,Road Features
+AID0228,27-03-2022,W,TN,Minor,Clear,Loc6,617,Daylight,Bus,Model49,1251,M,55,5,Slight,40,F,Upper,Pedestrian,Pedestrian,Road Features
+AID0229,26-04-2022,M,AS,Severe,Storm,Loc23,943,Daylight,Bus,Model39,2924,M,68,20,Serious,56,M,Working,Cyclist,Pedestrian,Road Features
+AID0230,09-03-2022,S,HP,Severe,Snow,Loc51,1136,Daylight,Truck,Model1,1439,M,38,13,Serious,7,F,Upper,Cyclist,Passenger,Road Features
+AID0231,04-05-2022,W,GJ,Severe,Rain,Loc106,1124,Daylight,Motorcycle,Model33,1151,F,21,16,Serious,4,F,Working,Pedestrian,Passenger,Road Features
+AID0232,07-10-2022,F,HR,Severe,Rain,Loc171,1342,Night,Bus,Model31,1416,M,30,18,Serious,14,M,Upper,Cyclist,Pedestrian,Road Features
+AID0233,26-08-2023,W,HR,Minor,Fog,Loc24,139,Night,Motorcycle,Model34,2221,M,47,13,Slight,6,M,Middle,Cyclist,Pedestrian,Road Features
+AID0234,11-03-2022,S,AS,Moderate,Snow,Loc68,1117,Night,Car,Model39,1059,F,42,5,Slight,51,F,Middle,Car Passenger,Passenger,Road Features
+AID0235,20-11-2022,S,AS,Moderate,Clear,Loc136,2014,Night,Car,Model7,2647,M,30,6,Slight,73,M,Middle,Motorcyclist,Passenger,Road Features
+AID0236,12-11-2023,W,DL,Moderate,Snow,Loc14,359,Night,Motorcycle,Model29,2033,F,64,10,Fatal,51,F,Upper,Cyclist,Pedestrian,Road Features
+AID0237,13-01-2023,F,TR,Moderate,Snow,Loc136,1118,Twilight,Truck,Model6,1703,M,21,7,Slight,80,F,Working,Cyclist,Pedestrian,Road Features
+AID0238,16-04-2023,F,SK,Severe,Snow,Loc30,1239,Twilight,Motorcycle,Model30,2149,M,63,13,Slight,9,F,Middle,Pedestrian,Passenger,Road Features
+AID0239,09-08-2022,T,MP,Moderate,Storm,Loc41,427,Twilight,Motorcycle,Model45,1869,F,22,17,Serious,50,M,Working,Car Passenger,Pedestrian,Road Features
+AID0240,16-07-2022,T,WB,Moderate,Snow,Loc172,31,Twilight,Motorcycle,Model18,2958,F,29,4,Slight,5,F,Working,Pedestrian,Passenger,Road Features
+AID0241,16-03-2022,F,KL,Moderate,Rain,Loc123,512,Twilight,Motorcycle,Model8,1983,F,20,1,Slight,65,F,Upper,Pedestrian,Passenger,Road Features
+AID0242,10-08-2023,S,MH,Minor,Snow,Loc45,1924,Daylight,Truck,Model22,2124,M,23,18,Fatal,61,F,Middle,Cyclist,Pedestrian,Road Features
+AID0243,14-09-2023,M,KA,Minor,Fog,Loc32,213,Night,Truck,Model8,1782,M,60,7,Slight,70,F,Middle,Motorcyclist,Pedestrian,Road Features
+AID0244,25-06-2023,F,RJ,Minor,Snow,Loc175,1228,Daylight,Motorcycle,Model3,2543,M,34,17,Slight,71,M,Upper,Pedestrian,Pedestrian,Road Features
+AID0245,14-04-2022,T,OD,Minor,Fog,Loc137,1642,Daylight,Bus,Model12,2115,M,54,7,Fatal,40,F,Upper,Car Passenger,Pedestrian,Road Features
+AID0246,13-06-2022,M,BR,Moderate,Storm,Loc184,2344,Daylight,Truck,Model47,2042,F,54,18,Serious,71,F,Upper,Car Passenger,Pedestrian,Road Features
+AID0247,02-06-2023,W,RJ,Minor,Fog,Loc199,441,Twilight,Truck,Model39,2210,F,38,8,Slight,7,M,Upper,Pedestrian,Passenger,Road Features
+AID0248,30-07-2023,S,UK,Severe,Fog,Loc38,1302,Twilight,Car,Model40,1404,F,37,11,Serious,20,M,Upper,Car Passenger,Pedestrian,Road Features
+AID0249,03-08-2022,S,TR,Moderate,Rain,Loc24,1054,Twilight,Bus,Model47,973,M,53,16,Serious,45,M,Middle,Cyclist,Pedestrian,Road Features
+AID0250,25-06-2022,S,MH,Minor,Snow,Loc23,1915,Daylight,Bus,Model19,2662,M,27,13,Fatal,43,F,Upper,Cyclist,Pedestrian,Road Features
+AID0251,02-07-2023,M,TN,Minor,Rain,Loc152,455,Daylight,Truck,Model19,2112,M,40,16,Serious,67,M,Working,Car Passenger,Passenger,Road Features
+AID0252,22-01-2023,T,MN,Minor,Clear,Loc15,1931,Twilight,Car,Model21,2616,F,64,6,Serious,7,F,Middle,Pedestrian,Passenger,Road Features
+AID0253,01-08-2023,F,DL,Severe,Storm,Loc56,903,Daylight,Motorcycle,Model21,1968,M,56,7,Serious,7,M,Working,Pedestrian,Passenger,Road Features
+AID0254,08-10-2023,M,TR,Moderate,Clear,Loc108,1854,Night,Car,Model38,1235,M,45,3,Serious,21,M,Upper,Pedestrian,Passenger,Road Features
+AID0255,09-10-2023,W,HP,Severe,Rain,Loc81,1310,Daylight,Car,Model38,2193,M,32,13,Serious,11,M,Middle,Motorcyclist,Passenger,Road Features
+AID0256,12-09-2022,W,PB,Moderate,Rain,Loc78,651,Daylight,Car,Model6,2726,M,52,8,Serious,78,M,Working,Cyclist,Passenger,Road Features
+AID0257,24-09-2023,T,AS,Severe,Storm,Loc153,720,Daylight,Bus,Model27,885,M,36,10,Fatal,71,F,Middle,Cyclist,Passenger,Road Features
+AID0258,16-10-2022,F,CG,Minor,Snow,Loc111,1303,Daylight,Truck,Model29,2964,M,54,6,Fatal,60,F,Upper,Car Passenger,Pedestrian,Road Features
+AID0259,17-11-2023,M,TR,Severe,Rain,Loc24,1834,Twilight,Bus,Model11,2502,F,52,17,Slight,14,F,Middle,Car Passenger,Pedestrian,Road Features
+AID0260,29-11-2023,T,GA,Minor,Storm,Loc79,1455,Night,Truck,Model17,1076,F,49,14,Fatal,32,M,Working,Cyclist,Passenger,Road Features
+AID0261,01-03-2022,T,MN,Severe,Clear,Loc114,2227,Night,Car,Model24,2287,F,26,20,Serious,48,F,Middle,Motorcyclist,Pedestrian,Road Features
+AID0262,16-04-2022,F,MH,Minor,Rain,Loc122,1503,Night,Car,Model32,972,F,51,11,Slight,63,M,Middle,Car Passenger,Passenger,Road Features
+AID0263,25-04-2022,S,KL,Severe,Rain,Loc149,1612,Daylight,Motorcycle,Model11,2450,M,70,14,Slight,78,M,Middle,Motorcyclist,Passenger,Road Features
+AID0264,02-08-2023,F,CG,Severe,Storm,Loc99,1124,Daylight,Truck,Model29,1224,F,66,12,Slight,6,F,Working,Cyclist,Passenger,Road Features
+AID0265,13-10-2022,M,SK,Moderate,Clear,Loc51,2226,Daylight,Car,Model27,1642,M,30,20,Fatal,40,M,Middle,Car Passenger,Passenger,Road Features
+AID0266,13-11-2022,W,NL,Minor,Snow,Loc135,1616,Twilight,Car,Model7,1035,M,59,16,Fatal,50,M,Working,Car Passenger,Passenger,Road Features
+AID0267,03-05-2023,T,MN,Severe,Snow,Loc106,1303,Daylight,Motorcycle,Model2,1261,M,31,13,Serious,31,M,Upper,Car Passenger,Pedestrian,Road Features
+AID0268,15-12-2023,M,KA,Moderate,Fog,Loc163,2213,Daylight,Car,Model5,1919,F,21,7,Serious,37,F,Upper,Cyclist,Pedestrian,Road Features
+AID0269,03-07-2022,W,KL,Minor,Rain,Loc164,1228,Daylight,Motorcycle,Model14,1938,F,38,11,Slight,56,F,Middle,Car Passenger,Passenger,Road Features
+AID0270,31-08-2023,W,AS,Moderate,Fog,Loc62,1331,Twilight,Truck,Model24,2762,F,27,0,Fatal,65,M,Working,Pedestrian,Passenger,Road Features
+AID0271,25-11-2023,S,MH,Moderate,Fog,Loc175,2036,Daylight,Car,Model31,2789,M,41,2,Serious,12,F,Middle,Cyclist,Passenger,Road Features
+AID0272,31-01-2022,M,SK,Severe,Storm,Loc132,839,Twilight,Car,Model48,1901,F,64,12,Serious,61,M,Middle,Motorcyclist,Pedestrian,Road Features
+AID0273,16-11-2022,S,JH,Severe,Snow,Loc114,2157,Night,Bus,Model42,2260,F,22,15,Slight,15,F,Working,Car Passenger,Pedestrian,Road Features
+AID0274,29-04-2023,T,OD,Minor,Clear,Loc48,2350,Night,Car,Model49,1837,M,55,6,Fatal,49,F,Upper,Car Passenger,Pedestrian,Road Features
+AID0275,06-12-2023,S,AS,Moderate,Fog,Loc17,1941,Night,Truck,Model19,2667,F,58,9,Slight,40,M,Working,Pedestrian,Pedestrian,Road Features
+AID0276,12-06-2023,S,WB,Minor,Storm,Loc161,2318,Night,Truck,Model14,2592,F,38,12,Serious,27,F,Middle,Cyclist,Passenger,Road Features
+AID0277,19-05-2023,M,RJ,Minor,Clear,Loc8,418,Twilight,Truck,Model47,2772,M,28,11,Serious,36,F,Upper,Car Passenger,Pedestrian,Road Features
+AID0278,30-07-2022,S,AR,Moderate,Snow,Loc28,135,Daylight,Motorcycle,Model21,1520,M,23,8,Fatal,1,F,Middle,Car Passenger,Passenger,Road Features
+AID0279,13-02-2023,T,RJ,Severe,Storm,Loc13,1500,Twilight,Truck,Model17,2778,F,50,4,Serious,39,M,Middle,Car Passenger,Passenger,Road Features
+AID0280,06-06-2022,S,AP,Severe,Fog,Loc54,2023,Daylight,Bus,Model45,1674,F,26,10,Fatal,37,M,Upper,Cyclist,Pedestrian,Road Features
+AID0281,11-08-2022,F,SK,Minor,Clear,Loc178,24,Daylight,Bus,Model34,2924,M,23,19,Slight,75,M,Upper,Car Passenger,Pedestrian,Road Features
+AID0282,07-12-2023,S,HP,Moderate,Fog,Loc28,524,Night,Truck,Model19,1562,M,27,14,Serious,69,M,Middle,Cyclist,Pedestrian,Road Features
+AID0283,26-10-2022,S,RJ,Moderate,Fog,Loc94,808,Night,Car,Model3,2906,M,53,0,Slight,39,M,Upper,Motorcyclist,Pedestrian,Road Features
+AID0284,13-06-2022,F,TR,Minor,Storm,Loc195,214,Twilight,Car,Model30,1547,F,24,14,Serious,68,M,Middle,Motorcyclist,Pedestrian,Road Features
+AID0285,19-01-2023,M,JH,Severe,Fog,Loc123,1716,Daylight,Motorcycle,Model27,2063,M,23,10,Fatal,24,F,Working,Motorcyclist,Pedestrian,Road Features
+AID0286,11-01-2023,W,AS,Minor,Rain,Loc66,1101,Daylight,Bus,Model16,2603,F,45,7,Slight,44,F,Upper,Pedestrian,Pedestrian,Road Features
+AID0287,08-05-2023,F,SK,Moderate,Rain,Loc122,938,Twilight,Bus,Model24,2847,M,36,2,Fatal,62,M,Upper,Motorcyclist,Pedestrian,Road Features
+AID0288,25-03-2022,T,HR,Severe,Storm,Loc70,1840,Night,Motorcycle,Model1,2312,M,68,1,Fatal,27,M,Middle,Car Passenger,Passenger,Road Features
+AID0289,31-07-2022,W,NL,Minor,Snow,Loc12,1433,Night,Truck,Model21,2504,F,61,11,Slight,10,M,Middle,Car Passenger,Passenger,Road Features
+AID0290,10-10-2022,F,ML,Moderate,Snow,Loc160,1104,Twilight,Bus,Model30,2656,F,23,13,Slight,34,F,Middle,Motorcyclist,Passenger,Road Features
+AID0291,25-03-2023,T,TN,Severe,Fog,Loc116,10,Daylight,Truck,Model49,2372,M,24,19,Fatal,76,F,Working,Motorcyclist,Passenger,Road Features
+AID0292,25-11-2023,M,JH,Minor,Snow,Loc60,1332,Daylight,Bus,Model11,2229,F,47,0,Serious,80,M,Upper,Car Passenger,Passenger,Road Features
+AID0293,01-03-2023,T,OD,Moderate,Storm,Loc79,2123,Night,Motorcycle,Model42,982,M,60,17,Fatal,63,F,Working,Pedestrian,Passenger,Road Features
+AID0294,27-03-2022,F,MN,Severe,Fog,Loc124,1052,Night,Bus,Model8,2758,M,30,3,Slight,42,M,Middle,Motorcyclist,Pedestrian,Road Features
+AID0295,02-12-2023,T,AS,Severe,Clear,Loc184,1013,Night,Motorcycle,Model15,2702,M,22,11,Slight,15,F,Working,Pedestrian,Passenger,Road Features
+AID0296,23-06-2022,M,MP,Severe,Clear,Loc69,1612,Twilight,Bus,Model8,2486,F,58,6,Slight,25,F,Middle,Car Passenger,Passenger,Road Features
+AID0297,22-12-2022,F,GJ,Severe,Rain,Loc46,1505,Night,Car,Model42,1510,M,57,5,Fatal,74,M,Working,Pedestrian,Pedestrian,Road Features
+AID0298,28-04-2022,S,MN,Minor,Fog,Loc195,1257,Night,Truck,Model40,2888,F,50,5,Slight,19,F,Middle,Motorcyclist,Passenger,Road Features
+AID0299,25-04-2022,F,OD,Severe,Rain,Loc174,1339,Daylight,Motorcycle,Model43,969,M,22,4,Serious,64,F,Upper,Motorcyclist,Pedestrian,Road Features
+AID0300,11-10-2023,T,SK,Minor,Clear,Loc60,1954,Night,Motorcycle,Model41,2430,M,18,19,Serious,3,M,Working,Motorcyclist,Passenger,Road Features
+AID0301,24-12-2023,T,TR,Minor,Snow,Loc105,807,Night,Motorcycle,Model31,1704,M,38,10,Fatal,74,F,Middle,Car Passenger,Passenger,Road Features
+AID0302,22-01-2023,T,MN,Moderate,Snow,Loc69,1409,Twilight,Truck,Model11,1708,F,23,14,Slight,46,F,Working,Cyclist,Passenger,Road Features
+AID0303,30-03-2022,T,GA,Moderate,Rain,Loc27,11,Twilight,Car,Model34,2921,F,47,16,Serious,64,F,Upper,Pedestrian,Passenger,Road Features
+AID0304,04-11-2023,F,BR,Moderate,Fog,Loc176,2011,Night,Truck,Model9,2772,F,31,16,Serious,15,F,Working,Cyclist,Pedestrian,Road Features
+AID0305,24-05-2023,T,MP,Minor,Rain,Loc4,1345,Daylight,Car,Model7,1049,F,70,10,Serious,22,M,Working,Car Passenger,Passenger,Road Features
+AID0306,04-03-2023,F,BR,Minor,Clear,Loc128,2157,Daylight,Truck,Model45,2597,M,59,2,Slight,21,M,Middle,Cyclist,Passenger,Road Features
+AID0307,06-07-2023,T,UP,Severe,Fog,Loc91,558,Night,Bus,Model36,2484,F,21,2,Slight,72,F,Upper,Motorcyclist,Pedestrian,Road Features
+AID0308,11-05-2022,S,UK,Severe,Snow,Loc77,1656,Night,Bus,Model32,1729,F,62,14,Fatal,16,F,Middle,Pedestrian,Passenger,Road Features
+AID0309,16-12-2023,S,JH,Severe,Storm,Loc63,304,Daylight,Motorcycle,Model10,840,F,20,4,Slight,69,F,Working,Pedestrian,Pedestrian,Road Features
+AID0310,14-05-2022,S,UK,Minor,Rain,Loc138,738,Daylight,Car,Model47,2756,M,25,7,Slight,56,M,Working,Cyclist,Passenger,Road Features
+AID0311,21-05-2023,T,UK,Severe,Clear,Loc44,1059,Daylight,Bus,Model31,2612,F,62,0,Fatal,12,F,Upper,Cyclist,Passenger,Road Features
+AID0312,19-02-2023,S,SK,Minor,Rain,Loc164,1146,Night,Car,Model50,2625,F,56,8,Slight,18,F,Upper,Pedestrian,Pedestrian,Road Features
+AID0313,04-04-2023,T,DL,Severe,Snow,Loc183,1231,Night,Bus,Model4,1744,F,56,17,Serious,45,F,Upper,Pedestrian,Pedestrian,Road Features
+AID0314,27-03-2022,T,CG,Moderate,Rain,Loc193,1446,Daylight,Motorcycle,Model22,2233,F,68,7,Fatal,75,M,Middle,Motorcyclist,Passenger,Road Features
+AID0315,09-03-2023,S,MH,Moderate,Storm,Loc110,947,Twilight,Car,Model47,2164,F,50,17,Serious,44,F,Upper,Pedestrian,Passenger,Road Features
+AID0316,21-10-2022,W,AR,Moderate,Storm,Loc34,509,Night,Truck,Model50,1697,M,62,17,Fatal,50,M,Working,Car Passenger,Passenger,Road Features
+AID0317,11-12-2023,S,GA,Moderate,Storm,Loc105,1125,Night,Truck,Model40,1836,M,56,18,Serious,78,M,Working,Motorcyclist,Pedestrian,Road Features
+AID0318,19-09-2023,F,CG,Minor,Clear,Loc127,500,Daylight,Motorcycle,Model6,2794,F,19,10,Slight,45,F,Upper,Car Passenger,Pedestrian,Road Features
+AID0319,10-11-2023,S,HR,Minor,Storm,Loc27,337,Night,Truck,Model29,1355,M,64,1,Serious,31,F,Working,Motorcyclist,Passenger,Road Features
+AID0320,09-06-2022,T,MZ,Moderate,Rain,Loc146,303,Twilight,Bus,Model11,918,M,36,0,Slight,43,M,Working,Car Passenger,Passenger,Road Features
+AID0321,12-03-2022,T,MN,Minor,Snow,Loc166,1723,Daylight,Car,Model34,2983,F,59,9,Fatal,79,M,Middle,Car Passenger,Pedestrian,Road Features
+AID0322,06-05-2022,S,TN,Severe,Snow,Loc67,2219,Daylight,Bus,Model14,2869,F,21,13,Fatal,77,F,Upper,Cyclist,Pedestrian,Road Features
+AID0323,21-09-2023,F,JH,Severe,Fog,Loc7,249,Daylight,Motorcycle,Model40,1421,F,60,19,Serious,68,M,Middle,Car Passenger,Passenger,Road Features
+AID0324,13-01-2023,S,KL,Moderate,Rain,Loc88,2103,Daylight,Truck,Model46,2486,M,55,14,Fatal,28,M,Upper,Car Passenger,Pedestrian,Traffic Violation
+AID0325,29-03-2022,T,NL,Minor,Rain,Loc11,236,Twilight,Motorcycle,Model42,2259,F,20,17,Slight,34,F,Working,Car Passenger,Passenger,Traffic Violation
+AID0326,29-01-2022,M,AP,Minor,Clear,Loc41,1059,Daylight,Car,Model31,1415,F,36,2,Fatal,36,M,Middle,Motorcyclist,Passenger,Traffic Violation
+AID0327,19-10-2023,F,DL,Minor,Rain,Loc125,1834,Night,Truck,Model36,1919,M,20,13,Fatal,39,F,Upper,Pedestrian,Pedestrian,Traffic Violation
+AID0328,30-06-2023,M,TR,Moderate,Rain,Loc144,203,Daylight,Motorcycle,Model46,2132,F,23,0,Serious,69,M,Middle,Motorcyclist,Passenger,Traffic Violation
+AID0329,01-09-2023,W,KA,Minor,Rain,Loc164,1031,Twilight,Truck,Model43,1920,F,40,1,Fatal,1,F,Working,Cyclist,Passenger,Traffic Violation
+AID0330,21-09-2022,T,JH,Minor,Clear,Loc64,12,Daylight,Car,Model39,2062,F,46,10,Slight,46,M,Working,Cyclist,Passenger,Traffic Violation
+AID0331,16-03-2022,M,TN,Moderate,Storm,Loc79,1932,Night,Bus,Model20,822,M,65,9,Slight,41,F,Working,Cyclist,Pedestrian,Traffic Violation
+AID0332,04-07-2022,S,MP,Moderate,Snow,Loc107,2044,Night,Truck,Model17,1271,M,62,15,Serious,51,M,Middle,Cyclist,Passenger,Traffic Violation
+AID0333,16-01-2022,W,CG,Severe,Snow,Loc3,1247,Night,Car,Model26,1875,F,63,8,Fatal,71,M,Middle,Cyclist,Pedestrian,Traffic Violation
+AID0334,12-12-2023,F,AR,Minor,Fog,Loc186,1220,Twilight,Motorcycle,Model41,1303,M,57,7,Slight,62,F,Middle,Cyclist,Pedestrian,Traffic Violation
+AID0335,18-04-2023,W,MN,Minor,Fog,Loc176,718,Night,Truck,Model24,1450,M,24,10,Fatal,76,F,Middle,Motorcyclist,Pedestrian,Traffic Violation
+AID0336,28-06-2022,F,GA,Moderate,Fog,Loc156,929,Daylight,Motorcycle,Model41,841,F,56,15,Fatal,2,F,Middle,Motorcyclist,Pedestrian,Traffic Violation
+AID0337,25-05-2022,F,DL,Minor,Snow,Loc7,2050,Night,Bus,Model14,2790,M,19,1,Fatal,36,M,Middle,Pedestrian,Pedestrian,Traffic Violation
+AID0338,08-12-2022,S,TR,Severe,Snow,Loc143,1641,Twilight,Motorcycle,Model49,2914,F,22,11,Serious,61,F,Working,Pedestrian,Passenger,Traffic Violation
+AID0339,29-04-2023,M,AS,Minor,Fog,Loc181,1657,Night,Motorcycle,Model7,1497,M,54,16,Serious,74,M,Middle,Motorcyclist,Passenger,Traffic Violation
+AID0340,06-07-2023,M,HP,Severe,Rain,Loc181,142,Twilight,Truck,Model27,2460,M,59,19,Slight,57,M,Working,Cyclist,Pedestrian,Traffic Violation
+AID0341,21-06-2022,W,KL,Minor,Snow,Loc117,1743,Twilight,Motorcycle,Model29,1152,M,53,2,Slight,29,M,Middle,Motorcyclist,Pedestrian,Traffic Violation
+AID0342,15-10-2022,S,HR,Minor,Snow,Loc48,303,Night,Car,Model32,1149,F,50,15,Slight,18,M,Middle,Cyclist,Passenger,Traffic Violation
+AID0343,16-08-2022,M,UK,Moderate,Storm,Loc35,1030,Twilight,Car,Model28,1432,F,26,5,Slight,46,F,Middle,Motorcyclist,Pedestrian,Traffic Violation
+AID0344,30-09-2022,S,TR,Severe,Rain,Loc76,447,Daylight,Motorcycle,Model14,2165,F,69,1,Serious,43,F,Working,Motorcyclist,Pedestrian,Traffic Violation
+AID0345,27-02-2023,T,NL,Moderate,Fog,Loc121,806,Night,Bus,Model41,1214,M,55,10,Serious,52,F,Middle,Car Passenger,Passenger,Traffic Violation
+AID0346,30-08-2022,S,AP,Moderate,Rain,Loc38,1106,Night,Car,Model36,1812,F,58,20,Serious,68,M,Working,Motorcyclist,Pedestrian,Traffic Violation
+AID0347,21-04-2022,S,PB,Moderate,Fog,Loc152,1133,Twilight,Bus,Model34,1600,M,49,1,Slight,38,F,Upper,Pedestrian,Pedestrian,Traffic Violation
+AID0348,29-12-2022,S,NL,Moderate,Storm,Loc34,1,Night,Motorcycle,Model25,2106,F,28,10,Serious,41,M,Middle,Motorcyclist,Passenger,Traffic Violation
+AID0349,23-12-2023,W,AP,Severe,Snow,Loc41,1307,Daylight,Bus,Model10,1161,M,59,7,Serious,74,F,Upper,Pedestrian,Passenger,Traffic Violation
+AID0350,06-11-2022,F,GJ,Severe,Snow,Loc94,1828,Daylight,Car,Model37,1423,M,28,0,Serious,59,M,Middle,Car Passenger,Passenger,Traffic Violation
+AID0351,18-10-2022,S,HR,Moderate,Clear,Loc165,2309,Twilight,Motorcycle,Model20,2590,M,32,8,Fatal,9,M,Middle,Motorcyclist,Passenger,Traffic Violation
+AID0352,25-02-2022,T,MH,Minor,Storm,Loc4,1838,Daylight,Car,Model20,1246,F,68,19,Slight,4,F,Middle,Car Passenger,Pedestrian,Traffic Violation
+AID0353,10-10-2023,S,RJ,Moderate,Fog,Loc4,1328,Daylight,Motorcycle,Model39,2540,M,23,12,Fatal,38,M,Working,Pedestrian,Pedestrian,Traffic Violation
+AID0354,08-10-2023,M,AP,Moderate,Clear,Loc109,1400,Twilight,Motorcycle,Model28,1696,M,33,4,Serious,26,F,Working,Car Passenger,Passenger,Traffic Violation
+AID0355,29-05-2022,F,ML,Moderate,Storm,Loc104,822,Night,Bus,Model24,2051,F,32,0,Serious,60,F,Middle,Motorcyclist,Pedestrian,Traffic Violation
+AID0356,11-09-2023,S,DL,Severe,Clear,Loc175,1519,Daylight,Truck,Model9,1868,F,69,4,Serious,61,F,Working,Pedestrian,Passenger,Traffic Violation
+AID0357,25-09-2022,M,CG,Minor,Storm,Loc76,1744,Night,Truck,Model3,1931,F,61,20,Slight,47,F,Working,Cyclist,Pedestrian,Traffic Violation
+AID0358,01-06-2023,T,MZ,Severe,Storm,Loc7,1808,Twilight,Truck,Model4,2514,F,49,0,Slight,60,F,Middle,Motorcyclist,Passenger,Traffic Violation
+AID0359,12-09-2022,S,AP,Minor,Storm,Loc80,1727,Night,Truck,Model39,2224,F,29,19,Serious,13,M,Upper,Pedestrian,Passenger,Traffic Violation
+AID0360,30-08-2023,F,AP,Severe,Clear,Loc124,728,Twilight,Truck,Model30,1676,F,61,2,Fatal,52,F,Working,Car Passenger,Pedestrian,Traffic Violation
+AID0361,28-07-2023,F,UK,Moderate,Storm,Loc4,935,Twilight,Motorcycle,Model7,2450,M,67,6,Slight,41,F,Middle,Pedestrian,Passenger,Traffic Violation
+AID0362,13-02-2023,M,ML,Moderate,Rain,Loc176,1414,Daylight,Motorcycle,Model5,2580,M,50,18,Fatal,76,F,Middle,Motorcyclist,Pedestrian,Traffic Violation
+AID0363,04-03-2023,F,DL,Severe,Fog,Loc169,551,Night,Car,Model21,1876,M,61,0,Fatal,62,F,Upper,Cyclist,Pedestrian,Traffic Violation
+AID0364,10-12-2022,T,PB,Minor,Clear,Loc193,1731,Daylight,Truck,Model11,1677,M,27,9,Slight,48,M,Working,Motorcyclist,Passenger,Traffic Violation
+AID0365,11-09-2023,T,ML,Moderate,Clear,Loc190,2113,Night,Bus,Model10,2066,F,39,8,Slight,15,M,Middle,Motorcyclist,Passenger,Traffic Violation
+AID0366,14-03-2023,W,BR,Moderate,Rain,Loc142,2052,Night,Bus,Model22,1294,F,31,10,Fatal,51,M,Working,Cyclist,Passenger,Traffic Violation
+AID0367,11-10-2023,S,MH,Minor,Fog,Loc21,1629,Daylight,Bus,Model13,1052,M,34,17,Fatal,78,F,Middle,Pedestrian,Pedestrian,Traffic Violation
+AID0368,13-10-2022,S,PB,Moderate,Storm,Loc60,1919,Night,Bus,Model42,1503,M,52,3,Serious,54,F,Working,Car Passenger,Pedestrian,Traffic Violation
+AID0369,10-11-2022,F,TR,Minor,Rain,Loc92,2204,Daylight,Truck,Model19,1236,M,38,13,Slight,43,F,Middle,Cyclist,Passenger,Traffic Violation
+AID0370,23-05-2022,M,BR,Minor,Storm,Loc100,2053,Night,Car,Model45,2473,F,50,4,Slight,25,F,Upper,Car Passenger,Passenger,Traffic Violation
+AID0371,25-12-2023,S,AP,Moderate,Storm,Loc150,2307,Twilight,Car,Model11,2284,M,47,19,Serious,18,M,Working,Pedestrian,Passenger,Traffic Violation
+AID0372,04-04-2023,W,AP,Minor,Clear,Loc174,442,Daylight,Motorcycle,Model44,1216,M,39,4,Slight,80,F,Upper,Cyclist,Passenger,Traffic Violation
+AID0373,24-06-2023,W,PB,Minor,Rain,Loc184,1157,Twilight,Bus,Model22,2566,M,61,5,Serious,30,F,Working,Car Passenger,Pedestrian,Traffic Violation
+AID0374,28-11-2023,W,PB,Minor,Clear,Loc81,631,Twilight,Truck,Model25,1730,F,59,1,Slight,28,M,Middle,Motorcyclist,Pedestrian,Traffic Violation
+AID0375,01-01-2022,S,KL,Severe,Snow,Loc185,2120,Daylight,Car,Model24,2450,F,69,7,Fatal,45,F,Middle,Cyclist,Pedestrian,Traffic Violation
+AID0376,20-06-2022,S,GJ,Moderate,Rain,Loc74,1733,Twilight,Bus,Model33,1075,F,22,15,Serious,67,M,Middle,Car Passenger,Pedestrian,Traffic Violation
+AID0377,04-07-2022,F,GA,Severe,Rain,Loc42,807,Night,Truck,Model37,2112,M,26,5,Fatal,61,F,Middle,Motorcyclist,Pedestrian,Traffic Violation
+AID0378,23-02-2022,M,WB,Moderate,Snow,Loc159,2113,Night,Bus,Model21,1119,M,49,11,Slight,53,M,Middle,Motorcyclist,Passenger,Traffic Violation
+AID0379,27-01-2022,M,AS,Moderate,Snow,Loc187,2320,Night,Motorcycle,Model39,2404,M,44,7,Serious,4,F,Upper,Car Passenger,Passenger,Traffic Violation
+AID0380,30-03-2023,T,AS,Moderate,Storm,Loc80,2200,Twilight,Truck,Model21,2622,M,21,20,Serious,46,M,Working,Pedestrian,Pedestrian,Traffic Violation
+AID0381,09-09-2022,F,KL,Severe,Fog,Loc197,2212,Night,Car,Model44,1940,M,52,19,Slight,64,M,Upper,Pedestrian,Pedestrian,Traffic Violation
+AID0382,24-01-2023,W,RJ,Moderate,Rain,Loc82,1216,Daylight,Bus,Model18,1832,F,37,9,Slight,40,F,Upper,Cyclist,Pedestrian,Traffic Violation
+AID0383,19-01-2023,M,MP,Severe,Clear,Loc7,1228,Daylight,Truck,Model38,1941,F,33,8,Slight,80,F,Upper,Cyclist,Pedestrian,Traffic Violation
+AID0384,20-06-2022,F,UP,Minor,Fog,Loc165,1824,Twilight,Truck,Model33,927,M,28,6,Fatal,37,M,Working,Car Passenger,Passenger,Traffic Violation
+AID0385,29-09-2023,S,WB,Severe,Fog,Loc56,1453,Twilight,Motorcycle,Model28,906,F,52,0,Fatal,59,F,Upper,Motorcyclist,Pedestrian,Traffic Violation
+AID0386,05-07-2023,W,BR,Moderate,Clear,Loc36,456,Twilight,Truck,Model40,993,M,53,8,Fatal,73,F,Working,Motorcyclist,Pedestrian,Traffic Violation
+AID0387,11-06-2023,S,KL,Moderate,Snow,Loc47,959,Daylight,Truck,Model29,1482,M,24,10,Fatal,10,F,Working,Pedestrian,Passenger,Traffic Violation
+AID0388,23-05-2023,S,SK,Minor,Storm,Loc111,142,Twilight,Bus,Model28,1509,M,65,11,Serious,13,M,Middle,Pedestrian,Pedestrian,Traffic Violation
+AID0389,15-08-2022,T,MZ,Moderate,Storm,Loc34,129,Twilight,Car,Model25,2426,M,36,2,Slight,46,M,Middle,Motorcyclist,Pedestrian,Traffic Violation
+AID0390,13-09-2023,T,ML,Moderate,Fog,Loc149,949,Twilight,Car,Model31,2697,M,49,3,Fatal,24,F,Middle,Pedestrian,Pedestrian,Traffic Violation
+AID0391,10-08-2022,F,GA,Moderate,Fog,Loc11,659,Night,Bus,Model40,2570,M,61,13,Serious,35,M,Middle,Motorcyclist,Passenger,Traffic Violation
+AID0392,18-07-2023,T,MN,Moderate,Fog,Loc82,619,Daylight,Motorcycle,Model6,1117,F,58,11,Slight,61,M,Upper,Car Passenger,Pedestrian,Traffic Violation
+AID0393,17-05-2022,T,KL,Moderate,Fog,Loc170,52,Twilight,Car,Model7,1912,F,22,3,Serious,33,F,Middle,Car Passenger,Pedestrian,Traffic Violation
+AID0394,16-07-2023,S,WB,Severe,Rain,Loc79,951,Twilight,Motorcycle,Model42,1417,M,56,20,Serious,73,F,Upper,Motorcyclist,Pedestrian,Traffic Violation
+AID0395,10-05-2022,W,HP,Severe,Clear,Loc24,2034,Daylight,Bus,Model37,1186,F,55,3,Fatal,23,M,Working,Motorcyclist,Pedestrian,Traffic Violation
+AID0396,25-07-2023,F,HP,Minor,Storm,Loc81,2146,Daylight,Car,Model17,2735,M,42,18,Fatal,3,F,Middle,Pedestrian,Passenger,Traffic Violation
+AID0397,22-01-2023,T,BR,Minor,Rain,Loc67,923,Twilight,Car,Model50,1505,F,66,5,Serious,68,F,Middle,Cyclist,Pedestrian,Traffic Violation
+AID0398,18-10-2023,F,KL,Minor,Storm,Loc160,633,Daylight,Bus,Model3,1087,M,50,7,Serious,58,F,Working,Cyclist,Pedestrian,Traffic Violation
+AID0399,27-11-2022,T,AP,Moderate,Rain,Loc198,1539,Daylight,Truck,Model14,1552,F,59,9,Fatal,16,F,Middle,Car Passenger,Pedestrian,Traffic Violation
+AID0400,02-07-2022,S,GA,Minor,Rain,Loc193,2101,Daylight,Motorcycle,Model23,1046,M,22,11,Serious,59,F,Working,Cyclist,Pedestrian,Traffic Violation
+AID0401,16-12-2022,S,HP,Moderate,Snow,Loc32,2159,Twilight,Truck,Model31,2962,F,31,17,Slight,6,M,Upper,Cyclist,Passenger,Traffic Violation
+AID0402,27-08-2022,S,HP,Severe,Clear,Loc181,631,Twilight,Bus,Model43,2418,F,56,20,Serious,68,F,Middle,Motorcyclist,Passenger,Traffic Violation
+AID0403,09-06-2022,W,AP,Severe,Rain,Loc141,2235,Daylight,Bus,Model23,2995,M,21,11,Fatal,33,M,Working,Cyclist,Passenger,Traffic Violation
+AID0404,15-03-2023,F,UP,Moderate,Clear,Loc95,1530,Daylight,Car,Model9,1328,M,45,13,Fatal,54,M,Upper,Pedestrian,Pedestrian,Traffic Violation
+AID0405,14-09-2023,S,AP,Severe,Clear,Loc184,319,Daylight,Truck,Model6,2268,M,49,4,Slight,13,F,Middle,Cyclist,Pedestrian,Traffic Violation
+AID0406,14-01-2022,F,KL,Minor,Fog,Loc116,1834,Daylight,Car,Model4,1626,M,26,3,Fatal,79,F,Middle,Pedestrian,Pedestrian,Traffic Violation
+AID0407,10-02-2023,F,MH,Severe,Rain,Loc180,1807,Night,Truck,Model43,2801,F,58,18,Serious,15,F,Middle,Motorcyclist,Pedestrian,Traffic Violation
+AID0408,20-03-2023,W,JH,Minor,Rain,Loc67,623,Daylight,Motorcycle,Model39,2098,M,65,0,Fatal,41,M,Upper,Pedestrian,Pedestrian,Traffic Violation
+AID0409,24-02-2023,T,TN,Moderate,Clear,Loc138,48,Twilight,Car,Model4,2161,M,62,2,Fatal,7,F,Middle,Car Passenger,Passenger,Traffic Violation
+AID0410,18-10-2023,M,AR,Minor,Storm,Loc143,842,Daylight,Car,Model38,2320,F,27,5,Slight,55,M,Working,Motorcyclist,Pedestrian,Traffic Violation
+AID0411,12-02-2023,S,PB,Severe,Storm,Loc118,2020,Twilight,Bus,Model47,2247,M,63,12,Serious,38,F,Upper,Pedestrian,Pedestrian,Traffic Violation
+AID0412,05-05-2022,T,RJ,Moderate,Rain,Loc14,1601,Daylight,Truck,Model17,2219,M,59,16,Serious,72,M,Upper,Cyclist,Pedestrian,Traffic Violation
+AID0413,11-01-2022,F,TN,Moderate,Snow,Loc81,1048,Daylight,Bus,Model28,1823,F,56,7,Serious,58,F,Working,Motorcyclist,Pedestrian,Traffic Violation
+AID0414,03-10-2022,S,ML,Moderate,Clear,Loc155,2235,Twilight,Motorcycle,Model7,2749,M,67,18,Fatal,62,F,Upper,Pedestrian,Pedestrian,Traffic Violation
+AID0415,02-01-2022,S,CG,Minor,Fog,Loc104,452,Night,Truck,Model40,1164,M,62,8,Serious,17,F,Working,Car Passenger,Pedestrian,Traffic Violation
+AID0416,26-07-2023,M,CG,Severe,Rain,Loc28,320,Daylight,Car,Model31,1993,M,48,14,Serious,50,F,Middle,Motorcyclist,Pedestrian,Traffic Violation
+AID0417,08-05-2023,S,KL,Moderate,Fog,Loc123,2337,Twilight,Truck,Model43,2740,M,25,13,Serious,77,M,Upper,Car Passenger,Pedestrian,Traffic Violation
+AID0418,20-09-2023,M,BR,Minor,Storm,Loc127,24,Daylight,Truck,Model13,1318,M,56,12,Serious,69,M,Middle,Pedestrian,Pedestrian,Traffic Violation
+AID0419,17-01-2022,W,KA,Moderate,Fog,Loc2,2050,Daylight,Motorcycle,Model25,2938,M,26,4,Serious,69,M,Working,Cyclist,Passenger,Traffic Violation
+AID0420,28-07-2023,S,SK,Minor,Fog,Loc106,1253,Night,Bus,Model17,2662,M,61,18,Serious,73,F,Upper,Car Passenger,Pedestrian,Traffic Violation
+AID0421,24-07-2023,S,CG,Moderate,Fog,Loc128,1855,Daylight,Car,Model43,2287,F,42,6,Slight,74,M,Middle,Car Passenger,Passenger,Traffic Violation
+AID0422,17-01-2022,T,RJ,Minor,Clear,Loc160,1458,Twilight,Car,Model39,2371,M,33,10,Slight,18,M,Middle,Car Passenger,Pedestrian,Traffic Violation
+AID0423,10-01-2022,F,OD,Moderate,Snow,Loc16,355,Night,Truck,Model39,1832,M,59,5,Fatal,12,F,Working,Car Passenger,Passenger,Traffic Violation
+AID0424,15-08-2023,S,OD,Minor,Fog,Loc155,2059,Twilight,Bus,Model41,2859,F,39,3,Fatal,3,F,Upper,Motorcyclist,Pedestrian,Traffic Violation
+AID0425,23-04-2022,S,SK,Moderate,Snow,Loc129,746,Night,Truck,Model31,2767,M,28,0,Serious,42,M,Working,Motorcyclist,Passenger,Traffic Violation
+AID0426,04-11-2022,W,TN,Moderate,Rain,Loc94,1531,Night,Motorcycle,Model32,1031,F,25,4,Serious,18,M,Working,Pedestrian,Passenger,Traffic Violation
+AID0427,14-08-2022,S,PB,Moderate,Fog,Loc182,2132,Twilight,Truck,Model49,1175,M,18,1,Serious,3,M,Upper,Pedestrian,Passenger,Traffic Violation
+AID0428,13-06-2022,M,NL,Minor,Storm,Loc128,1037,Daylight,Truck,Model18,1457,F,34,7,Slight,78,F,Working,Car Passenger,Pedestrian,Traffic Violation
+AID0429,22-12-2022,F,JH,Moderate,Rain,Loc76,1949,Night,Car,Model28,2617,F,34,2,Serious,26,F,Middle,Motorcyclist,Passenger,Traffic Violation
+AID0430,23-05-2022,T,DL,Minor,Snow,Loc24,136,Night,Truck,Model43,1407,M,56,10,Serious,37,M,Working,Car Passenger,Passenger,Traffic Violation
+AID0431,26-03-2023,S,OD,Moderate,Rain,Loc145,257,Night,Truck,Model1,1932,F,34,17,Serious,5,F,Working,Cyclist,Pedestrian,Traffic Violation
+AID0432,01-12-2022,W,KA,Severe,Snow,Loc55,338,Daylight,Truck,Model36,2964,F,49,7,Slight,67,M,Working,Motorcyclist,Passenger,Traffic Violation
+AID0433,06-04-2022,T,GA,Minor,Fog,Loc38,614,Daylight,Truck,Model41,2864,F,42,10,Slight,37,F,Working,Pedestrian,Pedestrian,Traffic Violation
+AID0434,08-09-2022,T,GA,Minor,Snow,Loc50,1333,Night,Motorcycle,Model6,2578,F,46,19,Serious,74,F,Upper,Car Passenger,Passenger,Traffic Violation
+AID0435,21-12-2022,T,MN,Moderate,Fog,Loc183,509,Twilight,Truck,Model30,2500,F,21,18,Serious,20,F,Middle,Cyclist,Passenger,Traffic Violation
+AID0436,17-02-2022,S,AP,Minor,Storm,Loc67,104,Twilight,Truck,Model4,2492,F,23,2,Serious,52,F,Upper,Pedestrian,Pedestrian,Traffic Violation
+AID0437,23-03-2023,T,UP,Moderate,Rain,Loc98,227,Daylight,Truck,Model24,1417,M,65,1,Serious,53,M,Middle,Motorcyclist,Pedestrian,Traffic Violation
+AID0438,18-05-2022,W,GA,Minor,Snow,Loc56,1225,Night,Truck,Model34,1950,F,36,7,Slight,6,F,Working,Car Passenger,Pedestrian,Traffic Violation
+AID0439,29-08-2022,S,MZ,Moderate,Clear,Loc105,554,Daylight,Bus,Model43,934,F,31,5,Serious,21,M,Middle,Cyclist,Pedestrian,Traffic Violation
+AID0440,23-04-2022,T,JH,Severe,Clear,Loc68,1029,Daylight,Motorcycle,Model23,1067,F,20,19,Fatal,51,M,Middle,Pedestrian,Pedestrian,Traffic Violation
+AID0441,09-04-2023,M,RJ,Moderate,Storm,Loc48,513,Daylight,Motorcycle,Model19,2250,M,43,2,Fatal,22,F,Working,Motorcyclist,Pedestrian,Traffic Violation
+AID0442,01-06-2023,T,KL,Minor,Storm,Loc50,628,Night,Car,Model27,1313,M,70,0,Fatal,31,M,Working,Car Passenger,Pedestrian,Traffic Violation
+AID0443,26-06-2022,F,TR,Minor,Clear,Loc118,1407,Daylight,Motorcycle,Model48,2100,M,54,5,Fatal,65,F,Working,Motorcyclist,Pedestrian,Traffic Violation
+AID0444,24-04-2022,T,GA,Minor,Clear,Loc15,1103,Twilight,Motorcycle,Model7,2443,F,31,6,Fatal,59,F,Working,Motorcyclist,Pedestrian,Traffic Violation
+AID0445,26-10-2022,W,AP,Moderate,Rain,Loc4,1654,Night,Bus,Model3,918,F,48,19,Slight,78,M,Upper,Motorcyclist,Passenger,Traffic Violation
+AID0446,06-12-2022,T,UP,Minor,Fog,Loc11,322,Twilight,Car,Model38,1936,F,39,0,Serious,45,M,Middle,Motorcyclist,Passenger,Traffic Violation
+AID0447,08-11-2022,F,TR,Moderate,Fog,Loc32,1357,Daylight,Car,Model44,2474,M,39,7,Slight,36,M,Upper,Pedestrian,Pedestrian,Traffic Violation
+AID0448,08-10-2023,M,PB,Severe,Storm,Loc149,622,Twilight,Car,Model5,2102,F,58,7,Fatal,5,F,Upper,Car Passenger,Pedestrian,Traffic Violation
+AID0449,23-09-2023,S,AP,Minor,Clear,Loc104,1838,Night,Car,Model17,2250,M,36,13,Serious,61,M,Upper,Motorcyclist,Pedestrian,Traffic Violation
+AID0450,21-05-2023,S,HP,Moderate,Storm,Loc174,330,Daylight,Car,Model47,2176,M,23,2,Fatal,16,F,Middle,Car Passenger,Pedestrian,Traffic Violation
+AID0451,14-06-2022,F,GJ,Minor,Snow,Loc7,2031,Night,Truck,Model48,1386,F,42,17,Slight,33,F,Middle,Motorcyclist,Pedestrian,Traffic Violation
+AID0452,30-10-2023,M,DL,Moderate,Storm,Loc136,1359,Twilight,Truck,Model14,1564,F,21,12,Slight,46,F,Middle,Motorcyclist,Passenger,Traffic Violation
+AID0453,29-12-2022,S,TR,Moderate,Clear,Loc14,2152,Twilight,Truck,Model46,2572,M,56,0,Serious,45,F,Middle,Cyclist,Pedestrian,Traffic Violation
+AID0454,03-11-2022,W,GJ,Severe,Rain,Loc67,308,Daylight,Bus,Model37,2684,M,19,14,Serious,21,M,Working,Pedestrian,Pedestrian,Traffic Violation
+AID0455,09-08-2023,S,PB,Severe,Rain,Loc131,1609,Twilight,Truck,Model40,1236,M,50,14,Fatal,21,M,Upper,Motorcyclist,Passenger,Traffic Violation
+AID0456,25-03-2022,T,MP,Moderate,Clear,Loc130,228,Night,Bus,Model18,2864,F,27,6,Slight,37,M,Middle,Motorcyclist,Passenger,Traffic Violation
+AID0457,30-11-2022,F,GJ,Severe,Snow,Loc5,1025,Twilight,Car,Model34,1935,F,66,4,Fatal,52,M,Upper,Motorcyclist,Passenger,Traffic Violation
+AID0458,24-11-2023,M,MP,Severe,Storm,Loc171,933,Daylight,Motorcycle,Model6,1760,F,29,0,Fatal,58,M,Upper,Pedestrian,Pedestrian,Traffic Violation
+AID0459,11-04-2022,M,KL,Severe,Clear,Loc98,1529,Daylight,Truck,Model2,2759,M,38,1,Serious,37,M,Working,Cyclist,Pedestrian,Traffic Violation
+AID0460,09-10-2023,W,GJ,Severe,Rain,Loc133,1936,Twilight,Truck,Model24,1479,F,36,8,Fatal,48,F,Upper,Pedestrian,Pedestrian,Traffic Violation
+AID0461,21-03-2023,S,HP,Minor,Storm,Loc32,658,Daylight,Bus,Model10,2863,M,34,12,Slight,44,F,Middle,Motorcyclist,Pedestrian,Traffic Violation
+AID0462,29-06-2022,W,MP,Minor,Snow,Loc80,1943,Twilight,Car,Model44,1681,F,60,14,Fatal,27,M,Middle,Motorcyclist,Passenger,Traffic Violation
+AID0463,02-06-2022,T,HP,Moderate,Storm,Loc200,1822,Daylight,Truck,Model24,1770,F,35,19,Serious,3,F,Working,Motorcyclist,Pedestrian,Traffic Violation
+AID0464,11-06-2022,S,BR,Minor,Clear,Loc18,1055,Twilight,Bus,Model42,2424,M,34,17,Fatal,33,F,Working,Cyclist,Pedestrian,Traffic Violation
+AID0465,04-06-2022,T,AS,Moderate,Rain,Loc187,644,Twilight,Truck,Model22,1831,M,22,3,Fatal,49,M,Working,Pedestrian,Passenger,Traffic Violation
+AID0466,08-01-2023,T,KL,Severe,Clear,Loc190,21,Night,Truck,Model3,2092,M,43,8,Serious,31,M,Working,Pedestrian,Passenger,Traffic Violation
+AID0467,29-05-2022,W,JH,Moderate,Clear,Loc15,118,Twilight,Truck,Model18,1264,M,59,12,Fatal,17,F,Upper,Pedestrian,Pedestrian,Traffic Violation
+AID0468,12-06-2023,M,AS,Minor,Storm,Loc36,1613,Twilight,Car,Model16,801,F,63,0,Slight,27,F,Middle,Car Passenger,Pedestrian,Traffic Violation
+AID0469,13-12-2023,T,AS,Moderate,Fog,Loc56,2328,Twilight,Truck,Model38,2119,M,54,16,Fatal,46,F,Working,Pedestrian,Passenger,Traffic Violation
+AID0470,05-03-2023,S,TN,Minor,Snow,Loc87,1711,Night,Bus,Model8,1974,F,53,12,Fatal,31,F,Upper,Motorcyclist,Pedestrian,Traffic Violation
+AID0471,04-03-2022,M,AS,Moderate,Fog,Loc34,1534,Daylight,Motorcycle,Model35,1674,M,55,14,Serious,13,M,Middle,Car Passenger,Pedestrian,Traffic Violation
+AID0472,05-05-2022,T,JH,Minor,Rain,Loc24,1745,Twilight,Truck,Model5,2268,M,45,11,Serious,33,F,Working,Motorcyclist,Pedestrian,Traffic Violation
+AID0473,26-10-2023,W,BR,Minor,Storm,Loc143,1941,Twilight,Car,Model49,2302,M,55,7,Serious,48,F,Middle,Motorcyclist,Pedestrian,Traffic Violation
+AID0474,22-04-2022,W,AS,Severe,Fog,Loc25,327,Daylight,Motorcycle,Model42,2319,M,62,10,Slight,50,M,Middle,Pedestrian,Passenger,Traffic Violation
+AID0475,14-05-2022,S,MH,Severe,Snow,Loc106,836,Daylight,Truck,Model35,1480,M,63,13,Slight,18,F,Upper,Cyclist,Pedestrian,Traffic Violation
+AID0476,15-01-2022,F,BR,Minor,Rain,Loc43,923,Twilight,Motorcycle,Model15,1975,F,32,18,Fatal,12,M,Upper,Car Passenger,Passenger,Traffic Violation
+AID0477,27-04-2023,S,UP,Severe,Fog,Loc102,624,Twilight,Bus,Model34,803,M,22,5,Serious,29,M,Upper,Motorcyclist,Pedestrian,Traffic Violation
+AID0478,28-07-2023,S,NL,Severe,Rain,Loc177,2343,Daylight,Truck,Model19,1076,F,67,16,Serious,60,F,Middle,Motorcyclist,Pedestrian,Traffic Violation
+AID0479,01-07-2022,T,GJ,Severe,Fog,Loc100,1652,Twilight,Car,Model12,2772,M,41,11,Slight,55,F,Middle,Cyclist,Pedestrian,Traffic Violation
+AID0480,24-03-2022,T,GA,Severe,Fog,Loc91,1746,Daylight,Car,Model22,2205,M,47,17,Fatal,58,M,Working,Car Passenger,Pedestrian,Traffic Violation
+AID0481,04-08-2022,S,MP,Severe,Fog,Loc68,1444,Twilight,Motorcycle,Model34,1086,F,21,7,Serious,73,M,Upper,Cyclist,Pedestrian,Traffic Violation
+AID0482,04-09-2022,M,TN,Severe,Fog,Loc137,1753,Daylight,Bus,Model9,1567,F,50,2,Slight,31,F,Middle,Cyclist,Passenger,Traffic Violation
+AID0483,18-12-2023,T,ML,Minor,Fog,Loc183,2211,Night,Truck,Model17,1328,F,32,15,Slight,78,F,Working,Pedestrian,Pedestrian,Traffic Violation
+AID0484,09-08-2022,M,KA,Minor,Clear,Loc171,810,Twilight,Truck,Model40,2152,F,55,10,Serious,14,M,Middle,Pedestrian,Passenger,Traffic Violation
+AID0485,14-12-2023,M,OD,Minor,Rain,Loc96,214,Daylight,Car,Model39,894,M,67,2,Fatal,5,M,Upper,Car Passenger,Pedestrian,Traffic Violation
+AID0486,07-08-2022,T,AP,Severe,Storm,Loc179,426,Night,Bus,Model43,2973,M,62,1,Fatal,17,F,Working,Pedestrian,Pedestrian,Traffic Violation
+AID0487,18-04-2023,M,DL,Severe,Rain,Loc175,1913,Daylight,Motorcycle,Model14,1265,F,51,17,Serious,33,F,Working,Pedestrian,Pedestrian,Traffic Violation
+AID0488,19-03-2022,S,UK,Severe,Snow,Loc151,1607,Twilight,Truck,Model2,1851,M,38,12,Serious,59,F,Middle,Cyclist,Passenger,Traffic Violation
+AID0489,28-06-2023,S,MZ,Moderate,Storm,Loc154,518,Night,Bus,Model30,1058,M,34,16,Fatal,25,F,Upper,Motorcyclist,Passenger,Traffic Violation
+AID0490,26-08-2022,T,RJ,Severe,Rain,Loc163,520,Daylight,Motorcycle,Model45,1286,M,66,5,Serious,53,M,Middle,Cyclist,Pedestrian,Traffic Violation
+AID0491,11-12-2022,M,PB,Moderate,Snow,Loc193,1754,Night,Bus,Model17,2449,F,38,14,Fatal,28,F,Middle,Cyclist,Pedestrian,Traffic Violation
+AID0492,10-10-2022,F,MN,Minor,Storm,Loc56,1555,Twilight,Car,Model40,1107,M,39,3,Slight,60,M,Upper,Motorcyclist,Passenger,Traffic Violation
+AID0493,03-08-2023,S,MZ,Moderate,Snow,Loc110,346,Daylight,Car,Model10,1995,M,19,4,Serious,71,M,Middle,Motorcyclist,Passenger,Traffic Violation
+AID0494,01-08-2023,T,BR,Severe,Rain,Loc180,557,Twilight,Car,Model6,2836,M,27,13,Fatal,61,F,Upper,Pedestrian,Pedestrian,Traffic Violation
+AID0495,05-07-2022,T,JH,Severe,Fog,Loc99,759,Night,Motorcycle,Model28,2821,M,68,20,Fatal,34,F,Working,Pedestrian,Pedestrian,Traffic Violation
+AID0496,04-07-2022,T,OD,Minor,Clear,Loc80,1919,Daylight,Motorcycle,Model14,1455,M,51,1,Fatal,57,F,Upper,Car Passenger,Passenger,Traffic Violation
+AID0497,28-07-2022,T,TR,Severe,Rain,Loc25,1856,Night,Truck,Model20,965,F,31,11,Serious,58,F,Upper,Pedestrian,Pedestrian,Traffic Violation
+AID0498,05-08-2023,W,TR,Minor,Snow,Loc178,1006,Night,Car,Model44,2947,F,35,5,Serious,7,M,Working,Car Passenger,Passenger,Traffic Violation
+AID0499,19-04-2022,W,UP,Severe,Fog,Loc5,259,Daylight,Truck,Model6,1716,F,54,2,Fatal,12,M,Middle,Cyclist,Passenger,Traffic Violation
+AID0500,23-11-2023,S,ML,Minor,Snow,Loc75,2301,Daylight,Motorcycle,Model7,2074,F,32,4,Fatal,9,F,Middle,Car Passenger,Passenger,Traffic Violation
+AID0501,26-05-2022,S,UP,Minor,Fog,Loc121,611,Night,Car,Model48,859,F,35,6,Slight,58,F,Working,Cyclist,Passenger,Traffic Violation
+AID0502,13-05-2022,T,UK,Severe,Clear,Loc182,426,Night,Car,Model29,2318,F,34,17,Fatal,33,M,Working,Cyclist,Passenger,Traffic Violation
+AID0503,24-11-2022,W,AS,Moderate,Fog,Loc30,1652,Night,Truck,Model49,1424,F,24,13,Serious,42,F,Working,Motorcyclist,Passenger,Traffic Violation
+AID0504,12-01-2023,W,UP,Minor,Clear,Loc32,2320,Night,Bus,Model36,946,F,30,12,Fatal,4,F,Working,Cyclist,Passenger,Traffic Violation
+AID0505,28-01-2022,T,ML,Moderate,Storm,Loc123,2258,Twilight,Truck,Model13,1489,M,21,11,Slight,71,M,Working,Cyclist,Pedestrian,Traffic Violation
+AID0506,11-08-2023,F,TR,Moderate,Fog,Loc63,2002,Twilight,Truck,Model27,875,F,56,16,Serious,16,F,Upper,Car Passenger,Pedestrian,Traffic Violation
+AID0507,25-12-2022,M,AR,Severe,Clear,Loc42,1013,Night,Bus,Model28,1823,F,32,5,Serious,8,F,Upper,Pedestrian,Pedestrian,Traffic Violation
+AID0508,23-02-2023,S,DL,Moderate,Clear,Loc157,334,Daylight,Truck,Model43,2812,M,64,1,Serious,59,F,Working,Car Passenger,Pedestrian,Traffic Violation
+AID0509,03-01-2023,M,CG,Severe,Clear,Loc102,227,Twilight,Motorcycle,Model13,2368,M,69,0,Fatal,53,M,Middle,Cyclist,Passenger,Traffic Violation
+AID0510,04-02-2023,F,MP,Severe,Fog,Loc140,231,Night,Truck,Model41,1149,F,69,3,Serious,8,F,Working,Motorcyclist,Passenger,Traffic Violation
+AID0511,30-09-2022,W,AR,Severe,Storm,Loc5,844,Night,Bus,Model16,1724,F,31,13,Slight,38,F,Upper,Car Passenger,Passenger,Traffic Violation
+AID0512,22-10-2023,S,GJ,Severe,Clear,Loc191,313,Twilight,Bus,Model30,2387,M,35,8,Fatal,71,F,Middle,Car Passenger,Passenger,Traffic Violation
+AID0513,17-05-2022,M,RJ,Severe,Snow,Loc108,2204,Night,Motorcycle,Model37,1914,M,33,6,Fatal,64,M,Upper,Pedestrian,Pedestrian,Traffic Violation
+AID0514,22-11-2022,M,MN,Severe,Fog,Loc149,414,Twilight,Truck,Model11,1051,F,43,17,Serious,5,F,Working,Motorcyclist,Pedestrian,Traffic Violation
+AID0515,07-01-2023,T,CG,Severe,Fog,Loc185,901,Night,Truck,Model47,2231,F,70,17,Slight,52,F,Upper,Car Passenger,Pedestrian,Traffic Violation
+AID0516,24-02-2023,F,UK,Minor,Rain,Loc140,1103,Night,Car,Model47,2479,M,38,20,Slight,50,M,Working,Cyclist,Passenger,Traffic Violation
+AID0517,26-05-2023,T,MN,Moderate,Snow,Loc107,1019,Twilight,Truck,Model15,1766,M,41,3,Slight,44,M,Middle,Car Passenger,Pedestrian,Traffic Violation
+AID0518,08-11-2023,S,BR,Minor,Fog,Loc124,758,Daylight,Truck,Model31,2620,M,28,13,Slight,6,M,Working,Motorcyclist,Pedestrian,Traffic Violation
+AID0519,27-06-2022,T,GA,Moderate,Snow,Loc143,833,Daylight,Truck,Model19,1606,F,50,4,Fatal,66,F,Middle,Car Passenger,Passenger,Traffic Violation
+AID0520,18-10-2022,F,TR,Minor,Clear,Loc63,28,Twilight,Car,Model34,1060,F,24,13,Slight,59,M,Upper,Motorcyclist,Passenger,Traffic Violation
+AID0521,23-09-2023,F,PB,Severe,Fog,Loc133,43,Twilight,Truck,Model31,822,M,67,16,Fatal,52,F,Upper,Car Passenger,Pedestrian,Traffic Violation
+AID0522,14-10-2022,T,AS,Minor,Fog,Loc94,1657,Night,Motorcycle,Model21,1679,F,67,13,Fatal,55,M,Upper,Motorcyclist,Passenger,Traffic Violation
+AID0523,09-02-2023,S,GJ,Severe,Snow,Loc14,1559,Twilight,Bus,Model4,1885,F,50,8,Serious,61,M,Middle,Cyclist,Pedestrian,Traffic Violation
+AID0524,28-09-2022,T,GJ,Moderate,Fog,Loc172,1046,Night,Car,Model18,2717,M,21,2,Serious,78,F,Upper,Car Passenger,Pedestrian,Traffic Violation
+AID0525,16-12-2023,S,UP,Minor,Clear,Loc49,151,Daylight,Car,Model41,823,F,30,17,Slight,21,F,Working,Motorcyclist,Pedestrian,Traffic Violation
+AID0526,21-01-2023,W,OD,Severe,Storm,Loc93,436,Night,Bus,Model18,2991,M,65,13,Serious,1,F,Working,Car Passenger,Passenger,Traffic Violation
+AID0527,07-03-2023,T,DL,Severe,Fog,Loc16,230,Night,Car,Model39,2581,F,48,7,Fatal,33,M,Upper,Pedestrian,Passenger,Traffic Violation
+AID0528,23-03-2023,T,MH,Moderate,Rain,Loc170,54,Daylight,Bus,Model1,2097,F,37,6,Fatal,4,F,Upper,Car Passenger,Passenger,Traffic Violation
+AID0529,02-04-2022,T,MN,Minor,Clear,Loc178,1738,Daylight,Car,Model21,2207,F,48,13,Fatal,58,M,Upper,Pedestrian,Pedestrian,Traffic Violation
+AID0530,29-12-2023,M,UK,Minor,Rain,Loc198,405,Twilight,Bus,Model14,813,F,51,5,Slight,61,F,Upper,Car Passenger,Passenger,Traffic Violation
+AID0531,28-07-2023,F,BR,Severe,Rain,Loc10,227,Twilight,Bus,Model24,932,F,60,16,Fatal,27,M,Upper,Cyclist,Passenger,Traffic Violation
+AID0532,01-09-2023,T,UP,Severe,Fog,Loc106,749,Night,Truck,Model22,2304,M,34,5,Fatal,42,M,Working,Motorcyclist,Passenger,Traffic Violation
+AID0533,02-05-2022,S,WB,Minor,Storm,Loc193,1400,Twilight,Motorcycle,Model12,2327,M,67,9,Fatal,14,F,Upper,Car Passenger,Pedestrian,Traffic Violation
+AID0534,21-07-2022,S,CG,Minor,Snow,Loc41,2001,Daylight,Bus,Model3,1389,M,52,7,Slight,38,M,Upper,Car Passenger,Pedestrian,Traffic Violation
+AID0535,09-07-2022,W,SK,Moderate,Snow,Loc130,936,Night,Truck,Model13,2431,M,49,6,Slight,74,F,Middle,Motorcyclist,Pedestrian,Traffic Violation
+AID0536,28-02-2023,T,UP,Severe,Fog,Loc103,1012,Night,Motorcycle,Model12,1445,F,42,5,Slight,80,M,Upper,Pedestrian,Pedestrian,Traffic Violation
+AID0537,28-04-2023,T,MZ,Minor,Snow,Loc164,426,Daylight,Truck,Model46,1396,F,45,11,Fatal,24,M,Middle,Motorcyclist,Passenger,Traffic Violation
+AID0538,13-11-2023,S,DL,Moderate,Fog,Loc94,2237,Night,Motorcycle,Model31,2348,F,34,13,Fatal,75,M,Middle,Cyclist,Passenger,Traffic Violation
+AID0539,01-02-2023,M,OD,Moderate,Clear,Loc63,1243,Night,Bus,Model15,1323,F,49,20,Serious,19,M,Middle,Motorcyclist,Passenger,Traffic Violation
+AID0540,24-11-2023,S,NL,Severe,Storm,Loc17,709,Twilight,Motorcycle,Model1,2112,F,47,9,Serious,21,F,Working,Pedestrian,Pedestrian,Traffic Violation
+AID0541,20-08-2023,T,KL,Minor,Snow,Loc27,1802,Daylight,Motorcycle,Model28,2258,F,24,2,Slight,29,M,Middle,Motorcyclist,Passenger,Traffic Violation
+AID0542,11-05-2022,M,TR,Severe,Storm,Loc161,1752,Night,Motorcycle,Model28,2533,M,18,12,Fatal,4,M,Working,Cyclist,Passenger,Traffic Violation
+AID0543,14-01-2022,S,TN,Severe,Snow,Loc103,1224,Night,Truck,Model10,1521,M,31,14,Fatal,33,M,Working,Pedestrian,Pedestrian,Traffic Violation
+AID0544,27-07-2022,S,CG,Minor,Clear,Loc157,1836,Daylight,Truck,Model47,1758,F,43,0,Fatal,27,M,Upper,Car Passenger,Passenger,Traffic Violation
+AID0545,28-11-2022,M,AP,Severe,Fog,Loc84,558,Daylight,Motorcycle,Model37,2501,M,70,16,Fatal,21,F,Working,Motorcyclist,Passenger,Traffic Violation
+AID0546,15-10-2022,S,MZ,Moderate,Storm,Loc166,456,Night,Truck,Model42,2703,F,50,0,Serious,74,M,Working,Car Passenger,Pedestrian,Traffic Violation
+AID0547,21-12-2022,F,KA,Minor,Clear,Loc167,411,Night,Truck,Model30,1991,F,18,1,Fatal,1,F,Working,Car Passenger,Passenger,Traffic Violation
+AID0548,21-01-2022,T,UP,Minor,Storm,Loc50,2311,Twilight,Car,Model14,2056,F,67,5,Slight,79,F,Upper,Car Passenger,Passenger,Traffic Violation
+AID0549,14-12-2022,T,BR,Severe,Clear,Loc101,1432,Twilight,Truck,Model47,2924,F,23,18,Serious,18,M,Upper,Cyclist,Pedestrian,Traffic Violation
+AID0550,08-09-2023,S,GA,Severe,Storm,Loc123,1002,Night,Bus,Model4,1552,M,64,9,Fatal,28,F,Upper,Pedestrian,Passenger,Traffic Violation
+AID0551,14-12-2022,W,TN,Severe,Rain,Loc20,628,Daylight,Truck,Model48,2789,F,37,18,Serious,25,M,Upper,Car Passenger,Passenger,Traffic Violation
+AID0552,16-10-2022,W,KA,Severe,Clear,Loc74,1820,Night,Motorcycle,Model3,1325,F,48,7,Serious,35,M,Upper,Pedestrian,Passenger,Traffic Violation
+AID0553,16-02-2023,S,SK,Minor,Snow,Loc5,949,Daylight,Bus,Model32,1113,F,31,18,Serious,31,F,Middle,Cyclist,Pedestrian,Traffic Violation
+AID0554,23-05-2022,S,AP,Severe,Rain,Loc14,333,Daylight,Bus,Model5,1429,F,37,5,Fatal,47,M,Upper,Pedestrian,Pedestrian,Traffic Violation
+AID0555,19-05-2022,W,UP,Minor,Clear,Loc111,1143,Night,Car,Model1,928,F,22,6,Slight,47,M,Upper,Car Passenger,Pedestrian,Traffic Violation
+AID0556,28-11-2022,S,MN,Moderate,Rain,Loc191,134,Twilight,Motorcycle,Model46,2499,F,67,13,Serious,38,M,Upper,Motorcyclist,Passenger,Traffic Violation
+AID0557,28-11-2023,T,NL,Severe,Rain,Loc93,1014,Night,Truck,Model1,1797,F,25,0,Fatal,52,F,Working,Motorcyclist,Passenger,Traffic Violation
+AID0558,27-04-2022,M,NL,Severe,Snow,Loc133,550,Night,Bus,Model20,2833,F,69,9,Fatal,11,F,Working,Cyclist,Passenger,Traffic Violation
+AID0559,08-04-2022,M,AS,Moderate,Storm,Loc60,728,Twilight,Motorcycle,Model8,1337,F,42,9,Fatal,64,F,Working,Motorcyclist,Passenger,Traffic Violation
+AID0560,16-01-2023,S,TN,Moderate,Snow,Loc3,545,Daylight,Car,Model50,1120,F,60,7,Fatal,38,M,Middle,Cyclist,Passenger,Traffic Violation
+AID0561,09-06-2022,S,AR,Moderate,Rain,Loc78,1134,Night,Bus,Model36,1817,F,51,11,Slight,68,M,Working,Car Passenger,Passenger,Traffic Violation
+AID0562,14-11-2023,F,MZ,Moderate,Storm,Loc138,946,Daylight,Car,Model8,2670,F,35,6,Serious,14,M,Working,Pedestrian,Pedestrian,Traffic Violation
+AID0563,08-01-2023,F,GJ,Moderate,Fog,Loc101,1541,Twilight,Bus,Model1,1793,M,27,5,Fatal,70,M,Working,Car Passenger,Passenger,Traffic Violation
+AID0564,18-06-2023,T,PB,Severe,Fog,Loc101,1659,Daylight,Motorcycle,Model30,1102,M,35,7,Slight,22,F,Middle,Car Passenger,Passenger,Traffic Violation
+AID0565,08-05-2023,T,NL,Minor,Snow,Loc124,1627,Daylight,Truck,Model42,2857,F,40,10,Fatal,46,M,Upper,Pedestrian,Pedestrian,Traffic Violation
+AID0566,11-10-2023,M,HP,Minor,Storm,Loc142,1459,Daylight,Motorcycle,Model9,1414,M,32,17,Fatal,32,F,Middle,Cyclist,Passenger,Traffic Violation
+AID0567,29-05-2022,S,NL,Minor,Snow,Loc46,248,Daylight,Truck,Model18,2118,M,37,14,Serious,48,M,Middle,Cyclist,Passenger,Traffic Violation
+AID0568,22-06-2022,W,GA,Minor,Storm,Loc173,512,Daylight,Motorcycle,Model24,2817,F,44,6,Slight,21,F,Working,Motorcyclist,Pedestrian,Traffic Violation
+AID0569,03-09-2023,S,MZ,Severe,Clear,Loc3,1219,Twilight,Truck,Model22,932,M,32,13,Fatal,53,F,Middle,Motorcyclist,Passenger,Traffic Violation
+AID0570,08-02-2022,M,DL,Severe,Fog,Loc72,1241,Twilight,Motorcycle,Model35,1451,M,68,17,Fatal,17,M,Upper,Motorcyclist,Pedestrian,Traffic Violation
+AID0571,16-02-2023,F,MH,Minor,Fog,Loc104,620,Night,Car,Model50,2814,F,59,6,Serious,77,M,Upper,Motorcyclist,Pedestrian,Traffic Violation
+AID0572,02-07-2022,T,HP,Minor,Rain,Loc116,1253,Daylight,Truck,Model23,1181,F,35,11,Serious,5,M,Working,Cyclist,Passenger,Weather
+AID0573,17-03-2023,F,MZ,Minor,Fog,Loc175,509,Daylight,Bus,Model10,2027,M,18,11,Slight,46,F,Middle,Pedestrian,Passenger,Weather
+AID0574,31-05-2023,T,NL,Minor,Storm,Loc72,1028,Daylight,Bus,Model5,2086,F,66,20,Fatal,45,M,Working,Cyclist,Passenger,Weather
+AID0575,25-04-2022,W,MZ,Severe,Clear,Loc150,1345,Twilight,Motorcycle,Model4,1179,M,25,11,Slight,3,F,Upper,Pedestrian,Pedestrian,Weather
+AID0576,09-03-2022,T,MN,Severe,Rain,Loc11,309,Daylight,Motorcycle,Model34,2902,M,43,1,Fatal,53,F,Upper,Motorcyclist,Passenger,Weather
+AID0577,23-09-2023,F,SK,Severe,Clear,Loc139,752,Night,Car,Model43,1628,M,55,17,Serious,49,M,Working,Pedestrian,Passenger,Weather
+AID0578,17-11-2023,W,MH,Moderate,Storm,Loc34,1711,Night,Bus,Model4,2215,M,66,20,Slight,62,F,Upper,Motorcyclist,Passenger,Weather
+AID0579,20-12-2023,F,KA,Severe,Fog,Loc53,715,Night,Truck,Model44,2301,F,58,18,Fatal,53,M,Middle,Car Passenger,Passenger,Weather
+AID0580,03-10-2023,S,AS,Severe,Snow,Loc98,902,Twilight,Car,Model38,1070,F,19,0,Slight,38,M,Upper,Motorcyclist,Pedestrian,Weather
+AID0581,04-04-2023,S,NL,Moderate,Storm,Loc25,1858,Daylight,Bus,Model48,2290,M,46,16,Fatal,13,F,Middle,Pedestrian,Passenger,Weather
+AID0582,28-10-2022,T,SK,Moderate,Fog,Loc72,327,Daylight,Truck,Model48,2694,M,42,13,Slight,6,F,Middle,Motorcyclist,Pedestrian,Overspeeding
+AID0583,26-09-2023,F,AP,Minor,Rain,Loc134,1425,Night,Motorcycle,Model30,2851,M,57,8,Serious,28,M,Upper,Pedestrian,Passenger,Overspeeding
+AID0584,31-10-2022,T,HR,Minor,Rain,Loc100,1141,Twilight,Car,Model26,2012,F,40,2,Fatal,19,M,Middle,Motorcyclist,Pedestrian,Overspeeding
+AID0585,11-03-2023,W,GJ,Moderate,Rain,Loc63,1046,Daylight,Motorcycle,Model40,1677,M,63,3,Serious,55,F,Upper,Pedestrian,Pedestrian,Overspeeding
+AID0586,12-06-2023,M,UP,Minor,Fog,Loc110,1609,Twilight,Car,Model43,1690,F,30,7,Fatal,18,F,Upper,Motorcyclist,Pedestrian,Overspeeding
+AID0587,11-10-2022,T,TR,Minor,Rain,Loc42,1727,Twilight,Motorcycle,Model19,1908,F,46,2,Fatal,68,M,Upper,Motorcyclist,Pedestrian,Overspeeding
+AID0588,13-05-2023,S,KA,Severe,Snow,Loc162,1127,Daylight,Motorcycle,Model5,909,M,43,1,Slight,23,F,Middle,Car Passenger,Passenger,Overspeeding
+AID0589,15-08-2023,M,UP,Severe,Snow,Loc101,904,Twilight,Car,Model21,912,M,21,20,Slight,37,F,Working,Pedestrian,Pedestrian,Overspeeding
+AID0590,11-08-2023,F,JH,Minor,Storm,Loc83,228,Daylight,Truck,Model12,2603,F,44,20,Slight,3,F,Middle,Car Passenger,Pedestrian,Overspeeding
+AID0591,13-11-2022,S,PB,Moderate,Rain,Loc184,1744,Night,Truck,Model37,2183,F,54,14,Fatal,10,F,Upper,Cyclist,Passenger,Overspeeding
+AID0592,22-05-2023,T,WB,Moderate,Fog,Loc150,743,Daylight,Bus,Model39,2793,F,60,4,Slight,45,M,Upper,Cyclist,Passenger,Overspeeding
+AID0593,01-09-2023,S,UP,Moderate,Fog,Loc157,2223,Twilight,Truck,Model5,1315,F,42,6,Slight,54,F,Working,Motorcyclist,Pedestrian,Overspeeding
+AID0594,26-04-2022,S,MN,Severe,Fog,Loc53,2343,Night,Motorcycle,Model23,2494,F,57,20,Slight,20,M,Middle,Motorcyclist,Passenger,Overspeeding
+AID0595,23-07-2023,S,UK,Severe,Clear,Loc154,813,Night,Bus,Model13,2876,F,20,18,Slight,44,M,Working,Pedestrian,Passenger,Weather
+AID0596,10-08-2022,S,KL,Severe,Snow,Loc161,1130,Twilight,Truck,Model17,829,F,48,3,Fatal,34,M,Middle,Car Passenger,Pedestrian,Weather
+AID0597,04-07-2022,S,PB,Severe,Storm,Loc55,2106,Daylight,Truck,Model23,1986,M,58,3,Slight,60,F,Middle,Car Passenger,Passenger,Weather
+AID0598,26-04-2023,S,HR,Severe,Snow,Loc62,2316,Twilight,Motorcycle,Model33,2391,M,25,10,Serious,15,F,Working,Pedestrian,Pedestrian,Weather
+AID0599,24-09-2023,S,MZ,Minor,Snow,Loc55,801,Daylight,Bus,Model50,2620,M,21,14,Fatal,51,M,Middle,Motorcyclist,Pedestrian,Weather
+AID0600,26-09-2023,S,JH,Severe,Rain,Loc157,207,Twilight,Car,Model32,2332,M,51,4,Slight,66,M,Working,Cyclist,Passenger,Weather
+AID0601,19-11-2022,M,UK,Minor,Clear,Loc178,616,Daylight,Bus,Model46,2253,M,35,18,Fatal,19,M,Upper,Car Passenger,Pedestrian,Weather
+AID0602,24-03-2022,F,RJ,Minor,Fog,Loc16,922,Twilight,Bus,Model2,927,F,70,6,Fatal,49,M,Middle,Motorcyclist,Passenger,Weather
+AID0603,05-12-2022,M,TN,Moderate,Fog,Loc27,926,Daylight,Truck,Model43,928,M,25,7,Slight,59,M,Working,Pedestrian,Passenger,Weather
+AID0604,03-07-2023,T,SK,Moderate,Snow,Loc140,2117,Twilight,Motorcycle,Model32,1503,F,24,4,Fatal,21,F,Middle,Car Passenger,Pedestrian,Weather
+AID0605,04-12-2023,W,GA,Severe,Fog,Loc148,1946,Twilight,Bus,Model27,2048,M,50,12,Fatal,78,M,Middle,Pedestrian,Passenger,Weather
+AID0606,02-06-2022,M,AR,Severe,Snow,Loc151,1931,Night,Truck,Model36,1407,F,46,17,Slight,21,M,Upper,Car Passenger,Passenger,Weather
+AID0607,06-07-2022,M,UK,Minor,Clear,Loc177,1857,Daylight,Truck,Model50,1847,M,24,0,Fatal,29,F,Working,Car Passenger,Pedestrian,Weather
+AID0608,30-06-2023,T,NL,Minor,Fog,Loc139,1426,Night,Motorcycle,Model35,2651,M,28,18,Fatal,37,M,Middle,Cyclist,Passenger,Weather
+AID0609,12-09-2023,S,MP,Minor,Rain,Loc39,2057,Night,Car,Model48,1273,M,34,6,Slight,78,M,Working,Cyclist,Pedestrian,Weather
+AID0610,25-05-2023,W,CG,Minor,Fog,Loc111,56,Twilight,Truck,Model7,1760,M,61,15,Slight,8,M,Upper,Cyclist,Passenger,Weather
+AID0611,20-07-2022,F,UP,Severe,Storm,Loc127,736,Daylight,Car,Model40,2898,M,61,19,Fatal,46,M,Upper,Cyclist,Passenger,Weather
+AID0612,31-01-2023,S,GJ,Moderate,Fog,Loc87,1124,Night,Bus,Model29,1852,F,55,0,Fatal,22,F,Middle,Car Passenger,Passenger,Weather
+AID0613,27-07-2022,M,NL,Moderate,Rain,Loc97,2304,Twilight,Motorcycle,Model43,2610,M,30,4,Fatal,37,M,Middle,Motorcyclist,Pedestrian,Weather
+AID0614,27-05-2022,F,SK,Minor,Rain,Loc172,1348,Twilight,Car,Model35,2629,F,25,14,Serious,32,F,Working,Cyclist,Passenger,Weather
+AID0615,20-09-2022,T,KL,Minor,Snow,Loc108,154,Twilight,Motorcycle,Model39,838,M,23,11,Fatal,54,F,Working,Car Passenger,Pedestrian,Weather
+AID0616,31-08-2023,F,MP,Minor,Fog,Loc123,600,Night,Car,Model35,1556,M,37,15,Slight,33,M,Middle,Car Passenger,Pedestrian,Weather
+AID0617,04-09-2023,S,CG,Moderate,Rain,Loc58,316,Night,Car,Model42,1052,M,60,12,Fatal,37,F,Working,Car Passenger,Pedestrian,Weather
+AID0618,11-01-2022,T,KL,Minor,Storm,Loc177,731,Night,Truck,Model13,1088,F,61,10,Serious,11,F,Working,Car Passenger,Pedestrian,Weather
+AID0619,29-06-2023,W,AR,Moderate,Snow,Loc82,2312,Night,Motorcycle,Model43,2161,F,70,2,Fatal,71,F,Middle,Pedestrian,Passenger,Weather
+AID0620,07-01-2023,T,AR,Severe,Clear,Loc120,1311,Night,Truck,Model35,2230,F,66,4,Slight,28,F,Working,Motorcyclist,Pedestrian,Weather
+AID0621,16-09-2023,W,PB,Severe,Snow,Loc142,455,Night,Truck,Model23,2011,M,67,16,Slight,45,M,Middle,Car Passenger,Pedestrian,Weather
+AID0622,29-01-2023,S,MP,Severe,Fog,Loc46,1046,Twilight,Truck,Model4,1604,M,18,8,Slight,8,M,Working,Motorcyclist,Passenger,Weather
+AID0623,02-05-2022,F,AS,Moderate,Rain,Loc191,1925,Twilight,Motorcycle,Model16,1058,M,59,14,Fatal,78,F,Middle,Cyclist,Passenger,Weather
+AID0624,12-02-2023,M,MH,Severe,Clear,Loc131,1741,Twilight,Truck,Model17,1227,F,21,18,Serious,32,F,Working,Motorcyclist,Pedestrian,Weather
+AID0625,04-02-2022,S,TR,Severe,Snow,Loc65,209,Daylight,Truck,Model41,2843,M,70,15,Slight,56,M,Upper,Cyclist,Pedestrian,Weather
+AID0626,10-01-2023,S,AP,Minor,Clear,Loc112,1612,Night,Bus,Model16,2792,F,39,9,Serious,35,F,Middle,Motorcyclist,Passenger,Weather
+AID0627,30-07-2023,S,BR,Moderate,Fog,Loc81,1210,Twilight,Motorcycle,Model6,2961,F,32,19,Slight,39,F,Working,Motorcyclist,Pedestrian,Weather
+AID0628,10-09-2023,W,OD,Severe,Rain,Loc54,1101,Twilight,Motorcycle,Model17,2332,F,62,5,Serious,66,F,Working,Car Passenger,Passenger,Weather
+AID0629,11-03-2023,W,MZ,Severe,Clear,Loc133,749,Night,Truck,Model9,900,F,55,12,Fatal,80,F,Middle,Cyclist,Passenger,Weather
+AID0630,23-03-2022,S,ML,Moderate,Storm,Loc75,2355,Daylight,Car,Model28,1666,M,43,8,Slight,77,F,Middle,Car Passenger,Passenger,Weather
+AID0631,07-05-2022,S,HR,Moderate,Storm,Loc174,613,Night,Car,Model23,1260,F,60,4,Fatal,15,M,Working,Cyclist,Pedestrian,Weather
+AID0632,13-05-2023,S,GA,Moderate,Snow,Loc148,1224,Night,Truck,Model41,1083,M,50,10,Slight,77,M,Working,Pedestrian,Passenger,Weather
+AID0633,25-06-2022,F,AP,Minor,Rain,Loc1,2007,Night,Truck,Model10,1944,F,47,17,Slight,1,F,Working,Pedestrian,Passenger,Weather
+AID0634,17-08-2023,T,MP,Minor,Clear,Loc14,2028,Night,Motorcycle,Model11,2734,M,65,20,Serious,9,F,Upper,Cyclist,Pedestrian,Weather
+AID0635,01-09-2023,W,HR,Minor,Rain,Loc25,1820,Daylight,Car,Model25,1895,F,35,3,Slight,53,F,Upper,Cyclist,Pedestrian,Weather
+AID0636,10-09-2023,T,JH,Minor,Clear,Loc50,1801,Night,Bus,Model50,880,F,47,4,Serious,72,F,Working,Pedestrian,Passenger,Weather
+AID0637,21-06-2023,F,TN,Minor,Clear,Loc133,1727,Night,Motorcycle,Model26,1430,M,33,18,Serious,10,F,Working,Cyclist,Passenger,Weather
+AID0638,01-05-2022,S,UP,Moderate,Snow,Loc149,1054,Daylight,Motorcycle,Model39,1100,M,66,3,Slight,5,F,Working,Motorcyclist,Pedestrian,Impacting Vehicle/Object
+AID0639,05-02-2022,T,AP,Severe,Snow,Loc137,146,Daylight,Truck,Model33,1384,F,62,1,Fatal,17,F,Middle,Cyclist,Passenger,Impacting Vehicle/Object
+AID0640,06-01-2023,F,WB,Minor,Rain,Loc177,1210,Night,Bus,Model2,953,M,25,9,Serious,80,F,Upper,Cyclist,Passenger,Impacting Vehicle/Object
+AID0641,22-11-2023,S,HP,Moderate,Rain,Loc92,905,Night,Truck,Model16,2936,F,20,14,Serious,23,F,Middle,Motorcyclist,Pedestrian,Impacting Vehicle/Object
+AID0642,06-03-2023,T,OD,Moderate,Snow,Loc143,1611,Daylight,Car,Model34,956,M,51,6,Fatal,48,F,Working,Motorcyclist,Passenger,Impacting Vehicle/Object
+AID0643,07-04-2022,T,TN,Minor,Storm,Loc15,557,Night,Motorcycle,Model50,1464,F,24,18,Slight,2,F,Middle,Pedestrian,Passenger,Impacting Vehicle/Object
+AID0644,30-10-2023,S,MN,Minor,Clear,Loc77,418,Twilight,Truck,Model43,2087,M,30,13,Serious,67,M,Working,Cyclist,Pedestrian,Impacting Vehicle/Object
+AID0645,25-04-2023,T,MZ,Minor,Clear,Loc30,234,Night,Motorcycle,Model5,2402,F,36,19,Serious,18,M,Middle,Cyclist,Pedestrian,Impacting Vehicle/Object
+AID0646,07-11-2022,S,RJ,Minor,Storm,Loc148,1836,Night,Truck,Model19,1808,M,58,10,Serious,60,F,Upper,Cyclist,Passenger,Impacting Vehicle/Object
+AID0647,14-04-2022,T,HP,Minor,Fog,Loc166,2037,Daylight,Car,Model23,1629,F,38,17,Slight,11,F,Upper,Pedestrian,Pedestrian,Impacting Vehicle/Object
+AID0648,23-12-2023,T,DL,Minor,Rain,Loc99,531,Night,Car,Model45,2107,M,61,7,Serious,55,M,Middle,Motorcyclist,Passenger,Impacting Vehicle/Object
+AID0649,06-04-2022,F,SK,Severe,Clear,Loc5,603,Night,Bus,Model27,1595,M,62,3,Fatal,25,M,Upper,Motorcyclist,Passenger,Impacting Vehicle/Object
+AID0650,13-07-2023,W,GA,Severe,Clear,Loc72,914,Daylight,Bus,Model34,877,M,39,13,Serious,24,M,Working,Cyclist,Pedestrian,Impacting Vehicle/Object
+AID0651,28-10-2023,S,RJ,Minor,Clear,Loc116,1259,Twilight,Car,Model40,1969,M,29,13,Serious,15,F,Upper,Car Passenger,Pedestrian,Impacting Vehicle/Object
+AID0652,27-07-2023,M,BR,Severe,Clear,Loc188,449,Night,Motorcycle,Model47,2117,F,46,15,Slight,62,M,Working,Motorcyclist,Pedestrian,Impacting Vehicle/Object
+AID0653,19-03-2022,T,WB,Moderate,Rain,Loc198,727,Night,Car,Model2,2227,F,19,15,Serious,47,F,Upper,Motorcyclist,Pedestrian,Impacting Vehicle/Object
+AID0654,17-01-2023,W,JH,Severe,Fog,Loc71,1134,Twilight,Bus,Model24,1304,M,34,20,Slight,51,M,Upper,Cyclist,Pedestrian,Impacting Vehicle/Object
+AID0655,17-02-2022,W,WB,Moderate,Fog,Loc81,1,Night,Truck,Model22,1794,F,63,7,Fatal,20,F,Upper,Car Passenger,Pedestrian,Impacting Vehicle/Object
+AID0656,11-01-2022,S,OD,Moderate,Storm,Loc38,2348,Daylight,Truck,Model45,2802,F,35,14,Serious,62,F,Middle,Car Passenger,Pedestrian,Impacting Vehicle/Object
+AID0657,03-05-2022,M,AP,Severe,Rain,Loc82,121,Twilight,Motorcycle,Model9,1191,F,24,6,Fatal,50,M,Upper,Cyclist,Passenger,Impacting Vehicle/Object
+AID0658,31-07-2022,F,UP,Severe,Fog,Loc165,510,Daylight,Car,Model21,2657,F,56,8,Serious,23,F,Upper,Cyclist,Passenger,Impacting Vehicle/Object
+AID0659,02-04-2022,S,UP,Minor,Snow,Loc93,512,Twilight,Truck,Model8,2070,M,37,16,Fatal,13,M,Middle,Car Passenger,Pedestrian,Impacting Vehicle/Object
+AID0660,24-04-2022,S,AP,Severe,Storm,Loc91,314,Daylight,Car,Model37,2300,F,67,10,Slight,78,M,Working,Car Passenger,Pedestrian,Impacting Vehicle/Object
+AID0661,16-09-2023,S,OD,Severe,Storm,Loc80,950,Daylight,Bus,Model26,1373,F,32,16,Fatal,37,M,Upper,Car Passenger,Pedestrian,Impacting Vehicle/Object
+AID0662,22-03-2022,S,KL,Severe,Clear,Loc140,610,Daylight,Car,Model48,2315,M,40,20,Fatal,47,M,Upper,Cyclist,Passenger,Impacting Vehicle/Object
+AID0663,17-10-2022,W,DL,Moderate,Snow,Loc111,756,Twilight,Truck,Model6,1116,F,24,13,Serious,44,M,Upper,Cyclist,Passenger,Impacting Vehicle/Object
+AID0664,13-05-2023,S,TN,Moderate,Snow,Loc113,718,Daylight,Bus,Model23,1969,F,52,10,Serious,27,F,Middle,Cyclist,Passenger,Impacting Vehicle/Object
+AID0665,28-02-2022,S,WB,Moderate,Storm,Loc48,1832,Night,Truck,Model28,1076,M,67,10,Serious,61,M,Working,Cyclist,Pedestrian,Impacting Vehicle/Object
+AID0666,13-09-2023,T,UP,Severe,Fog,Loc82,1932,Night,Bus,Model30,1742,M,29,13,Serious,3,M,Middle,Motorcyclist,Passenger,Impacting Vehicle/Object
+AID0667,23-06-2023,F,NL,Moderate,Clear,Loc64,2104,Daylight,Motorcycle,Model33,2858,M,44,12,Serious,70,F,Working,Motorcyclist,Passenger,Impacting Vehicle/Object
+AID0668,08-09-2023,T,WB,Severe,Fog,Loc50,919,Twilight,Motorcycle,Model16,2712,M,19,8,Serious,47,M,Upper,Motorcyclist,Pedestrian,Impacting Vehicle/Object
+AID0669,08-08-2023,W,CG,Severe,Snow,Loc29,739,Night,Car,Model13,2066,M,62,2,Serious,30,F,Working,Motorcyclist,Passenger,Impacting Vehicle/Object
+AID0670,28-07-2023,T,AP,Severe,Clear,Loc175,2028,Daylight,Truck,Model42,925,M,33,16,Serious,30,F,Working,Motorcyclist,Pedestrian,Impacting Vehicle/Object
+AID0671,23-03-2022,T,ML,Moderate,Snow,Loc80,1042,Night,Bus,Model15,2797,F,34,18,Fatal,14,F,Middle,Cyclist,Passenger,Impacting Vehicle/Object
+AID0672,16-03-2022,M,GJ,Minor,Clear,Loc75,1200,Twilight,Bus,Model18,1899,F,38,14,Fatal,51,F,Upper,Motorcyclist,Passenger,Impacting Vehicle/Object
+AID0673,11-07-2022,M,AS,Moderate,Clear,Loc73,1720,Daylight,Car,Model16,2363,M,41,16,Serious,46,F,Upper,Pedestrian,Passenger,Impacting Vehicle/Object
+AID0674,27-12-2023,S,AR,Moderate,Clear,Loc157,1510,Twilight,Car,Model35,1328,F,57,11,Slight,74,F,Middle,Cyclist,Pedestrian,Impacting Vehicle/Object
+AID0675,19-10-2022,W,CG,Moderate,Storm,Loc182,429,Daylight,Bus,Model21,841,F,40,12,Serious,72,M,Upper,Pedestrian,Pedestrian,Impacting Vehicle/Object
+AID0676,21-04-2022,W,UP,Minor,Storm,Loc120,1600,Daylight,Truck,Model49,1501,M,31,2,Serious,20,M,Working,Car Passenger,Pedestrian,Impacting Vehicle/Object
+AID0677,17-02-2022,S,ML,Moderate,Snow,Loc118,2227,Daylight,Car,Model40,2839,F,69,14,Slight,7,M,Middle,Car Passenger,Pedestrian,Impacting Vehicle/Object
+AID0678,09-10-2022,T,KL,Minor,Storm,Loc163,207,Night,Motorcycle,Model48,943,M,33,10,Fatal,58,M,Working,Pedestrian,Pedestrian,Impacting Vehicle/Object
+AID0679,12-12-2022,T,MZ,Minor,Fog,Loc134,1640,Twilight,Bus,Model3,1271,M,24,4,Serious,71,F,Working,Car Passenger,Passenger,Impacting Vehicle/Object
+AID0680,07-01-2023,T,PB,Moderate,Fog,Loc124,1129,Twilight,Motorcycle,Model8,2104,M,59,16,Serious,36,F,Upper,Cyclist,Pedestrian,Impacting Vehicle/Object
+AID0681,28-07-2023,T,CG,Severe,Clear,Loc16,2151,Daylight,Truck,Model18,2910,M,60,10,Fatal,27,F,Working,Pedestrian,Pedestrian,Impacting Vehicle/Object
+AID0682,14-05-2023,W,DL,Moderate,Storm,Loc80,1804,Daylight,Bus,Model22,1273,M,57,7,Serious,24,F,Middle,Pedestrian,Pedestrian,Impacting Vehicle/Object
+AID0683,29-12-2023,S,WB,Minor,Snow,Loc90,6,Twilight,Motorcycle,Model29,1917,F,56,16,Slight,14,M,Upper,Cyclist,Pedestrian,Impacting Vehicle/Object
+AID0684,09-10-2022,F,AS,Minor,Rain,Loc63,1055,Night,Motorcycle,Model34,1874,F,70,6,Serious,28,M,Working,Motorcyclist,Passenger,Impacting Vehicle/Object
+AID0685,05-01-2022,T,GJ,Minor,Fog,Loc111,2249,Twilight,Truck,Model4,2819,M,20,19,Slight,1,M,Working,Pedestrian,Pedestrian,Impacting Vehicle/Object
+AID0686,21-11-2023,F,MN,Severe,Storm,Loc192,1104,Night,Bus,Model22,1575,F,19,0,Serious,46,M,Working,Motorcyclist,Pedestrian,Impacting Vehicle/Object
+AID0687,10-05-2023,W,UP,Moderate,Snow,Loc157,1209,Night,Motorcycle,Model20,1922,F,45,11,Serious,71,M,Middle,Motorcyclist,Pedestrian,Impacting Vehicle/Object
+AID0688,24-02-2022,S,DL,Severe,Snow,Loc117,953,Daylight,Truck,Model15,1906,F,58,9,Fatal,65,M,Working,Motorcyclist,Pedestrian,Impacting Vehicle/Object
+AID0689,27-06-2022,T,RJ,Severe,Rain,Loc19,2020,Night,Truck,Model40,1877,F,47,20,Fatal,36,F,Working,Cyclist,Passenger,Impacting Vehicle/Object
+AID0690,27-03-2022,F,AP,Severe,Storm,Loc92,1403,Daylight,Car,Model22,2461,F,31,7,Slight,40,M,Middle,Motorcyclist,Pedestrian,Impacting Vehicle/Object
+AID0691,07-11-2023,T,DL,Severe,Rain,Loc47,52,Twilight,Motorcycle,Model14,1626,M,64,0,Serious,80,F,Upper,Car Passenger,Passenger,Impacting Vehicle/Object
+AID0692,08-11-2023,F,HP,Moderate,Fog,Loc185,429,Daylight,Bus,Model34,1208,M,47,20,Slight,25,M,Upper,Car Passenger,Passenger,Impacting Vehicle/Object
+AID0693,09-12-2023,S,MH,Moderate,Rain,Loc78,1456,Twilight,Car,Model2,1921,F,34,17,Serious,32,M,Upper,Motorcyclist,Passenger,Impacting Vehicle/Object
+AID0694,23-09-2022,S,PB,Severe,Storm,Loc114,2017,Night,Car,Model27,1815,F,63,8,Slight,41,M,Working,Pedestrian,Passenger,Impacting Vehicle/Object
+AID0695,16-01-2022,F,HP,Moderate,Clear,Loc155,509,Daylight,Car,Model42,1922,M,59,20,Slight,2,M,Middle,Cyclist,Passenger,Impacting Vehicle/Object
+AID0696,19-10-2023,T,AR,Severe,Rain,Loc88,1626,Night,Motorcycle,Model2,2242,F,33,2,Fatal,21,M,Upper,Car Passenger,Passenger,Impacting Vehicle/Object
+AID0697,01-07-2023,W,HR,Moderate,Snow,Loc104,357,Daylight,Car,Model26,2536,F,25,6,Fatal,38,M,Middle,Motorcyclist,Pedestrian,Impacting Vehicle/Object
+AID0698,21-01-2023,T,TN,Severe,Storm,Loc179,1403,Twilight,Bus,Model48,2305,F,52,2,Slight,39,F,Upper,Cyclist,Passenger,Impacting Vehicle/Object
+AID0699,16-01-2023,T,OD,Moderate,Fog,Loc195,716,Daylight,Truck,Model23,2702,F,60,19,Fatal,29,F,Middle,Motorcyclist,Passenger,Impacting Vehicle/Object
+AID0700,26-05-2023,F,UK,Minor,Clear,Loc44,1837,Twilight,Bus,Model29,1177,F,31,1,Slight,64,M,Working,Car Passenger,Passenger,Impacting Vehicle/Object
+AID0701,05-02-2023,F,UP,Severe,Rain,Loc184,1726,Night,Motorcycle,Model32,1931,M,66,2,Fatal,22,M,Middle,Car Passenger,Pedestrian,Impacting Vehicle/Object
+AID0702,26-04-2022,M,RJ,Minor,Rain,Loc91,741,Night,Car,Model42,2331,M,66,15,Fatal,57,F,Middle,Car Passenger,Passenger,Impacting Vehicle/Object
+AID0703,21-03-2022,F,UK,Moderate,Storm,Loc41,412,Night,Truck,Model36,1770,F,49,13,Serious,20,M,Upper,Car Passenger,Pedestrian,Impacting Vehicle/Object
+AID0704,18-11-2023,S,WB,Severe,Fog,Loc79,114,Twilight,Truck,Model45,1961,F,34,0,Fatal,38,M,Middle,Car Passenger,Passenger,Impacting Vehicle/Object
+AID0705,27-07-2022,S,OD,Minor,Storm,Loc176,2039,Twilight,Bus,Model41,911,F,52,5,Serious,46,F,Working,Cyclist,Pedestrian,Impacting Vehicle/Object
+AID0706,03-10-2022,T,TR,Minor,Rain,Loc127,1706,Twilight,Bus,Model19,2790,F,64,7,Slight,24,M,Upper,Cyclist,Passenger,Impacting Vehicle/Object
+AID0707,23-12-2022,T,AS,Severe,Snow,Loc114,315,Twilight,Truck,Model25,1573,F,64,2,Serious,60,M,Middle,Car Passenger,Pedestrian,Impacting Vehicle/Object
+AID0708,06-08-2023,T,GA,Severe,Snow,Loc66,1448,Twilight,Car,Model36,2494,M,47,10,Fatal,55,F,Middle,Car Passenger,Passenger,Impacting Vehicle/Object
+AID0709,11-09-2023,S,GJ,Severe,Snow,Loc108,2156,Daylight,Bus,Model5,1353,M,26,10,Serious,64,M,Working,Cyclist,Passenger,Impacting Vehicle/Object
+AID0710,11-10-2022,W,RJ,Minor,Clear,Loc43,1919,Twilight,Motorcycle,Model35,1111,M,25,19,Fatal,80,F,Middle,Cyclist,Pedestrian,Impacting Vehicle/Object
+AID0711,11-10-2022,T,TR,Minor,Snow,Loc61,838,Night,Car,Model21,1376,M,27,19,Slight,13,F,Upper,Pedestrian,Pedestrian,Impacting Vehicle/Object
+AID0712,22-08-2022,S,TR,Moderate,Fog,Loc71,2217,Night,Motorcycle,Model41,1500,M,24,15,Fatal,76,F,Upper,Pedestrian,Passenger,Impacting Vehicle/Object
+AID0713,28-07-2023,W,CG,Minor,Rain,Loc185,12,Night,Car,Model20,2443,F,35,10,Fatal,53,M,Upper,Motorcyclist,Pedestrian,Impacting Vehicle/Object
+AID0714,14-09-2022,W,AR,Severe,Rain,Loc188,2359,Night,Truck,Model12,2651,M,48,3,Fatal,70,F,Working,Pedestrian,Passenger,Impacting Vehicle/Object
+AID0715,08-01-2023,T,DL,Minor,Snow,Loc190,1533,Daylight,Bus,Model7,2956,F,43,10,Slight,62,F,Upper,Motorcyclist,Passenger,Impacting Vehicle/Object
+AID0716,01-06-2022,T,HR,Severe,Clear,Loc91,607,Night,Car,Model19,2327,F,32,10,Serious,9,F,Middle,Motorcyclist,Passenger,Impacting Vehicle/Object
+AID0717,26-08-2023,S,OD,Moderate,Clear,Loc56,458,Night,Bus,Model32,1953,M,42,12,Serious,60,M,Middle,Pedestrian,Pedestrian,Impacting Vehicle/Object
+AID0718,30-07-2023,M,GJ,Minor,Rain,Loc166,2022,Twilight,Motorcycle,Model32,1769,F,60,10,Serious,25,F,Middle,Car Passenger,Passenger,Impacting Vehicle/Object
+AID0719,29-01-2022,T,KL,Minor,Rain,Loc200,158,Twilight,Car,Model3,2126,F,56,17,Slight,68,M,Upper,Motorcyclist,Passenger,Impacting Vehicle/Object
+AID0720,31-05-2022,S,MN,Minor,Fog,Loc123,1918,Daylight,Truck,Model25,1070,F,61,9,Serious,69,F,Middle,Car Passenger,Passenger,Impacting Vehicle/Object
+AID0721,28-03-2023,T,SK,Minor,Snow,Loc193,21,Night,Car,Model15,2259,F,62,7,Slight,78,M,Working,Pedestrian,Passenger,Impacting Vehicle/Object
+AID0722,02-03-2023,M,MZ,Moderate,Clear,Loc192,455,Twilight,Motorcycle,Model32,1935,F,42,18,Slight,29,M,Working,Cyclist,Passenger,Impacting Vehicle/Object
+AID0723,11-08-2022,S,ML,Moderate,Clear,Loc94,442,Night,Bus,Model1,1581,F,26,9,Slight,41,M,Middle,Cyclist,Passenger,Impacting Vehicle/Object
+AID0724,16-02-2023,F,TN,Severe,Storm,Loc136,414,Twilight,Car,Model41,1025,F,49,4,Serious,48,F,Upper,Cyclist,Passenger,Impacting Vehicle/Object
+AID0725,04-09-2022,T,UP,Moderate,Rain,Loc110,28,Daylight,Truck,Model40,1766,M,56,16,Slight,80,F,Middle,Cyclist,Passenger,Impacting Vehicle/Object
+AID0726,14-09-2023,W,HR,Moderate,Snow,Loc53,2307,Night,Motorcycle,Model12,1690,M,28,15,Slight,42,M,Middle,Car Passenger,Passenger,Impacting Vehicle/Object
+AID0727,28-09-2022,S,KA,Moderate,Storm,Loc22,415,Night,Motorcycle,Model31,2942,F,70,9,Fatal,26,F,Working,Cyclist,Pedestrian,Impacting Vehicle/Object
+AID0728,21-12-2023,F,GA,Minor,Storm,Loc50,1333,Twilight,Motorcycle,Model2,837,M,23,4,Slight,32,M,Upper,Pedestrian,Passenger,Impacting Vehicle/Object
+AID0729,18-02-2023,T,DL,Severe,Storm,Loc131,2039,Twilight,Bus,Model46,2523,F,34,12,Slight,63,M,Middle,Car Passenger,Pedestrian,Impacting Vehicle/Object
+AID0730,14-06-2023,S,ML,Moderate,Rain,Loc89,1758,Twilight,Bus,Model31,2429,M,51,9,Fatal,47,M,Working,Motorcyclist,Passenger,Impacting Vehicle/Object
+AID0731,27-09-2023,T,AS,Minor,Storm,Loc97,520,Night,Bus,Model19,2310,F,21,18,Fatal,42,M,Upper,Motorcyclist,Pedestrian,Impacting Vehicle/Object
+AID0732,28-07-2022,W,PB,Moderate,Storm,Loc157,216,Twilight,Motorcycle,Model16,867,M,52,16,Fatal,33,F,Middle,Cyclist,Pedestrian,Impacting Vehicle/Object
+AID0733,05-10-2023,S,GJ,Minor,Fog,Loc193,214,Night,Truck,Model46,1079,M,60,4,Slight,29,F,Working,Motorcyclist,Passenger,Impacting Vehicle/Object
+AID0734,22-05-2023,S,WB,Moderate,Clear,Loc39,553,Daylight,Bus,Model50,2027,M,67,14,Slight,36,F,Working,Cyclist,Passenger,Impacting Vehicle/Object
+AID0735,18-06-2022,W,JH,Minor,Clear,Loc184,1928,Night,Car,Model48,2560,M,52,16,Serious,33,F,Upper,Car Passenger,Pedestrian,Impacting Vehicle/Object
+AID0736,26-12-2022,F,OD,Moderate,Rain,Loc39,1649,Night,Car,Model37,1868,F,50,18,Fatal,8,F,Middle,Cyclist,Passenger,Impacting Vehicle/Object
+AID0737,30-03-2022,S,DL,Moderate,Clear,Loc16,311,Daylight,Car,Model22,2215,M,21,11,Fatal,55,M,Middle,Motorcyclist,Pedestrian,Impacting Vehicle/Object
+AID0738,28-11-2023,W,GA,Severe,Clear,Loc153,1916,Daylight,Motorcycle,Model49,1014,F,30,12,Serious,40,F,Working,Motorcyclist,Passenger,Impacting Vehicle/Object
+AID0739,19-07-2023,T,WB,Moderate,Snow,Loc168,544,Twilight,Car,Model21,1873,M,66,13,Serious,69,F,Middle,Motorcyclist,Passenger,Impacting Vehicle/Object
+AID0740,10-07-2023,T,KL,Minor,Fog,Loc158,1943,Night,Bus,Model25,2972,F,64,3,Slight,75,M,Middle,Cyclist,Pedestrian,Impacting Vehicle/Object
+AID0741,06-06-2022,T,AS,Severe,Fog,Loc87,2105,Daylight,Motorcycle,Model18,1725,M,32,4,Slight,24,F,Middle,Pedestrian,Passenger,Impacting Vehicle/Object
+AID0742,30-05-2023,W,KL,Minor,Storm,Loc172,2042,Night,Motorcycle,Model46,2730,F,41,16,Fatal,1,F,Upper,Pedestrian,Passenger,Impacting Vehicle/Object
+AID0743,11-10-2023,T,MH,Minor,Snow,Loc76,139,Daylight,Car,Model23,2590,M,53,16,Serious,59,F,Middle,Motorcyclist,Passenger,Impacting Vehicle/Object
+AID0744,17-12-2022,T,PB,Minor,Fog,Loc88,351,Twilight,Truck,Model47,2762,F,67,1,Serious,38,F,Working,Motorcyclist,Pedestrian,Impacting Vehicle/Object
+AID0745,03-09-2022,F,KA,Minor,Storm,Loc166,1700,Daylight,Motorcycle,Model23,1424,F,34,13,Serious,71,F,Upper,Motorcyclist,Pedestrian,Impacting Vehicle/Object
+AID0746,14-02-2022,M,CG,Minor,Snow,Loc39,1146,Night,Motorcycle,Model22,2167,M,52,0,Slight,14,F,Working,Car Passenger,Pedestrian,Impacting Vehicle/Object
+AID0747,22-09-2022,S,WB,Minor,Snow,Loc22,319,Twilight,Motorcycle,Model37,2480,F,69,9,Slight,44,F,Upper,Cyclist,Passenger,Impacting Vehicle/Object
+AID0748,25-02-2023,S,KA,Severe,Fog,Loc17,1818,Night,Motorcycle,Model34,1274,F,39,13,Fatal,12,M,Upper,Cyclist,Passenger,Impacting Vehicle/Object
+AID0749,04-10-2022,W,MH,Minor,Clear,Loc188,1446,Daylight,Motorcycle,Model46,2198,M,20,4,Serious,11,M,Upper,Cyclist,Passenger,Impacting Vehicle/Object
+AID0750,07-08-2022,T,KA,Moderate,Clear,Loc65,1258,Twilight,Truck,Model2,995,M,37,1,Slight,77,F,Upper,Cyclist,Pedestrian,Impacting Vehicle/Object
+AID0751,09-12-2022,T,AP,Minor,Rain,Loc25,1824,Night,Motorcycle,Model40,1968,F,37,17,Serious,66,M,Working,Car Passenger,Pedestrian,Impacting Vehicle/Object
+AID0752,03-10-2023,S,RJ,Minor,Storm,Loc54,628,Twilight,Motorcycle,Model32,910,M,70,4,Serious,7,F,Upper,Car Passenger,Pedestrian,Impacting Vehicle/Object
+AID0753,18-04-2023,S,DL,Severe,Snow,Loc27,2117,Twilight,Motorcycle,Model11,2655,F,18,8,Fatal,72,M,Middle,Motorcyclist,Pedestrian,Impacting Vehicle/Object
+AID0754,27-02-2022,S,GJ,Severe,Fog,Loc77,1732,Twilight,Bus,Model50,1723,M,29,14,Serious,48,M,Working,Motorcyclist,Pedestrian,Impacting Vehicle/Object
+AID0755,03-04-2023,M,OD,Moderate,Rain,Loc24,445,Twilight,Motorcycle,Model13,1709,F,29,8,Fatal,74,F,Working,Pedestrian,Passenger,Impacting Vehicle/Object
+AID0756,14-10-2022,T,KA,Severe,Clear,Loc192,2133,Daylight,Truck,Model49,837,F,48,17,Slight,74,F,Working,Car Passenger,Passenger,Impacting Vehicle/Object
+AID0757,01-05-2022,W,NL,Severe,Fog,Loc104,632,Daylight,Car,Model19,868,M,51,8,Fatal,29,M,Working,Motorcyclist,Passenger,Impacting Vehicle/Object
+AID0758,08-04-2023,F,MH,Minor,Fog,Loc143,1301,Twilight,Truck,Model47,2946,M,38,1,Fatal,77,F,Upper,Cyclist,Pedestrian,Impacting Vehicle/Object
+AID0759,23-09-2022,W,AR,Minor,Rain,Loc32,259,Twilight,Bus,Model30,2026,F,68,15,Serious,46,M,Working,Car Passenger,Pedestrian,Impacting Vehicle/Object
+AID0760,15-08-2022,T,ML,Minor,Clear,Loc137,1802,Night,Car,Model8,1956,M,58,17,Slight,58,M,Working,Pedestrian,Passenger,Impacting Vehicle/Object
+AID0761,01-09-2023,T,AP,Minor,Rain,Loc153,223,Daylight,Car,Model20,2346,M,60,10,Serious,41,F,Middle,Cyclist,Passenger,Impacting Vehicle/Object
+AID0762,18-05-2022,F,KA,Moderate,Storm,Loc154,906,Night,Car,Model18,2566,F,58,5,Fatal,71,F,Working,Car Passenger,Pedestrian,Impacting Vehicle/Object
+AID0763,18-03-2023,S,DL,Severe,Storm,Loc63,1606,Twilight,Truck,Model36,928,M,62,14,Serious,72,F,Upper,Car Passenger,Passenger,Impacting Vehicle/Object
+AID0764,20-07-2022,T,JH,Minor,Rain,Loc93,620,Night,Truck,Model47,1110,F,23,2,Slight,42,F,Middle,Pedestrian,Pedestrian,Impacting Vehicle/Object
+AID0765,24-12-2023,T,DL,Moderate,Storm,Loc182,1443,Daylight,Truck,Model27,2577,F,48,11,Fatal,6,F,Upper,Car Passenger,Passenger,Impacting Vehicle/Object
+AID0766,31-12-2023,S,GJ,Severe,Storm,Loc19,942,Daylight,Motorcycle,Model3,1714,F,26,17,Slight,47,F,Middle,Pedestrian,Passenger,Impacting Vehicle/Object
+AID0767,03-01-2023,S,ML,Severe,Rain,Loc71,918,Night,Motorcycle,Model25,1273,M,33,4,Fatal,74,M,Middle,Pedestrian,Passenger,Impacting Vehicle/Object
+AID0768,09-01-2022,S,TN,Severe,Storm,Loc16,1159,Night,Motorcycle,Model24,1970,F,37,3,Serious,80,F,Middle,Car Passenger,Passenger,Impacting Vehicle/Object
+AID0769,11-03-2022,T,GJ,Minor,Rain,Loc114,2351,Twilight,Bus,Model34,1905,F,42,6,Serious,17,M,Working,Motorcyclist,Passenger,Impacting Vehicle/Object
+AID0770,03-09-2022,S,WB,Severe,Snow,Loc18,1317,Night,Bus,Model36,1350,M,51,20,Fatal,76,F,Upper,Cyclist,Pedestrian,Impacting Vehicle/Object
+AID0771,14-02-2022,S,DL,Severe,Fog,Loc30,118,Twilight,Car,Model48,2332,M,20,17,Serious,64,F,Working,Pedestrian,Passenger,Impacting Vehicle/Object
+AID0772,22-04-2023,S,OD,Moderate,Fog,Loc182,237,Twilight,Bus,Model30,2242,F,45,10,Fatal,71,F,Upper,Motorcyclist,Passenger,Impacting Vehicle/Object
+AID0773,01-10-2023,T,RJ,Moderate,Storm,Loc35,1957,Daylight,Motorcycle,Model20,2338,F,57,11,Serious,7,M,Working,Car Passenger,Pedestrian,Impacting Vehicle/Object
+AID0774,15-12-2023,T,BR,Severe,Fog,Loc139,132,Daylight,Car,Model33,2776,M,25,19,Slight,48,M,Upper,Cyclist,Pedestrian,Impacting Vehicle/Object
+AID0775,19-12-2022,T,MP,Severe,Rain,Loc144,2217,Daylight,Car,Model24,2624,F,33,9,Slight,20,F,Working,Pedestrian,Pedestrian,Impacting Vehicle/Object
+AID0776,12-10-2023,S,GA,Severe,Rain,Loc4,1148,Twilight,Bus,Model7,1688,M,33,8,Fatal,74,F,Working,Motorcyclist,Pedestrian,Impacting Vehicle/Object
+AID0777,20-02-2022,F,NL,Minor,Snow,Loc48,1440,Daylight,Truck,Model7,1861,M,29,1,Serious,49,M,Upper,Motorcyclist,Pedestrian,Impacting Vehicle/Object
+AID0778,19-05-2023,S,UK,Minor,Clear,Loc146,1541,Night,Motorcycle,Model25,990,F,45,14,Fatal,60,F,Working,Car Passenger,Passenger,Impacting Vehicle/Object
+AID0779,06-04-2023,M,UK,Minor,Rain,Loc53,1151,Daylight,Motorcycle,Model43,2141,M,61,6,Slight,35,M,Working,Motorcyclist,Pedestrian,Impacting Vehicle/Object
+AID0780,22-06-2023,S,GJ,Minor,Rain,Loc200,1721,Night,Motorcycle,Model9,891,M,23,5,Serious,29,F,Middle,Pedestrian,Pedestrian,Impacting Vehicle/Object
+AID0781,29-11-2022,M,MN,Minor,Fog,Loc148,2042,Twilight,Truck,Model3,2839,F,63,18,Serious,57,M,Upper,Cyclist,Passenger,Impacting Vehicle/Object
+AID0782,24-07-2023,M,NL,Severe,Clear,Loc43,228,Twilight,Car,Model10,2140,M,57,16,Serious,28,F,Working,Pedestrian,Pedestrian,Impacting Vehicle/Object
+AID0783,13-11-2023,S,DL,Minor,Clear,Loc140,620,Night,Bus,Model18,1823,M,41,14,Slight,59,M,Middle,Car Passenger,Pedestrian,Impacting Vehicle/Object
+AID0784,01-12-2022,S,TR,Minor,Snow,Loc199,1619,Night,Truck,Model43,1520,M,44,2,Slight,46,F,Upper,Pedestrian,Passenger,Impacting Vehicle/Object
+AID0785,05-03-2022,M,NL,Minor,Clear,Loc46,1025,Night,Truck,Model26,1016,F,47,15,Serious,31,M,Middle,Cyclist,Pedestrian,Impacting Vehicle/Object
+AID0786,16-07-2023,T,AR,Severe,Rain,Loc96,2125,Daylight,Bus,Model38,1944,F,69,6,Fatal,62,F,Middle,Cyclist,Pedestrian,Impacting Vehicle/Object
+AID0787,03-07-2023,T,ML,Minor,Fog,Loc63,929,Daylight,Car,Model33,1138,F,35,2,Fatal,50,M,Upper,Motorcyclist,Pedestrian,Impacting Vehicle/Object
+AID0788,02-03-2023,S,MZ,Moderate,Storm,Loc192,2342,Twilight,Bus,Model26,1287,M,52,15,Slight,46,F,Working,Cyclist,Pedestrian,Impacting Vehicle/Object
+AID0789,10-08-2023,S,AP,Severe,Rain,Loc3,500,Daylight,Car,Model27,962,M,50,18,Fatal,1,M,Upper,Pedestrian,Passenger,Impacting Vehicle/Object
+AID0790,04-09-2023,S,TN,Minor,Rain,Loc146,1106,Daylight,Motorcycle,Model14,1311,M,50,20,Fatal,50,F,Middle,Pedestrian,Passenger,Impacting Vehicle/Object
+AID0791,20-07-2022,M,GA,Minor,Clear,Loc184,2008,Night,Motorcycle,Model8,1816,F,66,2,Slight,2,M,Middle,Pedestrian,Pedestrian,Impacting Vehicle/Object
+AID0792,08-05-2023,S,OD,Severe,Snow,Loc70,654,Night,Car,Model21,1791,M,27,19,Fatal,56,M,Middle,Motorcyclist,Passenger,Impacting Vehicle/Object
+AID0793,21-01-2022,F,AS,Severe,Snow,Loc189,1835,Night,Car,Model19,2689,M,58,8,Serious,10,M,Working,Car Passenger,Pedestrian,Impacting Vehicle/Object
+AID0794,28-11-2023,S,NL,Minor,Storm,Loc70,1954,Night,Bus,Model15,2126,M,58,0,Serious,8,F,Working,Cyclist,Pedestrian,Impacting Vehicle/Object
+AID0795,18-08-2022,T,SK,Moderate,Rain,Loc35,455,Twilight,Motorcycle,Model1,876,F,65,16,Slight,8,M,Middle,Cyclist,Pedestrian,Impacting Vehicle/Object
+AID0796,24-11-2023,T,SK,Minor,Fog,Loc7,836,Twilight,Car,Model38,2832,M,34,7,Fatal,12,F,Upper,Motorcyclist,Passenger,Impacting Vehicle/Object
+AID0797,26-03-2023,M,UP,Moderate,Storm,Loc52,2052,Night,Car,Model14,2812,F,61,3,Serious,20,F,Upper,Motorcyclist,Pedestrian,Impacting Vehicle/Object
+AID0798,09-12-2023,F,DL,Moderate,Clear,Loc69,1753,Daylight,Truck,Model23,1795,F,58,7,Slight,64,F,Upper,Car Passenger,Pedestrian,Impacting Vehicle/Object
+AID0799,16-07-2022,W,UK,Severe,Snow,Loc18,324,Daylight,Truck,Model16,2724,F,25,13,Fatal,62,F,Upper,Motorcyclist,Passenger,Impacting Vehicle/Object
+AID0800,08-09-2022,F,CG,Moderate,Snow,Loc117,2121,Daylight,Truck,Model27,2249,F,68,19,Slight,51,F,Working,Motorcyclist,Pedestrian,Impacting Vehicle/Object
+AID0801,30-09-2023,M,TR,Severe,Fog,Loc95,2042,Daylight,Truck,Model26,1947,M,27,8,Serious,75,F,Upper,Car Passenger,Pedestrian,Impacting Vehicle/Object
+AID0802,09-08-2022,S,WB,Moderate,Storm,Loc154,1020,Twilight,Bus,Model48,2371,F,56,18,Serious,50,M,Upper,Pedestrian,Pedestrian,Impacting Vehicle/Object
+AID0803,15-10-2023,S,RJ,Minor,Clear,Loc134,1825,Twilight,Truck,Model50,1958,F,25,7,Serious,52,M,Middle,Cyclist,Pedestrian,Impacting Vehicle/Object
+AID0804,17-03-2022,F,MP,Moderate,Rain,Loc175,1744,Daylight,Motorcycle,Model47,2902,F,66,19,Slight,17,M,Middle,Cyclist,Passenger,Impacting Vehicle/Object
+AID0805,17-11-2023,T,MH,Moderate,Fog,Loc56,608,Night,Bus,Model21,2339,F,64,7,Serious,15,F,Working,Motorcyclist,Pedestrian,Impacting Vehicle/Object
+AID0806,19-04-2023,S,GJ,Moderate,Storm,Loc81,918,Twilight,Car,Model14,2438,F,53,6,Fatal,72,M,Middle,Pedestrian,Passenger,Impacting Vehicle/Object
+AID0807,29-09-2023,T,MP,Moderate,Storm,Loc97,815,Night,Truck,Model27,2452,M,61,10,Fatal,60,M,Upper,Pedestrian,Passenger,Impacting Vehicle/Object
+AID0808,23-01-2023,F,OD,Severe,Rain,Loc107,2245,Daylight,Bus,Model50,1150,F,40,7,Slight,41,M,Upper,Motorcyclist,Pedestrian,Impacting Vehicle/Object
+AID0809,15-08-2023,F,JH,Severe,Fog,Loc192,2119,Daylight,Motorcycle,Model22,1466,F,53,5,Slight,58,F,Working,Pedestrian,Pedestrian,Impacting Vehicle/Object
+AID0810,16-10-2022,T,PB,Severe,Rain,Loc107,7,Twilight,Motorcycle,Model29,2477,M,65,0,Fatal,19,F,Upper,Car Passenger,Pedestrian,Impacting Vehicle/Object
+AID0811,31-03-2023,T,CG,Minor,Rain,Loc167,400,Daylight,Car,Model20,1321,F,58,4,Serious,3,F,Middle,Car Passenger,Passenger,Impacting Vehicle/Object
+AID0812,24-12-2022,F,JH,Severe,Snow,Loc184,1726,Daylight,Truck,Model38,2532,F,27,13,Fatal,6,F,Working,Cyclist,Pedestrian,Impacting Vehicle/Object
+AID0813,10-01-2022,T,GJ,Minor,Rain,Loc74,1924,Daylight,Car,Model43,2460,F,69,20,Serious,27,M,Upper,Cyclist,Pedestrian,Impacting Vehicle/Object
+AID0814,25-02-2022,T,HP,Severe,Rain,Loc173,1946,Night,Bus,Model38,1145,F,36,20,Serious,14,F,Upper,Pedestrian,Pedestrian,Impacting Vehicle/Object
+AID0815,25-06-2022,T,MP,Severe,Rain,Loc37,2102,Daylight,Motorcycle,Model32,1888,M,18,0,Fatal,66,F,Working,Pedestrian,Pedestrian,Overspeeding
+AID0816,11-02-2022,F,HR,Severe,Fog,Loc82,1028,Twilight,Motorcycle,Model23,1638,M,55,19,Slight,66,M,Middle,Motorcyclist,Passenger,Overspeeding
+AID0817,14-12-2023,S,HR,Severe,Rain,Loc85,1903,Night,Motorcycle,Model21,1731,F,30,2,Slight,75,M,Working,Motorcyclist,Pedestrian,Overspeeding
+AID0818,06-03-2022,S,GJ,Moderate,Storm,Loc21,313,Twilight,Truck,Model2,1893,F,23,2,Fatal,67,M,Upper,Pedestrian,Pedestrian,Overspeeding
+AID0819,17-02-2022,F,WB,Minor,Fog,Loc136,54,Twilight,Motorcycle,Model19,1695,F,28,11,Slight,18,M,Working,Motorcyclist,Pedestrian,Overspeeding
+AID0820,07-11-2022,F,KA,Severe,Storm,Loc117,630,Night,Bus,Model18,1309,M,21,4,Fatal,56,M,Working,Cyclist,Pedestrian,Overspeeding
+AID0821,11-08-2022,M,ML,Minor,Rain,Loc57,2156,Night,Bus,Model18,1726,M,44,9,Slight,29,F,Working,Car Passenger,Passenger,Overspeeding
+AID0822,17-11-2022,T,MN,Moderate,Fog,Loc11,710,Twilight,Bus,Model18,1688,F,22,16,Fatal,10,M,Upper,Car Passenger,Passenger,Overspeeding
+AID0823,20-05-2022,S,NL,Severe,Storm,Loc128,811,Twilight,Truck,Model37,1423,M,62,3,Fatal,28,F,Middle,Car Passenger,Pedestrian,Overspeeding
+AID0824,08-03-2022,M,KA,Minor,Fog,Loc5,712,Daylight,Car,Model26,2174,M,41,4,Serious,41,M,Working,Motorcyclist,Pedestrian,Overspeeding
+AID0825,09-04-2022,W,GJ,Minor,Rain,Loc94,651,Twilight,Motorcycle,Model17,2703,F,68,11,Serious,76,M,Working,Car Passenger,Passenger,Overspeeding
+AID0826,18-03-2023,T,PB,Severe,Snow,Loc63,1842,Twilight,Bus,Model40,1070,F,64,11,Fatal,33,F,Upper,Motorcyclist,Passenger,Overspeeding
+AID0827,04-03-2023,S,HP,Severe,Clear,Loc26,1055,Night,Car,Model8,1472,F,21,12,Serious,9,F,Upper,Motorcyclist,Passenger,Overspeeding
+AID0828,26-02-2023,M,UK,Minor,Clear,Loc127,1231,Daylight,Motorcycle,Model10,2309,M,55,20,Slight,60,M,Upper,Cyclist,Passenger,Overspeeding
+AID0829,11-09-2023,W,UK,Minor,Rain,Loc197,1159,Night,Motorcycle,Model32,2595,M,65,0,Serious,60,M,Working,Cyclist,Pedestrian,Overspeeding
+AID0830,15-07-2022,W,BR,Moderate,Storm,Loc182,2105,Daylight,Truck,Model32,1775,M,54,11,Serious,1,F,Upper,Car Passenger,Passenger,Overspeeding
+AID0831,18-12-2023,T,CG,Moderate,Rain,Loc27,1823,Night,Truck,Model39,2473,F,52,17,Serious,11,F,Middle,Cyclist,Pedestrian,Overspeeding
+AID0832,01-05-2022,T,ML,Severe,Fog,Loc107,1024,Night,Car,Model36,1104,F,60,16,Serious,56,M,Upper,Motorcyclist,Passenger,Overspeeding
+AID0833,06-04-2023,F,PB,Minor,Snow,Loc79,1345,Night,Car,Model2,2702,M,53,18,Fatal,76,F,Working,Pedestrian,Pedestrian,Overspeeding
+AID0834,30-10-2023,F,UP,Severe,Snow,Loc130,502,Daylight,Bus,Model22,1110,F,26,4,Serious,2,F,Middle,Car Passenger,Passenger,Overspeeding
+AID0835,08-05-2023,W,WB,Moderate,Storm,Loc22,1602,Night,Bus,Model21,2341,F,18,4,Serious,6,F,Upper,Pedestrian,Passenger,Overspeeding
+AID0836,21-04-2023,S,TR,Severe,Clear,Loc104,1813,Twilight,Motorcycle,Model11,1871,F,47,8,Serious,52,F,Working,Car Passenger,Passenger,Overspeeding
+AID0837,25-02-2023,W,GA,Severe,Snow,Loc129,1631,Twilight,Bus,Model46,981,M,43,15,Serious,22,F,Upper,Pedestrian,Passenger,Overspeeding
+AID0838,20-04-2022,T,TR,Minor,Clear,Loc132,1115,Night,Motorcycle,Model3,2807,M,51,18,Serious,76,F,Upper,Pedestrian,Pedestrian,Overspeeding
+AID0839,10-12-2022,S,GJ,Minor,Fog,Loc37,112,Twilight,Bus,Model25,1679,M,36,11,Fatal,36,F,Upper,Car Passenger,Passenger,Overspeeding
+AID0840,04-07-2022,T,ML,Moderate,Rain,Loc102,1820,Twilight,Motorcycle,Model20,1608,M,53,20,Serious,11,F,Working,Car Passenger,Passenger,Overspeeding
+AID0841,06-02-2023,S,KL,Moderate,Clear,Loc19,348,Twilight,Truck,Model12,1143,M,59,9,Slight,8,M,Middle,Car Passenger,Pedestrian,Overspeeding
+AID0842,23-01-2022,T,MH,Minor,Fog,Loc3,2332,Twilight,Truck,Model50,2222,F,50,3,Serious,46,M,Upper,Cyclist,Pedestrian,Overspeeding
+AID0843,30-03-2023,T,HR,Minor,Rain,Loc74,1229,Twilight,Car,Model39,2921,F,42,11,Fatal,27,M,Middle,Cyclist,Pedestrian,Overspeeding
+AID0844,06-10-2023,S,WB,Moderate,Fog,Loc23,2349,Night,Bus,Model30,1869,M,42,17,Serious,37,F,Upper,Pedestrian,Pedestrian,Overspeeding
+AID0845,16-12-2023,M,MN,Minor,Rain,Loc43,306,Daylight,Car,Model13,1379,M,44,0,Serious,27,F,Middle,Cyclist,Passenger,Overspeeding
+AID0846,17-03-2023,T,CG,Moderate,Rain,Loc96,2026,Night,Truck,Model42,1437,F,32,14,Slight,31,F,Middle,Pedestrian,Pedestrian,Overspeeding
+AID0847,07-09-2023,F,DL,Moderate,Rain,Loc1,2219,Twilight,Motorcycle,Model20,1850,M,49,10,Slight,57,F,Working,Pedestrian,Passenger,Overspeeding
+AID0848,08-05-2023,F,CG,Moderate,Rain,Loc84,552,Daylight,Truck,Model37,1316,F,60,20,Slight,31,M,Upper,Cyclist,Passenger,Overspeeding
+AID0849,27-03-2023,W,HP,Moderate,Storm,Loc13,1421,Daylight,Bus,Model5,1722,M,55,9,Fatal,65,F,Middle,Cyclist,Passenger,Overspeeding
+AID0850,22-02-2023,W,GJ,Minor,Snow,Loc44,413,Night,Car,Model20,2417,M,29,13,Slight,10,M,Upper,Motorcyclist,Passenger,Overspeeding
+AID0851,01-11-2022,T,PB,Severe,Storm,Loc191,1538,Daylight,Car,Model50,1354,F,54,17,Fatal,16,F,Working,Car Passenger,Passenger,Overspeeding
+AID0852,03-06-2022,T,KA,Moderate,Rain,Loc147,625,Night,Motorcycle,Model5,1025,M,32,15,Serious,2,F,Middle,Pedestrian,Passenger,Overspeeding
+AID0853,08-12-2023,S,OD,Severe,Clear,Loc141,423,Twilight,Motorcycle,Model27,1215,F,24,7,Fatal,64,F,Working,Motorcyclist,Passenger,Overspeeding
+AID0854,08-05-2023,T,JH,Moderate,Clear,Loc145,414,Twilight,Truck,Model46,1345,F,65,12,Slight,12,F,Upper,Cyclist,Pedestrian,Overspeeding
+AID0855,10-01-2023,M,DL,Minor,Fog,Loc59,1147,Night,Bus,Model41,2125,M,35,12,Serious,7,F,Working,Pedestrian,Pedestrian,Overspeeding
+AID0856,01-09-2022,T,MP,Moderate,Clear,Loc93,1706,Twilight,Motorcycle,Model33,2399,F,64,16,Slight,66,F,Middle,Motorcyclist,Passenger,Overspeeding
+AID0857,07-12-2022,S,KA,Minor,Fog,Loc126,1348,Daylight,Truck,Model27,2792,M,22,10,Fatal,29,F,Working,Car Passenger,Passenger,Overspeeding
+AID0858,30-01-2023,F,ML,Minor,Storm,Loc57,1232,Twilight,Motorcycle,Model30,1947,M,65,6,Fatal,21,F,Upper,Car Passenger,Passenger,Overspeeding
+AID0859,20-09-2023,W,HR,Severe,Clear,Loc51,1227,Twilight,Motorcycle,Model23,1702,M,39,13,Slight,39,F,Upper,Motorcyclist,Pedestrian,Overspeeding
+AID0860,16-04-2023,F,AR,Moderate,Storm,Loc95,829,Night,Car,Model11,2111,F,42,17,Fatal,50,F,Working,Cyclist,Passenger,Overspeeding
+AID0861,04-08-2022,F,TR,Moderate,Storm,Loc157,2355,Daylight,Motorcycle,Model10,1968,F,61,16,Slight,61,F,Working,Car Passenger,Passenger,Overspeeding
+AID0862,07-01-2022,T,WB,Severe,Clear,Loc155,1537,Daylight,Bus,Model44,2764,F,21,3,Fatal,80,F,Upper,Car Passenger,Pedestrian,Overspeeding
+AID0863,17-12-2023,T,NL,Moderate,Storm,Loc95,2325,Night,Motorcycle,Model16,1951,M,22,19,Serious,25,F,Working,Cyclist,Passenger,Overspeeding
+AID0864,04-03-2023,T,GJ,Severe,Fog,Loc159,1812,Daylight,Motorcycle,Model35,2351,M,27,8,Fatal,75,M,Working,Pedestrian,Pedestrian,Overspeeding
+AID0865,04-09-2022,T,MH,Minor,Rain,Loc151,1431,Twilight,Truck,Model3,2895,M,31,6,Fatal,14,M,Middle,Cyclist,Pedestrian,Driver Impairment
+AID0866,05-06-2023,S,AS,Moderate,Rain,Loc108,1538,Daylight,Car,Model15,2366,M,61,12,Serious,53,M,Working,Motorcyclist,Passenger,Driver Impairment
+AID0867,17-05-2022,M,DL,Moderate,Storm,Loc98,2056,Twilight,Truck,Model39,1288,F,29,10,Serious,78,F,Upper,Cyclist,Pedestrian,Driver Impairment
+AID0868,30-08-2022,T,AP,Moderate,Storm,Loc76,1655,Daylight,Bus,Model23,1187,M,24,13,Slight,57,M,Upper,Cyclist,Passenger,Driver Impairment
+AID0869,24-04-2023,T,MP,Moderate,Rain,Loc42,1504,Daylight,Bus,Model9,1297,M,27,18,Slight,17,M,Upper,Pedestrian,Passenger,Driver Impairment
+AID0870,07-12-2022,W,GA,Moderate,Snow,Loc111,358,Night,Car,Model23,982,F,25,0,Serious,44,F,Middle,Cyclist,Pedestrian,Driver Impairment
+AID0871,06-06-2022,S,TR,Severe,Snow,Loc176,1013,Daylight,Car,Model45,1952,M,24,5,Serious,21,M,Working,Car Passenger,Passenger,Driver Impairment
+AID0872,23-06-2022,S,TR,Minor,Snow,Loc111,806,Twilight,Motorcycle,Model48,2857,F,70,4,Serious,16,F,Working,Pedestrian,Passenger,Driver Impairment
+AID0873,31-05-2023,T,BR,Minor,Rain,Loc188,1541,Twilight,Car,Model2,2311,F,24,10,Fatal,25,M,Working,Motorcyclist,Passenger,Driver Impairment
+AID0874,18-01-2023,F,UP,Moderate,Storm,Loc105,740,Daylight,Truck,Model31,1035,M,53,20,Fatal,75,F,Upper,Pedestrian,Pedestrian,Driver Impairment
+AID0875,06-04-2022,S,UP,Minor,Clear,Loc161,2208,Twilight,Motorcycle,Model10,2996,M,20,3,Fatal,13,M,Working,Motorcyclist,Pedestrian,Driver Impairment
+AID0876,23-09-2022,S,TR,Severe,Clear,Loc100,1433,Daylight,Car,Model26,890,M,41,0,Serious,76,M,Middle,Pedestrian,Pedestrian,Driver Impairment
+AID0877,24-10-2022,S,CG,Severe,Storm,Loc42,133,Night,Motorcycle,Model35,2174,F,50,4,Slight,46,M,Middle,Pedestrian,Passenger,Driver Impairment
+AID0878,13-09-2022,M,MP,Severe,Fog,Loc199,2134,Twilight,Truck,Model46,1114,M,64,9,Serious,36,M,Upper,Pedestrian,Passenger,Driver Impairment
+AID0879,16-07-2022,S,GJ,Severe,Fog,Loc59,1910,Twilight,Truck,Model5,1174,M,52,18,Serious,65,M,Middle,Motorcyclist,Pedestrian,Driver Impairment
+AID0880,20-08-2022,T,SK,Moderate,Storm,Loc128,2107,Daylight,Car,Model2,1619,F,51,5,Serious,52,M,Upper,Motorcyclist,Pedestrian,Driver Impairment
+AID0881,06-04-2023,M,TN,Minor,Rain,Loc3,921,Night,Truck,Model18,1183,F,42,13,Slight,32,F,Middle,Motorcyclist,Pedestrian,Driver Impairment
+AID0882,03-02-2023,W,BR,Moderate,Clear,Loc163,1628,Twilight,Motorcycle,Model22,2276,F,40,14,Slight,48,F,Upper,Motorcyclist,Pedestrian,Driver Impairment
+AID0883,14-12-2023,T,UP,Severe,Fog,Loc40,616,Daylight,Car,Model21,1831,F,38,18,Serious,55,F,Middle,Car Passenger,Pedestrian,Driver Impairment
+AID0884,27-05-2022,T,WB,Moderate,Snow,Loc41,650,Night,Bus,Model31,1331,F,42,0,Fatal,3,M,Working,Motorcyclist,Pedestrian,Driver Impairment
+AID0885,03-07-2022,M,TR,Moderate,Storm,Loc60,537,Night,Bus,Model15,2127,F,50,20,Serious,3,F,Working,Car Passenger,Pedestrian,Driver Impairment
+AID0886,19-12-2022,T,HR,Minor,Fog,Loc145,1210,Twilight,Bus,Model5,1342,M,37,16,Fatal,3,F,Middle,Motorcyclist,Passenger,Driver Impairment
+AID0887,11-10-2022,S,DL,Moderate,Rain,Loc105,743,Twilight,Car,Model10,2668,M,29,9,Slight,37,M,Working,Motorcyclist,Pedestrian,Driver Impairment
+AID0888,02-03-2023,S,GJ,Severe,Clear,Loc82,2140,Daylight,Motorcycle,Model12,2748,M,60,5,Slight,12,M,Working,Motorcyclist,Pedestrian,Driver Impairment
+AID0889,10-05-2023,W,ML,Minor,Storm,Loc2,1820,Twilight,Truck,Model49,1893,M,54,9,Serious,7,M,Working,Pedestrian,Passenger,Driver Impairment
+AID0890,25-02-2023,T,JH,Severe,Clear,Loc77,930,Twilight,Bus,Model24,2254,M,50,12,Fatal,53,M,Middle,Cyclist,Passenger,Driver Impairment
+AID0891,07-08-2023,M,BR,Minor,Storm,Loc113,1831,Daylight,Truck,Model17,959,F,30,20,Serious,13,M,Working,Cyclist,Passenger,Driver Impairment
+AID0892,30-05-2023,S,ML,Moderate,Rain,Loc153,1433,Twilight,Motorcycle,Model13,1929,M,34,5,Fatal,80,M,Working,Car Passenger,Passenger,Driver Impairment
+AID0893,03-12-2022,S,WB,Moderate,Clear,Loc10,621,Night,Motorcycle,Model1,1130,F,44,17,Serious,17,F,Working,Cyclist,Pedestrian,Driver Impairment
+AID0894,27-06-2022,F,PB,Minor,Fog,Loc112,1416,Daylight,Bus,Model41,2040,F,55,17,Fatal,25,F,Middle,Motorcyclist,Passenger,Driver Impairment
+AID0895,28-07-2022,T,GA,Minor,Clear,Loc103,401,Night,Car,Model20,1264,F,25,15,Serious,45,M,Working,Cyclist,Passenger,Driver Impairment
+AID0896,05-10-2022,W,MN,Minor,Storm,Loc124,1701,Night,Motorcycle,Model14,1239,M,27,6,Slight,2,F,Middle,Car Passenger,Passenger,Driver Impairment
+AID0897,06-02-2022,F,TN,Minor,Storm,Loc7,2114,Twilight,Car,Model16,1602,F,56,19,Serious,15,F,Working,Car Passenger,Passenger,Driver Impairment
+AID0898,23-10-2022,F,RJ,Minor,Storm,Loc64,2333,Night,Car,Model21,2550,M,24,8,Fatal,51,F,Upper,Pedestrian,Pedestrian,Driver Impairment
+AID0899,07-12-2023,F,NL,Severe,Rain,Loc160,29,Night,Truck,Model35,1175,F,46,5,Fatal,51,M,Upper,Motorcyclist,Passenger,Driver Impairment
+AID0900,23-05-2023,S,JH,Minor,Clear,Loc163,834,Daylight,Motorcycle,Model35,2941,F,57,10,Fatal,73,M,Working,Cyclist,Pedestrian,Driver Impairment
+AID0901,13-08-2023,W,BR,Severe,Storm,Loc37,506,Twilight,Car,Model50,1870,F,32,2,Slight,59,M,Upper,Motorcyclist,Pedestrian,Driver Impairment
+AID0902,08-02-2023,M,TR,Minor,Rain,Loc11,1104,Night,Car,Model15,1434,F,47,6,Slight,75,M,Middle,Motorcyclist,Pedestrian,Driver Impairment
+AID0903,31-08-2022,T,MP,Moderate,Rain,Loc107,521,Night,Motorcycle,Model24,1859,F,36,8,Slight,37,M,Upper,Pedestrian,Passenger,Driver Impairment
+AID0904,10-11-2023,T,HP,Severe,Fog,Loc175,557,Daylight,Motorcycle,Model22,2524,M,44,1,Slight,42,F,Upper,Motorcyclist,Passenger,Driver Impairment
+AID0905,03-02-2022,S,SK,Moderate,Fog,Loc146,537,Daylight,Motorcycle,Model2,1724,F,54,12,Serious,21,F,Working,Car Passenger,Passenger,Driver Impairment
+AID0906,04-04-2022,T,UK,Minor,Rain,Loc64,1925,Daylight,Truck,Model28,2964,F,42,16,Fatal,2,M,Upper,Pedestrian,Passenger,Driver Impairment
+AID0907,12-08-2023,S,MH,Severe,Rain,Loc185,925,Twilight,Truck,Model6,1588,F,35,11,Slight,77,M,Working,Pedestrian,Passenger,Driver Impairment
+AID0908,01-04-2022,T,UP,Severe,Fog,Loc128,633,Night,Bus,Model29,1224,M,19,4,Fatal,71,M,Middle,Motorcyclist,Pedestrian,Driver Impairment
+AID0909,09-04-2022,T,HR,Minor,Snow,Loc144,2305,Daylight,Bus,Model35,1833,M,35,4,Fatal,39,F,Working,Cyclist,Pedestrian,Driver Impairment
+AID0910,23-11-2022,T,HP,Severe,Storm,Loc159,1557,Daylight,Bus,Model3,1697,F,55,1,Serious,53,F,Upper,Pedestrian,Passenger,Driver Impairment
+AID0911,08-11-2022,F,AS,Moderate,Snow,Loc200,1740,Daylight,Motorcycle,Model27,1555,F,29,8,Fatal,30,M,Middle,Car Passenger,Passenger,Driver Impairment
+AID0912,02-02-2023,F,ML,Minor,Snow,Loc163,2114,Daylight,Motorcycle,Model21,1685,F,29,6,Slight,17,F,Upper,Pedestrian,Pedestrian,Driver Impairment
+AID0913,16-01-2023,S,MN,Moderate,Snow,Loc122,128,Twilight,Bus,Model6,2977,F,56,5,Serious,60,M,Working,Car Passenger,Pedestrian,Driver Impairment
+AID0914,30-03-2022,W,TN,Severe,Rain,Loc151,1909,Twilight,Motorcycle,Model9,2265,M,43,19,Fatal,63,F,Working,Pedestrian,Pedestrian,Driver Impairment
+AID0915,19-09-2022,S,MN,Severe,Fog,Loc57,2134,Night,Car,Model27,1475,M,52,6,Slight,11,M,Middle,Pedestrian,Passenger,Driver Impairment
+AID0916,04-11-2023,F,SK,Severe,Storm,Loc186,1533,Night,Bus,Model46,1209,F,69,10,Slight,72,M,Upper,Cyclist,Passenger,Driver Impairment
+AID0917,20-08-2022,W,SK,Severe,Fog,Loc77,452,Night,Bus,Model9,2206,M,53,18,Fatal,56,M,Middle,Car Passenger,Pedestrian,Driver Impairment
+AID0918,01-10-2023,M,ML,Moderate,Storm,Loc105,1457,Night,Car,Model16,2293,M,53,7,Fatal,79,M,Working,Car Passenger,Pedestrian,Driver Impairment
+AID0919,20-12-2022,S,UK,Moderate,Fog,Loc169,1408,Daylight,Bus,Model47,1495,F,63,13,Fatal,7,F,Upper,Motorcyclist,Pedestrian,Driver Impairment
+AID0920,21-09-2023,F,UK,Moderate,Fog,Loc108,1156,Twilight,Truck,Model31,940,F,37,12,Serious,14,M,Middle,Pedestrian,Pedestrian,Driver Impairment
+AID0921,07-11-2023,S,ML,Severe,Storm,Loc1,148,Night,Bus,Model6,1261,F,48,10,Slight,48,F,Middle,Motorcyclist,Passenger,Driver Impairment
+AID0922,08-07-2022,S,MZ,Moderate,Rain,Loc54,1832,Night,Bus,Model3,1771,F,63,19,Slight,41,F,Working,Cyclist,Pedestrian,Driver Impairment
+AID0923,26-02-2022,S,TR,Severe,Fog,Loc38,1201,Night,Motorcycle,Model38,2819,M,46,17,Fatal,63,F,Upper,Cyclist,Pedestrian,Driver Impairment
+AID0924,24-06-2022,W,UP,Moderate,Fog,Loc199,457,Daylight,Car,Model15,1405,F,60,11,Slight,33,M,Middle,Car Passenger,Pedestrian,Driver Impairment
+AID0925,18-06-2023,T,SK,Severe,Rain,Loc60,1858,Twilight,Truck,Model36,2423,M,41,7,Slight,51,F,Middle,Motorcyclist,Pedestrian,Driver Impairment
+AID0926,06-10-2023,S,UK,Severe,Storm,Loc143,1649,Daylight,Car,Model49,2662,M,27,9,Serious,33,F,Upper,Pedestrian,Passenger,Driver Impairment
+AID0927,22-11-2022,M,OD,Moderate,Fog,Loc16,909,Twilight,Motorcycle,Model45,1335,M,30,15,Serious,79,M,Working,Car Passenger,Pedestrian,Driver Impairment
+AID0928,17-05-2023,W,CG,Moderate,Storm,Loc87,411,Night,Motorcycle,Model5,1660,F,31,0,Serious,32,M,Upper,Motorcyclist,Passenger,Driver Impairment
+AID0929,30-09-2023,F,MP,Severe,Storm,Loc183,53,Twilight,Bus,Model30,1757,M,59,20,Slight,78,M,Middle,Car Passenger,Passenger,Driver Impairment
+AID0930,31-08-2022,S,GJ,Minor,Snow,Loc108,552,Night,Bus,Model30,1787,M,51,7,Fatal,17,F,Working,Pedestrian,Passenger,Driver Impairment
+AID0931,20-09-2022,T,TR,Moderate,Rain,Loc116,1750,Daylight,Truck,Model37,1820,F,42,20,Fatal,30,F,Upper,Car Passenger,Passenger,Driver Impairment
+AID0932,25-12-2023,M,MP,Severe,Clear,Loc59,727,Night,Car,Model32,2413,F,32,13,Fatal,61,M,Working,Motorcyclist,Passenger,Driver Impairment
+AID0933,13-10-2023,M,MZ,Severe,Fog,Loc120,1938,Twilight,Motorcycle,Model21,1567,M,24,19,Slight,46,M,Working,Motorcyclist,Pedestrian,Driver Impairment
+AID0934,28-09-2023,T,OD,Moderate,Snow,Loc87,1845,Night,Bus,Model40,1230,F,29,14,Serious,79,M,Upper,Car Passenger,Pedestrian,Driver Impairment
+AID0935,03-09-2022,M,MP,Severe,Rain,Loc26,1010,Twilight,Car,Model8,2376,F,33,1,Serious,78,M,Middle,Cyclist,Passenger,Driver Impairment
+AID0936,15-06-2022,S,JH,Severe,Fog,Loc171,1100,Daylight,Bus,Model27,806,M,64,4,Serious,80,F,Middle,Cyclist,Passenger,Driver Impairment
+AID0937,05-07-2023,S,AR,Moderate,Rain,Loc54,2301,Daylight,Bus,Model46,2893,M,51,1,Slight,48,M,Upper,Car Passenger,Pedestrian,Driver Impairment
+AID0938,17-08-2023,T,RJ,Moderate,Storm,Loc39,1321,Night,Truck,Model2,1579,F,19,17,Fatal,62,M,Working,Motorcyclist,Passenger,Driver Impairment
+AID0939,02-10-2023,W,UP,Severe,Snow,Loc198,533,Night,Car,Model7,1033,M,54,9,Fatal,21,F,Upper,Car Passenger,Passenger,Driver Impairment
+AID0940,01-11-2022,T,TR,Severe,Snow,Loc193,441,Daylight,Motorcycle,Model10,1560,F,65,5,Slight,7,M,Working,Pedestrian,Passenger,Driver Impairment
+AID0941,06-03-2023,M,DL,Severe,Fog,Loc123,1502,Twilight,Bus,Model42,2813,F,33,15,Fatal,50,M,Working,Cyclist,Pedestrian,Driver Impairment
+AID0942,19-05-2023,T,TN,Moderate,Fog,Loc123,421,Night,Motorcycle,Model19,2134,F,24,12,Serious,28,M,Upper,Cyclist,Passenger,Driver Impairment
+AID0943,31-03-2022,M,CG,Minor,Snow,Loc105,1027,Night,Motorcycle,Model46,2073,F,34,11,Slight,64,F,Upper,Cyclist,Pedestrian,Driver Impairment
+AID0944,22-04-2022,S,NL,Minor,Clear,Loc198,2227,Night,Car,Model24,2772,M,58,19,Serious,17,M,Upper,Car Passenger,Pedestrian,Driver Impairment
+AID0945,18-08-2022,T,AR,Moderate,Storm,Loc80,812,Night,Bus,Model11,1017,F,65,0,Slight,18,F,Working,Car Passenger,Pedestrian,Driver Impairment
+AID0946,15-03-2023,M,RJ,Moderate,Fog,Loc86,2043,Night,Bus,Model50,1833,M,65,14,Serious,79,M,Middle,Car Passenger,Passenger,Driver Impairment
+AID0947,16-11-2023,S,KL,Moderate,Snow,Loc21,1056,Night,Motorcycle,Model17,1416,F,26,18,Serious,37,M,Working,Pedestrian,Passenger,Driver Impairment
+AID0948,03-07-2022,T,WB,Minor,Rain,Loc116,323,Twilight,Motorcycle,Model29,1574,F,31,3,Fatal,77,M,Upper,Cyclist,Passenger,Driver Impairment
+AID0949,15-08-2023,T,MZ,Severe,Snow,Loc29,1210,Night,Bus,Model23,2865,M,42,1,Slight,47,F,Middle,Pedestrian,Pedestrian,Driver Impairment
+AID0950,18-05-2022,F,PB,Moderate,Rain,Loc162,1423,Daylight,Car,Model34,1838,F,52,14,Serious,60,M,Middle,Cyclist,Pedestrian,Driver Impairment
+AID0951,10-01-2022,T,WB,Minor,Fog,Loc119,730,Daylight,Car,Model43,1995,M,67,3,Serious,2,F,Upper,Car Passenger,Passenger,Driver Impairment
+AID0952,23-11-2022,F,SK,Severe,Clear,Loc138,947,Twilight,Motorcycle,Model17,2809,F,69,0,Slight,6,M,Middle,Cyclist,Passenger,Driver Impairment
+AID0953,30-05-2022,S,MP,Severe,Fog,Loc10,1635,Daylight,Car,Model35,1929,M,62,19,Slight,20,M,Working,Car Passenger,Pedestrian,Driver Impairment
+AID0954,09-07-2022,T,MZ,Severe,Fog,Loc12,2122,Night,Truck,Model34,2923,M,51,11,Fatal,66,M,Middle,Car Passenger,Pedestrian,Driver Impairment
+AID0955,07-02-2022,T,KL,Severe,Storm,Loc127,1249,Twilight,Motorcycle,Model35,2459,M,42,16,Slight,26,F,Upper,Car Passenger,Pedestrian,Driver Impairment
+AID0956,08-09-2023,T,MN,Minor,Rain,Loc187,1507,Night,Bus,Model25,1661,M,51,14,Serious,13,M,Middle,Cyclist,Passenger,Driver Impairment
+AID0957,19-12-2022,F,AS,Severe,Clear,Loc142,1643,Twilight,Motorcycle,Model25,1431,F,33,15,Serious,62,M,Middle,Car Passenger,Passenger,Driver Impairment
+AID0958,31-03-2022,M,WB,Moderate,Storm,Loc5,826,Night,Car,Model48,1733,M,35,7,Slight,80,M,Upper,Car Passenger,Pedestrian,Driver Impairment
+AID0959,01-07-2022,M,AS,Severe,Snow,Loc192,1604,Night,Motorcycle,Model13,1037,F,40,10,Fatal,56,F,Middle,Cyclist,Pedestrian,Driver Impairment
+AID0960,11-04-2022,T,HR,Minor,Rain,Loc81,1340,Twilight,Truck,Model43,2329,M,44,4,Serious,31,F,Upper,Motorcyclist,Pedestrian,Driver Impairment
+AID0961,18-08-2023,T,ML,Severe,Clear,Loc13,1315,Daylight,Car,Model11,1467,M,55,8,Fatal,18,M,Working,Car Passenger,Passenger,Driver Impairment
+AID0962,04-02-2022,M,AS,Moderate,Snow,Loc58,1112,Night,Motorcycle,Model32,2993,F,24,10,Fatal,10,M,Working,Pedestrian,Pedestrian,Driver Impairment
+AID0963,15-04-2023,T,KA,Minor,Fog,Loc45,2100,Twilight,Car,Model44,1825,M,44,4,Serious,57,M,Upper,Motorcyclist,Pedestrian,Driver Impairment
+AID0964,11-03-2022,S,UP,Severe,Clear,Loc8,1607,Night,Motorcycle,Model36,1137,F,54,10,Slight,25,F,Upper,Cyclist,Passenger,Driver Impairment
+AID0965,03-03-2022,S,TN,Minor,Clear,Loc98,1037,Night,Motorcycle,Model13,1891,M,27,0,Slight,48,M,Upper,Cyclist,Pedestrian,Driver Impairment
+AID0966,19-08-2022,M,ML,Moderate,Clear,Loc172,236,Daylight,Bus,Model31,2386,M,52,17,Serious,36,F,Upper,Cyclist,Pedestrian,Driver Impairment
+AID0967,26-03-2022,S,MH,Severe,Fog,Loc171,1937,Night,Car,Model35,2131,F,62,7,Slight,55,F,Working,Pedestrian,Pedestrian,Driver Impairment
+AID0968,17-03-2022,M,AP,Minor,Fog,Loc57,31,Night,Truck,Model7,2488,F,59,3,Slight,74,M,Middle,Motorcyclist,Passenger,Driver Impairment
+AID0969,15-10-2023,S,HP,Severe,Clear,Loc141,2246,Night,Motorcycle,Model3,1117,M,53,16,Slight,54,F,Working,Car Passenger,Passenger,Overspeeding
+AID0970,18-06-2023,S,KL,Moderate,Fog,Loc156,855,Twilight,Bus,Model38,948,F,64,2,Fatal,75,M,Middle,Pedestrian,Pedestrian,Overspeeding
+AID0971,02-08-2022,T,UP,Moderate,Rain,Loc174,1029,Night,Car,Model23,1381,F,37,2,Serious,29,M,Middle,Car Passenger,Pedestrian,Overspeeding
+AID0972,26-10-2022,M,GJ,Minor,Fog,Loc85,7,Night,Truck,Model34,1178,F,56,13,Slight,34,F,Working,Cyclist,Passenger,Overspeeding
+AID0973,19-03-2023,W,AR,Minor,Rain,Loc72,709,Daylight,Motorcycle,Model40,1694,M,53,17,Serious,45,F,Middle,Motorcyclist,Passenger,Overspeeding
+AID0974,13-08-2023,S,TN,Severe,Rain,Loc76,54,Night,Bus,Model13,2997,F,43,13,Serious,56,M,Working,Pedestrian,Pedestrian,Overspeeding
+AID0975,08-05-2022,W,UK,Severe,Clear,Loc156,640,Twilight,Bus,Model37,1037,F,68,12,Serious,38,F,Upper,Cyclist,Passenger,Overspeeding
+AID0976,05-08-2022,F,KA,Minor,Storm,Loc26,350,Night,Truck,Model32,1889,M,34,3,Fatal,30,M,Working,Motorcyclist,Pedestrian,Overspeeding
+AID0977,08-02-2022,W,JH,Moderate,Storm,Loc107,445,Night,Truck,Model15,983,F,20,20,Serious,5,M,Upper,Cyclist,Passenger,Overspeeding
+AID0978,19-03-2022,T,HP,Moderate,Snow,Loc140,627,Daylight,Bus,Model14,863,F,60,18,Slight,43,F,Middle,Cyclist,Passenger,Overspeeding
+AID0979,29-04-2023,F,UK,Minor,Snow,Loc57,2022,Night,Car,Model20,1068,M,38,10,Slight,72,M,Middle,Cyclist,Passenger,Overspeeding
+AID0980,10-04-2023,S,GJ,Moderate,Rain,Loc126,237,Twilight,Truck,Model39,1677,M,38,15,Serious,46,M,Middle,Motorcyclist,Pedestrian,Overspeeding
+AID0981,04-05-2022,F,AS,Severe,Storm,Loc172,142,Night,Motorcycle,Model25,1891,F,31,16,Fatal,41,M,Upper,Car Passenger,Pedestrian,Overspeeding
+AID0982,16-04-2023,T,GJ,Minor,Rain,Loc198,814,Twilight,Truck,Model7,1929,F,44,8,Slight,22,F,Middle,Car Passenger,Passenger,Overspeeding
+AID0983,10-05-2023,T,MN,Minor,Clear,Loc62,1127,Daylight,Bus,Model25,1021,M,69,17,Fatal,36,F,Middle,Pedestrian,Passenger,Overspeeding
+AID0984,03-09-2023,S,WB,Moderate,Snow,Loc125,933,Twilight,Motorcycle,Model44,1977,M,23,8,Serious,32,F,Middle,Car Passenger,Pedestrian,Overspeeding
+AID0985,25-11-2022,S,HR,Severe,Clear,Loc180,2151,Twilight,Truck,Model2,1307,F,30,4,Serious,70,F,Working,Pedestrian,Passenger,Overspeeding
+AID0986,03-04-2022,T,RJ,Severe,Rain,Loc179,919,Night,Motorcycle,Model21,2355,M,38,10,Slight,7,M,Working,Pedestrian,Passenger,Overspeeding
+AID0987,04-09-2023,S,WB,Minor,Fog,Loc120,920,Twilight,Truck,Model37,1433,M,26,0,Serious,40,M,Upper,Cyclist,Pedestrian,Overspeeding
+AID0988,05-10-2022,M,AR,Severe,Fog,Loc89,6,Night,Truck,Model16,2529,M,47,8,Serious,9,F,Middle,Pedestrian,Pedestrian,Overspeeding
+AID0989,09-03-2022,S,RJ,Moderate,Snow,Loc128,1634,Night,Motorcycle,Model4,1730,F,30,9,Fatal,33,M,Upper,Car Passenger,Pedestrian,Overspeeding
+AID0990,08-03-2023,S,TN,Severe,Clear,Loc22,1014,Twilight,Bus,Model22,1155,F,44,2,Slight,37,F,Middle,Cyclist,Pedestrian,Overspeeding
+AID0991,09-10-2023,T,SK,Minor,Fog,Loc63,447,Daylight,Motorcycle,Model32,1621,F,70,17,Serious,70,F,Working,Car Passenger,Passenger,Overspeeding
+AID0992,05-12-2022,T,KL,Severe,Rain,Loc99,410,Twilight,Car,Model8,1237,F,55,2,Fatal,31,F,Upper,Motorcyclist,Pedestrian,Overspeeding
+AID0993,22-09-2022,S,TR,Severe,Fog,Loc105,1940,Night,Truck,Model29,1838,M,20,16,Fatal,64,F,Upper,Pedestrian,Passenger,Overspeeding
+AID0994,31-03-2023,T,AR,Severe,Rain,Loc101,1333,Daylight,Truck,Model22,2677,F,39,19,Serious,36,F,Upper,Cyclist,Passenger,Overspeeding
+AID0995,02-06-2022,T,ML,Moderate,Snow,Loc69,1208,Twilight,Truck,Model5,2670,M,18,8,Fatal,64,M,Middle,Pedestrian,Passenger,Overspeeding
+AID0996,27-07-2022,T,ML,Minor,Rain,Loc115,849,Daylight,Motorcycle,Model15,1890,M,57,19,Slight,71,F,Working,Cyclist,Passenger,Overspeeding
+AID0997,31-07-2022,T,MZ,Severe,Clear,Loc52,417,Night,Car,Model9,1459,F,42,7,Serious,69,F,Middle,Pedestrian,Passenger,Overspeeding
+AID0998,05-06-2023,S,UP,Moderate,Snow,Loc153,734,Twilight,Truck,Model45,1285,M,50,8,Fatal,4,M,Working,Cyclist,Passenger,Overspeeding
+AID0999,20-12-2023,T,BR,Minor,Fog,Loc125,1622,Twilight,Car,Model46,1282,M,63,0,Slight,66,M,Upper,Pedestrian,Pedestrian,Overspeeding
+AID1000,23-04-2022,W,SK,Severe,Fog,Loc19,1519,Twilight,Bus,Model38,2620,M,41,7,Slight,74,F,Middle,Pedestrian,Passenger,Overspeeding
